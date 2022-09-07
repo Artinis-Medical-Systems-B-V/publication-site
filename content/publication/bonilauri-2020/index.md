@@ -1,0 +1,59 @@
+---
+abstract: 'Background: The management of people affected by age-related neurological
+  disorders requires the adoption of targeted and cost-effective interventions to
+  cope with chronicity. Therapy adaptation and rehabilitation represent major targets
+  requiring long-term follow-up of neurodegeneration or, conversely, the promotion
+  of neuroplasticity mechanisms. However, affordable and reliable neurophysiological
+  correlates of cerebral activity to be used throughout treatment stages are often
+  lacking. The aim of this systematic review is to highlight actual applications of
+  functional Near-Infrared Spectroscopy (fNIRS) as a versatile optical neuroimaging
+  technology for investigating cortical hemodynamic activity in the most common chronic
+  neurological conditions. Methods: We reviewed studies investigating fNIRS applications
+  in Parkinson''s Disease (PD), Alzheimer''s Disease (AD) and Mild Cognitive Impairment
+  (MCI) as those focusing on motor and cognitive impairment in ageing and Multiple
+  Sclerosis (MS) as the most common chronic neurological disease in young adults.
+  The literature search was conducted on NCBI PubMed and Web of Science databases
+  by PRISMA guidelines. Results: We identified a total of 63 peer-reviewed articles.
+  The AD spectrum is the most investigated pathology with 40 articles ranging from
+  the traditional monitoring of tissue oxygenation to the analysis of functional resting-state
+  conditions or cognitive functions by means of memory and verbal fluency tasks. Conversely,
+  applications in PD (12 articles) and MS (11 articles) are mainly focused on the
+  characterization of motor functions and their association with dual-task conditions.
+  The most investigated cortical area is the prefrontal cortex, since reported to
+  play an important role in age-related compensatory mechanism and neurofunctional
+  changes associated to these chronic neurological conditions. Interestingly, only
+  9 articles applied a longitudinal approach. Conclusion: The results indicate that
+  fNIRS is mainly employed for the cross-sectional characterization of the clinical
+  phenotypes of these pathologies, whereas data on its utility for longitudinal monitoring
+  as surrogate biomarkers of disease progression and rehabilitation effects are promising
+  but still lacking.'
+authors:
+- Augusto Bonilauri
+- Francesca Sangiuliano Intra
+- Luigi Pugnetti
+- Giuseppe Baselli
+- Francesca Baglio
+categories:
+- OxyMon
+date: 2020-01-01
+doi: 10.3390/diagnostics10080581
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+- clinical-and-rehabilitation
+publication: '*Diagnostics*'
+publication_types:
+- '2'
+publishDate: 2021-03-05 16:32:21.178765+00:00
+tags:
+- Alzheimer's Disease
+- FNIRS
+- Mild Cognitive Impairment
+- Neuroimaging
+- Neurological disease
+- Neurovascular coupling
+- Parkinson's Disease
+title: "A Systematic Review of Cerebral Functional Near-Infrared Spectroscopy in Chronic\
+  \ Neurological Diseases\u2014Actual Applications and Future Perspectives"
+
+---

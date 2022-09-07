@@ -1,0 +1,12 @@
+---
+title: "The Effects of High-Intensity Interval Exercise on Skeletal Muscle and Cerebral Oxygenation during Cycling and Isokinetic Concentric and Eccentric Exercise"
+date: 2021-07-01
+publishDate: 2021-08-26T09:55:10.431577Z
+authors: ["Panagiotis A. Perentis", "Evgenia D. Cherouveim", "Vassiliki J. Malliou", "Nikos V. Margaritelis", "Panagiotis N. Chatzinikolaou", "Panayiotis Koulouvaris", "Charilaos Tsolakis", "Michalis G. Nikolaidis", "Nickos D. Geladas", "Vassilis Paschalis"]
+publication_types: ["2"]
+abstract: "The aim of the present study was to study the effects of cycling and pure concentric and pure eccentric high-intensity interval exercise (HIIE) on skeletal muscle (i.e., vastus lateralis) and cerebral oxygenation. Twelve healthy males (n = 12, age 26 ± 1 yr, body mass 78 ± 2 kg, height 176 ± 2 cm, body fat 17 ± 1% of body mass) performed, in a random order, cycling exercise and isokinetic concentric and eccentric exercise. The isokinetic exercises were performed on each randomly selected leg. The muscle and the cerebral oxygenation were assessed by measuring oxyhemoglobin, deoxyhemoglobin, total hemoglobin, and tissue saturation index. During the cycling exercise, participants performed seven sets of seven seconds maximal intensity using a load equal to 7.5% of their body mass while, during isokinetic concentric and eccentric exercise, they were performed seven sets of five maximal muscle contractions. In all conditions, a 15 s rest was adopted between sets. The cycling HIIE caused greater fatigue (i.e., greater decline in fatigue index) compared to pure concentric and pure eccentric isokinetic exercise. Muscle oxygenation was significantly reduced during HIIE in the three exercise modes, with no difference between them. Cerebral oxygenation was affected only marginally during cycling exercise, while no difference was observed between conditions. It is concluded that a greater volume of either concentric or eccentric isokinetic maximal intensity exercise is needed to cause exhaustion which, in turn, may cause greater alterations in skeletal muscle and cerebral oxygenation."
+featured: false
+publication: "*Journal of Functional Morphology and Kinesiology*"
+doi: "10.3390/jfmk6030062"
+---
+

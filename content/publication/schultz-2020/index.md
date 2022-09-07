@@ -1,0 +1,58 @@
+---
+abstract: "Context: Musculoskeletal neck and shoulder pain is a prevalent condition\
+  \ with nearly two-thirds of the population experiencing it sometime in their lifespan;\
+  \ factors may include activity level, sex, stress, and postural deficits. The treatment\
+  \ varies, but recent focus is on complementary and alternative medicine. Cupping\
+  \ therapy is a type of alternative medicine that involves a cup placed on the skin\
+  \ secured by suction for an unspecified amount of time. This therapy has been around\
+  \ for thousands of years, but there is much speculation around its true mechanisms\
+  \ on the human body; theories indicate that cupping therapy has an effect on blood\
+  \ flow, inflammation, and pain. Additionally, there has not been pre-defined parameters\
+  \ for the treatment of musculoskeletal pain conditions. Objective: The purpose of\
+  \ this study was to examine if different dry cupping treatment times altered changes\
+  \ in superficial and deep subcutaneous tissue hemodynamics. Design: Single-blinded,\
+  \ randomized crossover study Setting: Athletic Training Laboratory Participants:\
+  \ Thirty-two participants volunteered for this study. Participants were included\
+  \ if they were healthy individuals with non-specific neck pain. Participants were\
+  \ excluded if they had cupping therapy or any treatment performed within the past\
+  \ three months to the neck or shoulder area; history of head, neck, or shoulder\
+  \ injury within the past six months resulting in medical care; known blood clotting\
+  \ disorder; allergy to lubricant; or the following medical conditions: hypertension,\
+  \ diabetes, cancer, pregnancy, cardiac failure, renal failure, allergic purpura,\
+  \ hernia, psoriasis, eczema, rosacea, varicose veins, phlebitis, hepatocirrhosis,\
+  \ allergic dermatitis, sunburn, open wound, fever, or were taking anticoagulants.\
+  \ Interventions: Dry cupping therapy for 5, 7.5, and 10 minutes. Participants were\
+  \ randomly assigned to an intervention group using block randomization. Outcome\
+  \ Measures: Subcutaneous hemodynamics (superficial and deep oxygenated, deoxygenated,\
+  \ and total hemoglobin) were collected and exported using the Near Infrared Spectroscopy\
+  \ (NIRS) Portamon. Change scores were calculated between baseline and immediate\
+  \ post-intervention, immediate and 10 minutes post-intervention, and baseline and\
+  \ 10 minutes post-intervention measurements. Statistical analyses were completed\
+  \ using repeated measures ANOVAs to compare changes in subcutaneous hemodynamics\
+  \ following different treatment times (5, 7.5, and 10 minutes). Results: There was\
+  \ a main effect for superficial and deep oxygenated, deoxygenated, and total hemoglobin\
+  \ (p \u2264 0.001). Post hoc analyses revealed that all treatment times increased\
+  \ hemoglobin levels immediately after intervention and maintained this increase\
+  \ over the 10- minute period for oxygenated and total hemoglobin levels. Conclusions:\
+  \ Dry cupping therapy increases deep and superficial oxygenated, deoxygenated, and\
+  \ total hemoglobin levels at treatment times of 5, 7.5, and 10 minutes. This indicates\
+  \ that clinicians may be able to apply cupping therapy for a shorter period of time\
+  \ and maintain a significant increase in blood flow at the upper trapezius."
+authors:
+- Emily Schultz
+categories:
+- PortaMon
+date: 2020-04-01
+doi: 10.30707/ETD2020.Schultz.E
+featured: false
+projects: []
+publication: ''
+publication_types:
+- '0'
+publishDate: 2021-03-05 16:32:20.650786+00:00
+tags: []
+title: The Optimal Treatment Time Of Dry Cupping Therapy To Induce Changes In Local
+  Blood Flow At The Upper Trapezius
+url_pdf: https://ir.library.illinoisstate.edu/etd/1241
+
+---

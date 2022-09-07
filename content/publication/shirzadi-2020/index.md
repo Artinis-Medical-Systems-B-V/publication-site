@@ -1,0 +1,59 @@
+---
+abstract: Working memory is regarded as a cognitive system with limited capacity,
+  which is responsible for saving, manipulating, and remembering online information.
+  The cognitive functions of the brain, such as language, understanding, planning,
+  reasoning, and problem-solving, need working memory. Based on the previous studies,
+  working memory is considered as a central function of frontal brain lobe. Among
+  several protocols on assessing working memory function, the n-back task is regarded
+  as one of the most common ones in the functional imaging studies of working memory.
+  Functional near-infrared spectroscopy (fNIRS) is an optical imaging method for evaluating
+  brain function, which measures nervous activities and hemodynamic response in the
+  cerebral cortex. The present study aimed to assess functional connectivity in frontal
+  brain lobe during conducting dual n-back task at three levels of memory loading
+  (n = 0, 1, 2) by using fNIRS signals. The statistical population included 29 healthy
+  volunteers, among which 11 and 18 ones were left- and right-handed, respectively.
+  They performed a dual n-back task, and the change in the concentrations of Hb and
+  HbO2 was measured by using 24 fNIRS channels existing in the frontal lobe. The matrix
+  of functional connectivity was extracted and evaluated by using partial correlation
+  criterion for all participants and each of right- and left-handed groups at every
+  level of memory loading separately. The statistical analyses of Hb and HbO2 signals
+  (p < 0.05) in each group represented the presence of a bilateral connection between
+  two hemispheres and local connection ones between different areas in each hemisphere
+  with more connectivity in the right hemisphere of the frontal cerebral cortex during
+  conducting the dual n-back task. Based on the comparison of the results related
+  to left- and right-handed groups, a difference was observed between their functional
+  connectivity in some areas, as well as the number of connectivity between various
+  areas. Right-handed participants more utilized the lateralization of the right hemisphere
+  to perform task compared to left-handed did, while left-handed ones represented
+  the decrease in lateralizing or distributing bilaterally in hemispheres, by indicating
+  the difference between some of the brain connectivity were different in these participants
+  by considering the dominance of one of the hemispheres in each of these two groups.
+  In general, the results of the present study demonstrated that fNIRS data is considered
+  as appropriate for assessing the functional connectivity between the different areas
+  of the frontal cerebral cortex during conducting the working memory-related tasks.
+authors:
+- Sima Shirzadi
+- Zahra Einalou
+- Mehrdad Dadgostar
+categories:
+- OxyMon
+date: 2020-11-01
+doi: 10.1016/j.ijleo.2020.165347
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+publication: '*Optik*'
+publication_types:
+- '2'
+publishDate: 2021-03-05 16:32:21.122765+00:00
+tags:
+- Dual n-back task
+- Functional connectivity
+- Partial correlation
+- Working memory
+- fNIRS
+title: Investigation of Functional Connectivity During Working Memory Task and Hemispheric
+  Lateralization in Left- and Right- Handers Measured by fNIRS
+url_pdf: https://doi.org/10.1016/j.ijleo.2020.165347
+
+---

@@ -1,0 +1,13 @@
+---
+title: "Muscle dysfunction and walking impairment in women with multiple sclerosis"
+date: 2019-01-01
+publishDate: 2021-03-05T16:32:20.912766Z
+authors: ["Thomas B Willingham", "Deborah Backus", "Kevin K Mccully"]
+publication_types: ["2"]
+abstract: "Background: Recent evidence suggests that skeletal muscle dysfunction is involved in disability progression in people with multiple sclerosis (MS). However, the relationship between muscle dysfunction and walking impairments in MS remains unclear. Thus, the cross-sectional relationships between musclespecific oxidative capacity and walking endurance in women with MS were evaluated. Methods: Twenty women with MS (11 African American, 9 white) were tested. Muscle oxidative capacity of the medial gastrocnemius was measured using near-infrared spectroscopy after electrical stimulation. Muscle endurance was evaluated using accelerometer-based mechanomyography during electrical stimulation. Muscle strength was measured during maximal voluntary plantarflexion using handheld dynamometry. Walking function was measured using the Timed 25-Foot Walk test and the 6-Minute Walk Test (6MWT). Results: Reduced muscle oxidative capacity (R2 = 0.68-0.71, P <.01) and muscle endurance (R2 = 0.59-0.78, P <.01) were associated with lower Timed 25-Foot Walk time and 6MWT distance. Muscle strength was weakly correlated to 6MWT distance (R2 = 0.21, P =.02). No differences in muscle function or clinical outcome measures were found between African American and white subgroups. Women with moderate-to-severe disability (Expanded Disability Status Scale [EDSS] score, 5.0-6.5) had significantly reduced muscle oxidative capacity, muscle endurance, and walking ability compared with women with mild disability (EDSS score, 2.5-4.5). Conclusions: Reductions in muscle function in people with MS are related to declines in walking function across all levels of disability. Muscle dysfunction is not differentially related to walking impairment in African American and white women with MS."
+featured: false
+publication: "*International Journal of MS Care*"
+doi: "10.7224/1537-2073.2018-020"
+
+
+---

@@ -1,0 +1,39 @@
+---
+abstract: We investigated prefrontal cortex (PFC) hemodynamic response, through functional
+  near infrared spectroscopy (fNIRS) during executive function (EF) processing in
+  response to acute high intensity intermittent exercise (HIIE) in young adults. We
+  also assessed the associated sex differences in the cognitive scores and related
+  PFC hemodynamic functions in response to HIIE. 49 young healthy adult participants
+  (32 women, 17 men) were randomly assigned to either control or HIIE intervention
+  groups. HIIE group participants performed 4 × 4 minutes of HIIE on cycle ergometer
+  with 3 minutes of active recovery between the bouts; control group relaxed for the
+  time equivalent to intervention. fNIRS data was collected during the performance
+  of the EF tests including Color Word Stroop Test (CWST) and Trail Making Test (TMT)
+  in pre and post sessions in both the groups. Results indicated a significant change
+  in the hemodynamic response in the form of increased oxygenated and decreased deoxygenated
+  hemoglobin in the PFC areas specific to the EF tasks, with improved CWST and TMT
+  scores in response to HIIE intervention. PFC activation was different in men and
+  women in response to HIIE, however similar scores of task performance were observed
+  in men and women during the performance of executive functions in response to HIIE.
+  The study concludes that an acute HIIE session improves executive function which
+  is associated with an increase activation of PFC. Sex differences exist in the activation
+  of PFC in response to HIIE during EF processing. Our study adds to the current evidence
+  regarding exercise and cognition.
+authors:
+- Prachi Khandekar
+- Shweta Shenoy
+- Abhinav Sathe
+categories: []
+date: '2022-05-17'
+doi: 10.1080/00221309.2022.2048785
+featured: false
+projects: []
+publication: '*The Journal of General Psychology*'
+publication_types:
+- '2'
+publishDate: 2022-03-22 14:44:37.631764+00:00
+tags: []
+title: Prefrontal cortex hemodynamic response to acute high intensity intermittent
+  exercise during executive function processing
+
+---

@@ -1,0 +1,49 @@
+---
+abstract: "Introduction: Cholinergic dysfunction contributes to mobility deficits\
+  \ in Parkinson's disease (PD). People with PD rely on limited prefrontal executive-attentional\
+  \ resources for the control of locomotion, including turning. Cortical and behavioral\
+  \ responses to cholinergic augmentation during turning remains unclear. We examined\
+  \ prefrontal cortex (PFC) activity while turning-in-place and spatiotemporal measures\
+  \ of turns in response to usual dopaminergic medication and adjunct cholinergic\
+  \ augmentation. Methods: This study consisted of a single-site, randomized, double-blind\
+  \ crossover trial. Twenty PD participants were assessed in the levodopa-off state\
+  \ and then randomized to either levodopa + donepezil (5 mg) or levodopa + placebo\
+  \ treatments for two weeks followed by a 2-week washout before crossover. The primary\
+  \ outcome was change from off state in PFC activity while turning-in-place (assessed\
+  \ with functional near-infrared spectroscopy). Secondary outcomes were changes in\
+  \ spatiotemporal turning measures (assessed with body-worn inertial measurement\
+  \ units) and accuracy in the secondary task. Results: Nineteen participants completed\
+  \ the trial. While levodopa + placebo had no effect on PFC activity when turning-in-place\
+  \ with a dual-task, levodopa + donepezil led to a large reduction in PFC activity\
+  \ (effect size, \u22120.82). Spatiotemporal measures of turning improved with both\
+  \ treatments, with slightly greater effect sizes observed for levodopa + donepezil.\
+  \ Additionally, the accuracy in the concurrent cognitive task improved only with\
+  \ levodopa + donepezil (effect size, 0.63). Conclusion: The addition of cholinergic\
+  \ therapy with donepezil (5 mg/day for 2 weeks) to standard dopaminergic therapy\
+  \ reduced the burden on prefrontal executive-attentional resources while turning\
+  \ with a dual-task and improved secondary task accuracy and turning."
+authors:
+- Rodrigo Vitorio
+- Samuel Stuart
+- Andrew Giritharan
+- Joseph Quinn
+- John G Nutt
+- Martina Mancini
+categories:
+- octamon
+date: '2021-04-28'
+doi: 10.1016/j.parkreldis.2021.03.014
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+- clinical-and-rehabilitation
+publication: '*Parkinsonism and Related Disorders*'
+publication_types:
+- '2'
+publishDate: 2021-04-28 13:20:40.009676+00:00
+tags: []
+title: 'Changes in prefrontal cortical activity and turning in response to dopaminergic
+  and cholinergic therapy in Parkinson''s disease: A randomized cross-over trial'
+url_pdf: https://doi.org/10.1016/j.parkreldis.2021.03.014
+
+---

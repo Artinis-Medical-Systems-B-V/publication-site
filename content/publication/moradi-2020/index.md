@@ -1,0 +1,46 @@
+---
+abstract: Functional near-infrared spectroscopy (fNIRS) is an emerging neuro-imaging
+  modality that can indicate cortical functionality with good temporal resolution
+  (0.5-1 sec). Unlike fMRI, up to now, there is no standard method and a whole package
+  that can perform signal processing and data analysis for fNIRS dataset. This thesis
+  is focused on developing a Graphical User Interface (GUI) model in MATLAB that can
+  perform both signal and data analysis for data collected by mobile fNIRS devices
+  either in offline or online mode. It can remove motion artifacts using detrending
+  methods and performs Band Pass Filtering using the low-and high-pass cutoff frequencies
+  of 0.6 and 0.01 Hz, respectively and check the quality of signal in term of Signal
+  to Noise Ratio (SNR). The filtered fNIRS signals were then sent to a General Linear
+  Model (GLM) to estimate the linear model parameters. T-statistical values have been
+  calculated and unrelated values have been further removed prior to obtaining results
+  in terms of evoked related potentials, 2D and 3D head projections. In this thesis,
+  signal processing and data analysis have assessed in the proposed GUI through the
+  data of four participants [three males, age of 22, 24, 28 and, one female, age of
+  19] collected from two different fNIRS systems. Results for both systems verified
+  when signal is de-trended using Discrete Cosine Transform (DCT) and it is filtered
+  using a BPF order 4, cutoff frequencies of 0.01 to 0.6 Hz) the SNR value of 6.99
+  dB from ARTINIS system was achieved. Brain mapping results are shown with both hand
+  motor imagery, the subjects consumed more hemoglobin in their both hemispheres.
+  To localize each optode position, more accurately and complicated methods like 3D
+  digitizer can be replaced with 10-20 standard system. With advantages such as hazard-free
+  application, motion artifact robustness and the possibility to miniaturize hardware,
+  fNIRS may enable new applications in the BCI context, in clinical tools and diagnosis
+  and further contribute to new insights in brain research and neuroscience.
+authors:
+- Mousa Moradi
+categories:
+- OctaMon
+- OxyMon
+date: 2020-01-01
+featured: false
+projects:
+- brain-computer-interfaces
+- brain-fnirs-prefrontal-cortex
+publication: ''
+publication_types:
+- '0'
+publishDate: 2021-03-05 16:32:20.921767+00:00
+tags: []
+title: DESIGN AND EVALUATION OF A GUI FOR SIGNAL AND DATA ANALYSIS OF MOBILE FUNCTIONAL
+  NEAR-INFRARED SPECTROSCOPY SYSTEMS A Thesis by
+url_pdf: https://soar.wichita.edu/handle/10057/18988
+
+---

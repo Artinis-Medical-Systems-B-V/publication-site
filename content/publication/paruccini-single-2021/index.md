@@ -1,0 +1,12 @@
+---
+title: "A single phantom, a single statistical method for low-contrast detectability assessment"
+date: 2021-11-01
+publishDate: 2021-12-15T14:41:49.289086Z
+authors: ["Nicoletta Paruccini", "Raffaele Villa", "Nadia Oberhofer", "Alessandro Loria", "Michele Signoriello", "Carlo Giordano", "Raffaella Soavi", "Paola Colombo", "Cristina De Mattia", "Federica Rottoli", "Stefania Nici", "Daniela Origgi", "Francesca Emiro", "Loredana D'Ercole", "Laura Mantovani", "Monica Cavallari", "Mariagrazia Quattrocchi", "Francesca Pietrobon", "Paola Bregant", "Lucia Riccardi", "Anna Radice", "Felicita Luraschi", "Lisa Milan", "Paola Nocera", "Sabina Strocchi", "Luisa Pierotti", "Adriana Taddeucci", "Giorgia Guerra", "Marco Felisi", "Stefano Riga", "Annalisa Trianni"]
+publication_types: ["2"]
+abstract: "Purpose The assessment of low-contrast-details is a part of the quality control (QC) program in digital radiology. It generally consists of evaluating the threshold contrast (Cth) detectability details for different-sized inserts, appropriately located in dedicated QC test tools. This work aims to propose a simplified method, based on a statistical model approach for threshold contrast estimation, suitable for different modalities in digital radiology. Methods A home-made low-contrast phantom, made of a central aluminium insert with a step-wedge, was assembled and tested. The reliability and robustness of the method were investigated for Mammography, Digital Radiography, Fluoroscopy and Angiography. Images were analysed using our dedicated software developed on Matlab®. The Cth is expressed in the same unit (mmAl) for all studied modalities. Results This method allows the collection of Cth information from different modalities and equipment by different vendors, and it could be used to define typical values. Results are summarized in detail. For 0.5 diameter detail, Cth results are in the range of: 0.018–0.023 mmAl for 2D mammography and 0.26–0.34 mmAl DR images. For angiographic images, for 2.5 mm diameter detail, the Cth s median values are 0.55, 0.4, 0.06, 0.12 mmAl for low dose fluoroscopy, coronary fluorography, cerebral and abdominal DSA, respectively. Conclusions The statistical method proposed in this study gives a simple approach for Low-Contrast-Details assessment, and the typical values proposed can be implemented in a QA program for digital radiology modalities."
+featured: false
+publication: "*Physica Medica*"
+doi: "10.1016/j.ejmp.2021.10.007"
+---
+

@@ -1,0 +1,50 @@
+---
+abstract: BACKGROUND The long-term clinical and physiological consequences of COVID-19
+  infection remain unclear. While fatigue has emerged as a common symptom following
+  infection, little is known about its links with autonomic dysfunction. SARS-CoV-2
+  is known to infect endothelial cells in acute infection, resulting in autonomic
+  dysfunction. Here we set out to test the hypothesis that this results in persistent
+  autonomic dysfunction and is associated with post-COVID fatigue in convalescent
+  patients. METHODS We recruited 20 fatigued and 20 non-fatigued post-COVID patients
+  (median age 44.5 years, 36/40 (90%) female, median time to follow up 166.5 days).
+  Fatigue was assessed using the Chalder Fatigue Scale. These underwent the Ewing's
+  autonomic function test battery, including deep breathing, active standing, Valsalva
+  manoeuvre and cold-pressor testing, with continuous electrocardiogram and blood
+  pressure monitoring, as well as near-infrared spectroscopy-based cerebral oxygenation.
+  24-hour ambulatory blood pressure monitoring was also conducted, and patients completed
+  the generalised anxiety disorder-7 questionnaire. We assessed between-group differences
+  in autonomic function test results and used unadjusted and adjusted linear regression
+  to investigate the relationship between fatigue, anxiety, and autonomic test results.
+  RESULTS We found no pathological differences between fatigued and non-fatigued patients
+  on autonomic testing or on 24-hour blood pressure monitoring. Symptoms of orthostatic
+  intolerance were reported by 70% of the fatigued cohort at the time of active standing,
+  with no associated physiological abnormality detected. Fatigue was strongly associated
+  with increased anxiety (p <0.001), with no patients having a pre-existing diagnosis
+  of anxiety. CONCLUSIONS These results demonstrate the significant burden of fatigue,
+  symptoms of autonomic dysfunction and anxiety in the aftermath of COVID-19 infection,
+  but reassuringly do not demonstrate pathological findings on autonomic testing.
+authors:
+- Liam Townsend
+- David Moloney
+- Ciaran Finucane
+- Kevin McCarthy
+- Colm Bergin
+- Ciaran Bannan
+- Rose-Anne Kenny
+categories:
+- portalite
+date: 2021-01-01
+doi: 10.1371/journal.pone.0247280
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+- clinical-and-rehabilitation
+publication: '*PloS one*'
+publication_types:
+- '2'
+publishDate: 2021-03-05 16:32:21.356765+00:00
+tags: []
+title: Fatigue following COVID-19 infection is not associated with autonomic dysfunction.
+url_pdf: http://www.ncbi.nlm.nih.gov/pubmed/33630906
+
+---

@@ -1,0 +1,54 @@
+---
+abstract: Exercise intolerance, a hallmark of patients with heart failure (HF), is
+  associated with muscle weakness. However, its causative microcirculatory and muscle
+  characteristics among those with preserved or reduced ejection fraction (HFpEF or
+  HFrEF) phenotype is unclear. The musculoskeletal abnormalities that could result
+  in impaired peripheral microcirculation are sarcopenia and muscle strength reduction
+  in HF, implying lowered oxidative capacity and perfusion affect transport and oxygen
+  utilization during exercise, an essential task from the microvascular muscle function.
+  Besides that, skeletal muscle microcirculatory abnormalities have also been associated
+  with exercise intolerance in HF patients who also present skeletal muscle myopathy.
+  This cross-sectional study aimed to compare the muscle microcirculation dynamics
+  via near-infrared spectroscopy (NIRS) response during an isokinetic muscle strength
+  test and ultrasound-derived parameters (echo intensity was rectus femoris muscle,
+  while the muscle thickness parameter was measured on rectus femoris and quadriceps
+  femoris) in heart failure patients with HFpEF and HFrEF phenotypes and different
+  functional severities (Weber Class A, B, and C). Twenty-eight aged-matched patients
+  with HFpEF (n = 16) and HFrEF (n = 12) were assessed. We found phenotype differences
+  among those with Weber C severity, with HFrEF patients reaching lower oxyhemoglobin
+  (O2Hb, μM) (−10.9 ± 3.8 vs. −23.7 ± 5.7, p = 0.029) during exercise, while HFpEF
+  reached lower O2Hb during the recovery period (−3.0 ± 3.4 vs. 5.9 ± 2.8, p = 0.007).
+  HFpEF with Weber Class C also presented a higher echo intensity than HFrEF patients
+  (29.7 ± 8.4 vs. 15.1 ± 6.8, p = 0.017) among the ultrasound-derived variables. Our
+  preliminary study revealed more pronounced impairments in local microcirculatory
+  dynamics in HFpEF vs. HFrEF patients during a muscle strength exercise, combined
+  with muscle-skeletal abnormalities detected via ultrasound imaging, which may help
+  explain the commonly observed exercise intolerance in HFpEF patients.
+authors:
+- Amanda Vale-Lira
+- Natália Turri-Silva
+- Kenneth Verboven
+- João Luiz Quagliotti Durigan
+- Alexandra Corrêa G. B. de Lima
+- Martim Bottaro
+- Gaspar R. Chiappa
+- Dominique Hansen
+- Gerson Cipriano
+categories:
+- PortaMon
+date: '2022-01-26'
+doi: 10.3390/ijerph19020709
+featured: false
+projects:
+- clinical-and-rehabilitation
+- sports-science
+publication: '*International Journal of Environmental Research and Public Health*'
+publication_types:
+- '2'
+publishDate: 2022-01-26 12:07:41.661759+00:00
+tags: []
+title: 'Muscle-Skeletal Abnormalities and Muscle Oxygenation during Isokinetic Strength
+  Exercise in Heart Failure with Preserved Ejection Fraction Phenotype: A Cross-Sectional
+  Study'
+
+---

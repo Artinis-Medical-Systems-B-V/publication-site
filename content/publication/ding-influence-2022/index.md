@@ -1,0 +1,48 @@
+---
+abstract: The increasing hazards caused by construction and demolition (C&amp;D) waste
+  is an inevitable problem in the development of the construction industry. Many countries
+  have successively launched many policies to encourage and guide the recycling of
+  C&amp;D waste, which has greatly improved the recycling rate of C&amp;D waste. However,
+  most of these policies only regulate contractors but do not promote C&amp;D waste
+  recycling products enough. It has led to an increase in the production of C&amp;D
+  waste recycling products while the acceptance in the market is generally low. Consumers
+  believe that products made with “garbage” may have problems such as quality defects.
+  In order to explore a measure that can mitigate this problem, this study uses functional
+  near infrared spectroscopy (fNIRS) to investigate whether the influence of media
+  can increase consumers’ willingness to purchase products for recycling construction
+  and demolition waste, and thus increase consumers’ choice to purchase products for
+  C&amp;D recycling waste. This experiment consists of two phases. First, a pre-test
+  experiment to obtain pre-intervention brain images characterizing consumers’ original
+  attitudes toward C&amp;D recycling waste products through a functional near-infrared
+  imaging brain technique and a questionnaire. Second, The post-test builds on the
+  pre-test to investigate the effectiveness of the intervention. The activation mechanism
+  of the consumer purchase decision is further investigated by fNIRS data. The behavioral
+  results showed that the choice of recycled C&amp;D waste products was significantly
+  higher after the intervention. The fNIRS results further revealed the significantly
+  higher activation of the dorsolateral prefrontal cortex (dlPFC), orbitofrontal cortex
+  (OFC), and medial prefrontal cortex (mPFC) after the intervention. These findings
+  suggest that consumers’ purchase willingness is significantly improved after intervention,
+  and their purchase behavior changed substantially. This study also demonstrates
+  the great potential of fNIRS for interdisciplinary research in engineering management
+  and neuroscience.
+authors:
+- Zhikun Ding
+- Zhiyu Zhang
+- Weilin Chen
+categories:
+- Brite
+date: '2022-06-23'
+doi: 10.3389/fnins.2022.881537
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+publication: '*Frontiers in Neuroscience*'
+publication_types:
+- '2'
+publishDate: 2022-06-23 09:45:22.174427+00:00
+tags: []
+title: 'The Influence of Media in Purchasing Decisions for Recycled Construction and
+  Demolition Waste Products: An Functional Near Infrared Spectroscopy Study'
+url_pdf: https://www.frontiersin.org/articles/10.3389/fnins.2022.881537/full
+
+---

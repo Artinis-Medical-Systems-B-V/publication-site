@@ -1,0 +1,43 @@
+---
+abstract: "Recent studies have shown that muscle alterations cannot totally explain\
+  \ peripheral muscle weakness in COPD. Cerebral abnormalities in COPD are well documented\
+  \ but have never been implicated in muscle torque production. The purpose of this\
+  \ study was to assess the neural correlates of quadriceps torque control in COPD\
+  \ patients. Fifteen patients (FEV1 54.1\xB13.6% predicted) and 15 age- and sex-matched\
+  \ healthy controls performed maximal (MVCs) and submaximal (SVCs) voluntary contractions\
+  \ at 10, 30 and 50% of the maximal voluntary torque of the knee extensors. Neural\
+  \ activity was quantified with changes in functional near-infrared spectroscopy\
+  \ oxyhemoglobin (fNIRS-HbO) over the contralateral primary motor (M1), primary somatosensory\
+  \ (S1), premotor (PMC) and prefrontal (PFC) cortical areas. In parallel to the lower\
+  \ muscle torque, the COPD patients showed lower increase in HbO than healthy controls\
+  \ over the M1 (p<0.05), PMC (p<0.05) and PFC areas (p<0.01) during MVCs. In addition,\
+  \ they exhibited lower HbO changes over the M1 (p<0.01), S1 (p<0.05) and PMC (p<0.01)\
+  \ areas during SVCs at 50% of maximal torque and altered motor control characterized\
+  \ by higher torque fluctuations around the target. The results show that low muscle\
+  \ force production is found in a context of reduced motor cortex activity, which\
+  \ is consistent with central nervous system involvement in COPD muscle weakness.\
+  \ \xA9 2014 Alexandre et al."
+authors:
+- Francois Alexandre
+- Nelly Heraud
+- Nicolas Oliver
+- Alain Varray
+categories:
+- OxyMon
+date: 2014-06-01
+doi: 10.1371/journal.pone.0100961
+featured: false
+projects:
+- brain-fnirs-motor-cortex
+- brain-fnirs-prefrontal-cortex
+- clinical-and-rehabilitation
+publication: '*PLoS ONE*'
+publication_types:
+- '2'
+publishDate: 2021-03-05 16:32:20.654766+00:00
+tags: []
+title: Cortical implication in lower voluntary muscle force production in non-hypoxemic
+  COPD patients
+url_pdf: https://dx.plos.org/10.1371/journal.pone.0100961
+
+---

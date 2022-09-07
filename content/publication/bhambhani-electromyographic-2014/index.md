@@ -1,0 +1,53 @@
+---
+abstract: "This study examined the electromyographic, cerebral and muscle hemodynamic\
+  \ responses during intermittent isometric contractions of biceps brachii at 20,\
+  \ 40, and 60% of maximal voluntary contraction (MVC). Eleven volunteers completed\
+  \ 2 min of intermittent isometric contractions (12/min) at an elbow angle of 90\xB0\
+  \ interspersed with 3 min rest between intensities in systematic order. Surface\
+  \ electromyography (EMG) was recorded from the right biceps brachii and near infrared\
+  \ spectroscopy (NIRS) was used to simultaneously measure left prefrontal and right\
+  \ biceps brachii oxyhemoglobin (HbO2), deoxyhemoglobin (HHb), and total hemoglobin\
+  \ (Hbtot). Transcranial Doppler ultrasound was used to measure middle cerebral artery\
+  \ velocity (MCAv) bilaterally. Finger photoplethysmography was used to record beat-to-beat\
+  \ blood pressure and heart rate. EMG increased with force output from 20 to 60%\
+  \ MVC (P < 0.05). Cerebral HbO2 and Hbtot increased while HHb decreased during contractions\
+  \ with differences observed between 60% vs. 40% and 20% MVC (P < 0.05). Muscle HbO2\
+  \ decreased while HHb increased during contractions with differences being observed\
+  \ among intensities (P < 0.05). Muscle Hbtot increased from rest at 20% MVC (P <\
+  \ 0.05), while no further change was observed at 40 and 60% MVC (P > 0.05). MCAv\
+  \ increased from rest to exercise but was not different among intensities (P > 0.05).\
+  \ Force output correlated with the root mean square EMG and changes in muscle HbO2\
+  \ (P < 0.05), but not changes in cerebral HbO2 (P > 0.05) at all three intensities.\
+  \ Force output declined by 8% from the 1st to the 24th contraction only at 60% MVC\
+  \ and was accompanied by systematic increases in RMS, cerebral HbO2 and Hbtot with\
+  \ a leveling off in muscle HbO2 and Hbtot. These changes were independent of alterations\
+  \ in mean arterial pressure. Since cerebral blood flow and oxygenation were elevated\
+  \ at 60% MVC, we attribute the development of fatigue to reduced muscle oxygen availability\
+  \ rather than impaired central neuronal activation. \xA9 2014 Bhambhani, Fan, Place,\
+  \ Rodriguez-Falces and Kayser."
+authors:
+- Yagesh Bhambhani
+- Jui-Lin Fan
+- Nicolas Place
+- Javier Rodriguez-Falces
+- Bengt Kayser
+categories:
+- OxyMon
+date: 2014-06-01
+doi: 10.3389/fphys.2014.00190
+featured: false
+projects: []
+publication: '*Frontiers in Physiology*'
+publication_types:
+- '2'
+publishDate: 2021-03-05 16:32:21.032766+00:00
+tags:
+- Biceps force
+- Cerebral blood flow and oxygenation
+- Electromyography
+- Muscle blood flow and oxygenation
+title: Electromyographic, cerebral, and muscle hemodynamic responses during intermittent,
+  isometric contractions of the biceps brachii at three submaximal intensities
+url_pdf: http://journal.frontiersin.org/article/10.3389/fphys.2014.00190/abstract
+
+---

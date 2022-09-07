@@ -1,0 +1,45 @@
+---
+abstract: "Background: One of the most important conditions where there is loss of\
+  \ normal bladder function is spinal cord injury (SCI). Currently, evaluation of\
+  \ bladder function is limited to periodic invasive urodynamic testing (UDS). The\
+  \ purpose of this study was to assess the feasibility and usefulness of near-infrared\
+  \ spectroscopy (NIRS) in monitoring bladder function in patients with SCI during\
+  \ bladder filling and emptying and to investigate the correlations of NIRS measures\
+  \ with simultaneous UDS parameters. NIRS is a non-invasive optical method to study\
+  \ tissue oxygenation, hemodynamics and function by monitoring changes in the chromophore\
+  \ concentrations of oxygenated (O 2Hb), deoxygenated (HHb) and total hemoglobin\
+  \ (tHb). Methods: 10 adult paraplegic patients with neurogenic bladder dysfunction\
+  \ who were referred for regular urodynamic evaluation were recruited. Changes in\
+  \ O 2Hb, HHb and tHb, and tissue saturation index (TSI%) in the detrusor were monitored\
+  \ and recorded by a wireless NIRS system during the urodynamic evaluation. Time\
+  \ points of urgency and urinary leakage were marked and patterns of change in NIRS\
+  \ parameters were compared to standard urodynamic pressure tracings. Results: Strong\
+  \ consistency between changes in NIRS-derived tHb and changes in intravesical pressure\
+  \ were observed during filling across the subjects. During bladder filling a gradual\
+  \ increase in O 2Hb and tHb with minimal changes in HHb was observed. Interestingly,\
+  \ a drop in TSI% was detected seconds before strong urgency and urinary leakage.\
+  \ Conclusions: Our preliminary data suggest a relationship between noninvasive NIRS\
+  \ measures and UDS parameters during bladder filling in SCI patients. \xA9 2012\
+  \ SPIE."
+authors:
+- Babak Shadgan
+- Andrew J. Macnab
+- Mark Nigro
+- Lynn Stothers
+categories:
+- PortaMon
+date: 2012-02-01
+doi: 10.1117/12.906051
+featured: false
+projects:
+- urology
+publication: '*Photonic Therapeutics and Diagnostics VIII*'
+publication_types:
+- '1'
+publishDate: 2021-03-05 16:32:20.960765+00:00
+tags: []
+title: Monitoring of lower urinary tract function in patients with spinal cord injury
+  using near infrared spectroscopy
+url_pdf: http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.906051
+
+---

@@ -1,0 +1,67 @@
+---
+abstract: 'Background: Multiple sclerosis is a demyelinating disorder that impacts
+  mobility and function. The benefits of exercise on multiple sclerosis symptoms have
+  been demonstrated. Exercise is proven to increase cerebral blood flow, and improve
+  oxygen utilization which may potentially help in counteracting the hypometabolic
+  component of multiple sclerosis. However, barriers to exercise in people with multiple
+  sclerosis limits their participation in long term exercise. Purpose: The purpose
+  of this investigation was to determine the effects of a 7 consecutive day aquatic
+  aerobic exercise intervention on mobility, fitness, body composition, and self-efficacy.
+  A further purpose of this investigation was to determine the effects of the exercise
+  intervention on cerebral oxyhemoglobin, deoxyhemoglobin, and % tissue saturation
+  index (%TSI). Methods: Twenty-one individuals diagnosed with multiple sclerosis
+  were assigned to the exercise group or the non-exercise group. Both groups participated
+  in a pretest and post-test separated by 7 days. The pre/post-test anthropometric
+  measures included height, weight, BMI, hip and waist circumference measures. In
+  addition, blood pressure, mean arterial pressure, body temperature, and resting
+  heart rate were recorded. Mobility was assessed through the timed up and go test
+  (TUG) and the 25-foot walk test (T25-FW), and fitness was assessed through the 2-minute
+  step test. The Multiple Sclerosis Self-Efficacy questionnaire was used to assess
+  self-efficacy. Oxyhemoglobin, deoxyhemoglobin, total hemoglobin and % TSI were measured
+  using Near-Infrared Spectroscopy (NIRS). The non-exercise group was asked to maintain
+  their lifestyle during the 7 days between the pretest and post-test, while the exercise
+  group participated in 1 hour of aquatic aerobic exercise for each of the 7 days
+  between the pretest and post-test. Change scores were calculated for each variable
+  of the pretest and post-test and the non-exercise and exercise groups were compared
+  using independent samples t-tests for each of these scores. Results: Although there
+  were no statistically significant differences between the exercise and non-exercise
+  groups for mobility, fitness, body composition, self-efficacy, or cerebral oxygenation,
+  there were small clinically meaningful improvements. In mobility (T25-FW), 8/11
+  exercise participants improved while only 1/9 in the non-exercise group showed improvement.
+  Similar small improvements were demonstrated in the two minute step test used to
+  assess fitness. Cerebral oxygenation also showed improved blood flow through improved
+  oxyhemoglobin and total hemoglobin and improved oxygen utilization through the deoxyhemoglobin
+  response.  Conclusion: Seven consecutive days of moderate intensity exercise can
+  produce small clinically meaningful changes through improved mobility, fitness,
+  self-efficacy and cerebral oxygen utilization.'
+authors:
+- Jennifer Lee Petersen
+categories:
+- OxyMon
+date: 2015-01-01
+featured: false
+projects:
+- clinical-and-rehabilitation
+- sports-science
+publication: '*ProQuest Dissertations and Theses*'
+publication_types:
+- '0'
+publishDate: 2021-03-05 16:32:21.098766+00:00
+tags:
+- 0382:Physical therapy
+- 0575:Kinesiology
+- 0719:Physiology
+- Aquatic exercise
+- Biological sciences
+- Cerebral oxygenation
+- Health and environmental sciences
+- Kinesiology
+- Mobility
+- Multiple sclerosis
+- Near infrared spectroscopy
+- Physical therapy
+- Physiology
+title: Effects of brief aquatic exercise in multiple sclerosis on mobility and function
+url_pdf: http://search.proquest.com/docview/1754643156?accountid=14701%5Cnhttp://sfx.scholarsportal.info/ottawa?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&genre=dissertations+%26+theses&sid=ProQ:ProQuest+Dissertations+%26+Theses+Global&atitl
+
+---

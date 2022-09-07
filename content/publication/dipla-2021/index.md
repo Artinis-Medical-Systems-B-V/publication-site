@@ -1,0 +1,55 @@
+---
+abstract: "Background: In patients with idiopathic pulmonary fibrosis (IPF) with isolated\
+  \ exertional desaturation, there are limited data regarding the effectiveness of\
+  \ oxygen supplementation during exercise training; the underlying mechanisms that\
+  \ contribute to these responses are unknown. Objectives: To examine in these IPF\
+  \ patients the effects of oxygen supplementation during submaximal exercise (vs.\
+  \ medical air) on cerebral/skeletal muscle oxygenation and systemic hemodynamics.\
+  \ Methods: In this randomized, cross-over, placebo-controlled trial, IPF patients\
+  \ (n = 13; 63.4 \xB1 9.6 years) without resting hypoxemia but a significant desaturation\
+  \ during maximal cardiopulmonary exercise testing underwent 2 steady-state exercise\
+  \ trials (65% peak-work-load), breathing either oxygen-enriched or medical air.\
+  \ Cerebral/skeletal muscle oxygenation (near-infrared spectroscopy) and beat-by-beat\
+  \ hemodynamics (photoplethysmography) were monitored. Results: In the air protocol,\
+  \ from the initial minutes of submaximal exercise, patients exhibited a marked decline\
+  \ in cerebral oxygenated hemoglobin (O2Hb) and an abrupt rise in deoxygenated hemoglobin\
+  \ (HHb). Oxygen supplementation alleviated desaturation, lessened dyspnea, and prolonged\
+  \ exercise duration (p < 0.01). Oxygen supplementation during exercise (i) attenuated\
+  \ cerebral deoxygenation (cerebral-HHb: 0.7 \xB1 1.9 vs. 2.5 \xB1 1.5 $\u03BC$mol/L,\
+  \ O2 and air protocol; p = 0.009) and prevented cerebral-Hbdifference decline (2.1\
+  \ \xB1 2.7 vs. \u22121.7 \xB1 2.0 $\u03BC$mol/L; p = 0.001), (ii) lessened the decline\
+  \ in muscle O2-saturation index, and (iii) at isotime exercise, it resulted in lower\
+  \ muscle-HHb (p = 0.05) and less leg fatigue (p < 0.05). No differences between\
+  \ protocols were observed in exercise cardiac output and vascular resistance. Conclusions:\
+  \ IPF patients with isolated exertional hypoxemia exhibit an inability to increase/maintain\
+  \ cerebral oxygenation during submaximal exercise. Correcting desaturation with\
+  \ O2 supplementation prevented the decline in brain oxygenation, improved muscle\
+  \ oxygenation, and lessened dyspnea, suggesting an efficacy of acute oxygen supplementation\
+  \ during exercise training in protecting brain hypoxia in these IPF patients."
+authors:
+- Konstantina Dipla
+- Afroditi K. Boutou
+- Aikaterini Markopoulou
+- Georgia Pitsiou
+- Stavros Papadopoulos
+- Anastasia Chatzikosti
+- Ioannis Stanopoulos
+- Andreas Zafeiridis
+categories:
+- OxyMon
+date: '2021-04-28'
+doi: 10.1159/000514320
+featured: false
+projects:
+- clinical-and-rehabilitation
+- sports-science
+publication: '*Respiration*'
+publication_types:
+- '2'
+publishDate: 2021-04-28 13:20:40.011674+00:00
+tags: []
+title: 'Exertional Desaturation in Idiopathic Pulmonary Fibrosis: The Role of Oxygen
+  Supplementation in Modifying Cerebral-Skeletal Muscle Oxygenation and Systemic Hemodynamics'
+url_pdf: https://www.karger.com/Article/FullText/514320
+
+---

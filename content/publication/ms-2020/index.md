@@ -1,0 +1,48 @@
+---
+abstract: 'PURPOSE: This study examined the issue of history-dependence on muscle
+  excitation and oxygenation by using surface electromyography (EMG) and near-infrared
+  spectroscopy (NIRS). METHODS: Eight male participants performed isometric knee extension
+  force production tasks that started at four levels of initial force production (30,
+  40, 60, 70% of maximal voluntary contraction, MVC) and commonly converged to the
+  production of 50% of MVC by increasing or decreasing knee extension forces. We quantified
+  the integrated electromyogram (iEMG), total hemoglobin (tHb), and the desaturation
+  rate of muscle tissue (TSISLOPE) of the vastus lateralis and compared the differences
+  in the quantified variables between the experimental conditions. RESULTS: For the
+  four levels of initial forces production, all the variables showed significant linear
+  relationships with outcome forces. However, the magnitudes of the variables were
+  varied depending on the contraction history at the terminal phase where the identical
+  level of force production (50% of MVC) was required. At the terminal phase, the
+  iEMG was affected by the time history of both mode (e.g., increment or decrement)
+  and magnitude (e.g., 10% or 20% change of MVC), while the tHb and TSISLOPE showed
+  significant differences between the time history of mode only. CONCLUSIONS: The
+  main result of the current study demonstrates the history-dependence of the changes
+  in physiological demands in muscle activation. In particular, the indices of muscle
+  excitation and oxygenation at the same level of force were varied depending on the
+  time history of contraction, which implies the indices of muscle excitation and
+  oxygenation may not be invariant component to specify the levels of outcome forces.'
+authors:
+- Junkyung Song
+- Kitae Kim
+- Sungjun Lee
+- Jiseop Lee
+- Jaebum Park
+categories:
+- PortaMon
+date: 2020-11-01
+doi: 10.15857/KSEP.2020.29.4.385
+featured: false
+projects: []
+publication: '*Exercise Science*'
+publication_types:
+- '2'
+publishDate: 2021-03-05 16:32:20.814765+00:00
+tags:
+- Hysteresis
+- Muscular history-dependence
+- Near-infrared spectroscopy
+- Surface electromyography
+title: History-dependence of muscle excitation and oxygenation during isometric knee
+  extension force production
+url_pdf: http://ksep-es.org/journal/view.php?doi=10.15857/ksep.2020.29.4.385
+
+---

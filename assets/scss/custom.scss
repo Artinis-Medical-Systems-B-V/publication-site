@@ -1,0 +1,123 @@
+
+/* Set colour of collapsible sandwich menu background to gunmetal grey */
+
+.navbar-collapse {
+	background-color: #2A3439;
+}
+
+/* Set navbar sandwich menu to white*/
+
+.fas.fa-bars {
+  color: #fff;
+}
+
+/* Set navbar sandwich menu and light/dark toggle colour */
+
+.navbar-light .navbar-toggler {
+	color: #FFF !important;
+}
+
+
+/* Set magnification glass search icon in navbar to white to make it visible */
+
+.fas.fa-search {
+    color: #FFF;
+}
+
+
+/* Setting top navbar background to gunmetal grey, text to white, on hover over text, artinis blue */
+
+.navbar {
+	background: #2A3439;
+}
+
+#navbar-main .main-menu-item ul li .nav-link {
+	color: #fff;
+}
+
+.navbar .navbar-nav .navbar .navbar-nav .nav-link:hover, .navbar .navbar-nav .nav-link:focus {
+	color: #1FB3E5 !important;
+}
+
+
+/* Invert colours for filter buttons and remove frame for selected */
+
+.btn-toolbar .btn.btn-primary:active, .btn-toolbar .btn.btn-primary.active {
+    background-color: #1FB3E5 !important;
+}
+
+.btn-toolbar .btn.btn-primary:hover, .btn-toolbar .btn.btn-primary:focus {
+    background-color: #1FB3E5 !important;
+}
+
+
+.btn-primary {
+    color: #1fb3e5;
+    background-color: #fff;
+}
+
+.btn-primary.active:not(:disabled):not(.disabled):focus, .btn-primary:not(:disabled):not(.disabled):active:focus, .show > .btn-primary.dropdown-toggle:focus {
+	box-shadow: 0 0 0 .0rem #fff;
+}
+
+
+
+/* No rounded corners, to avoid filter button div looking ugly when wrapped (on e.g. mobile) */
+
+.btn-toolbar .btn:first-child {
+	border-radius: 0px 0 0 0px;
+}
+
+.btn-toolbar .btn:last-child {
+	border-radius: 0 0px 0px 0;
+}
+
+
+/* Custom fonts to comply with company branding*/
+
+@font-face {
+    font-family: 'Proxima Nova Bold';
+    src: url('https://publications.artinis.com/fonts/Mark Simonson - Proxima Nova Alt Bold-webfont.eot');
+    src: url('https://publications.artinis.com/fonts/Mark Simonson - Proxima Nova Alt Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://publications.artinis.com/fonts/Mark Simonson - Proxima Nova Alt Bold-webfont.woff2') format('woff2'),
+         url('https://publications.artinis.com/fonts/Mark Simonson - Proxima Nova Alt Bold-webfont.woff') format('woff'),
+         url('https://publications.artinis.com/fonts/Mark Simonson - Proxima Nova Alt Bold-webfont.ttf') format('truetype'),
+         url('https://publications.artinis.com/fonts/Mark Simonson - Proxima Nova Alt Bold-webfont.svg#proxima_nova_alt_rgbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('https://publications.artinis.com/fonts/Mark Simonson - Proxima Nova Alt Regular-webfont.eot');
+    src: url('https://publications.artinis.com/fonts/Mark Simonson - Proxima Nova Alt Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://publications.artinis.com/fonts/Mark Simonson - Proxima Nova Alt Regular-webfont.woff') format('woff'),
+         url('https://publications.artinis.com/fonts/Mark Simonson - Proxima Nova Alt Regular-webfont.ttf') format('truetype'),
+         url('https://publications.artinis.com/fonts/Mark Simonson - Proxima Nova Alt Regular-webfont.svg#proxima_nova_alt_rgregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nexa Bold';
+    src: url('https://publications.artinis.com/fonts/nexa-bold.eot');
+    src: url('https://publications.artinis.com/fonts/nexa-bold.eot?#iefix') format('embedded-opentype'),
+         url('https://publications.artinis.com/fonts/nexa-bold.woff') format('woff'),
+         url('https://publications.artinis.com/fonts/nexa-bold.ttf') format('truetype'),
+         url('https://publications.artinis.com/fonts/nexa-bold.svg#nexa_boldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nexa Light';
+    src: url('https://publications.artinis.com/fonts/nexa-light.eot');
+    src: url('https://publications.artinis.com/fonts/nexa-light.eot?#iefix') format('embedded-opentype'),
+         url('https://publications.artinis.com/fonts/nexa-light.woff') format('woff'),
+         url('https://publications.artinis.com/fonts/nexa-light.ttf') format('truetype'),
+         url('https://publications.artinis.com/fonts/nexa-light.svg#nexa_lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+

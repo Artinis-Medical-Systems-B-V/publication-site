@@ -1,0 +1,12 @@
+# IDEs
+.idea/
+
+# Hugo
+/resources/
+public/
+jsconfig.json
+.Rproj.user
+.Rhistory
+publication-site.Rproj
+wowchemy/
+exampleSite/

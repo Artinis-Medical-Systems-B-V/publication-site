@@ -1,0 +1,48 @@
+---
+abstract: "Musculoskeletal pain is one of the most common causes of chronic pain.\
+  \ Exercise- based pain management programs have been suggested as an effective alternative\
+  \ for relieving from musculoskeletal pain; however the pain which is experienced\
+  \ after unaccustomed, especially eccentric exercise (ECC) can alter people\xB4s\
+  \ ability or willingness to participate in therapeutic exercises or sports. Subsequent\
+  \ muscle pain and tenderness after ECC, most commonly known as delayed-onset muscle\
+  \ soreness (DOMS), has been shown to cause localized pressure pain, hyperalgesia\
+  \ and to decrease the muscle performance. A prior bout of ECC has been repeatedly\
+  \ reported to produce a protective adaptation known as repeated bout effect (RBE).\
+  \ There is no prior study, to our knowledge, investigating the effect of DOMS and\
+  \ RBE concomitantly on the sensitivity of the nociceptive system, blood supply,\
+  \ and functional capacity in healthy subjects. One of the main scopes of the current\
+  \ project was to investigate the adaptations by which the RBE can be resulted from.\
+  \ The approach in the current study was to use exercise induced- muscle damage followed\
+  \ by ECC exercise as an endogenous acute pain model and observe its effects on the\
+  \ sensitivity of the nociceptive system, blood supply, and functional capacity in\
+  \ healthy subjects. Then, the effect of a repeated bout of the same exercise as\
+  \ a healthy pain relief strategy on these parameters was assessed. This dissertation\
+  \ indicated that high intensity unaccustomed ECC can lead to central sensitization\
+  \ depicted by lower nociceptive withdrawal reflex threshold. Central sensitization\
+  \ induced by an initial ECC probably demonstrates a mechanism for the tenderness\
+  \ in the muscle and pain during movement. A lack of central sensitization is seen\
+  \ after the repeated bouts of ECC irrespective if the initial bout of ECC involved\
+  \ the ipsi- or the contralateral limb. The protective effects regarding RBE to the\
+  \ contralateral limb are specific to the contralateral homologous innervation level.\
+  \ Muscle oxygen re-perfusion can be improved after a single bout of high intensity\
+  \ damaging ECC; however it does not play a major role in cross-transfer adaptations\
+  \ due to repeated bouts of ECC"
+authors:
+- Mahdi Hossein
+categories:
+- OxyMon
+date: 2015-01-01
+doi: 10.5278/vbn.phd.med.00036
+featured: false
+projects:
+- clinical-and-rehabilitation
+publication: ''
+publication_types:
+- '0'
+publishDate: 2021-03-05 16:32:20.752767+00:00
+tags: []
+title: 'Exercise Based- Pain Relief Program: Is there any Effect of Repeated Bout
+  of Eccentric Exercise for Relieving Musculoskeletal Pain?'
+url_pdf: https://doi.org/10.5278/vbn.phd.med.00036
+
+---

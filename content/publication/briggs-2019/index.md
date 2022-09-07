@@ -1,0 +1,54 @@
+---
+abstract: "Background Deficits in frontal lobe perfusion have been demonstrated in\
+  \ late-life depression; however, studies to date have generally involved small numbers,\
+  \ used neuroimaging rather than bedside testing and have not controlled for important\
+  \ covariates.Aims We aimed to examine the association between depressive symptoms\
+  \ and frontal lobe perfusion during standing, in a large cohort of community-dwelling\
+  \ older people.Method Participants aged \u226550 years underwent continuous measurement\
+  \ of orthostatic blood pressure by finometry, and frontal lobe perfusion by near-infrared\
+  \ spectroscopy. Depressive symptoms were assessed by the eight-item Centre for Epidemiological\
+  \ Studies Depression Scale. Real-Time frontal lobe cerebral oxygenation was measured\
+  \ by the Portalite System, detecting changes in frontal lobe perfusion and reporting\
+  \ a tissue saturation index score.Results Almost 8% (209 out of 2616) had clinically\
+  \ significant depressive symptoms. Multilevel models demonstrated a significantly\
+  \ lower tissue saturation index in participants with depressive symptoms at both\
+  \ 60 and 90 s post-stand, with coefficients of-0.43 (95% CI-0.63 to-0.22) and-0.37\
+  \ (95% CI-0.57 to-0.16), respectively. Controlling for relevant covariates did not\
+  \ significantly attenuate these associations. After addition of systolic blood pressure\
+  \ this association was no longer significant, suggesting lower blood pressure may\
+  \ modify this relationship.Conclusions This study demonstrates that lower frontal\
+  \ lobe perfusion, related to lower values of baseline systolic blood pressure, is\
+  \ associated with clinically significant depressive symptoms in a cohort of community-dwelling\
+  \ older people. Given the recognised longitudinal association between lower blood\
+  \ pressure and depression in older people, this may represent a potential therapeutic\
+  \ target for prevention of incident depression.Declaration of interest None."
+authors:
+- Robert Briggs
+- Daniel Carey
+- Paul Claffey
+- Triona McNicholas
+- Louise Newman
+- Hugh Nolan
+- Sean P. Kennelly
+- Rose Anne Kenny
+categories:
+- PortaLite
+date: 2019-01-01
+doi: 10.1192/bjp.2018.288
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+publication: '*British Journal of Psychiatry*'
+publication_types:
+- '2'
+publishDate: 2021-03-05 16:32:20.988766+00:00
+tags:
+- Depression
+- blood pressure
+- cerebral perfusion
+- frontal lobe
+- older
+title: The association between frontal lobe perfusion and depressive symptoms in later
+  life
+
+---

@@ -1,0 +1,49 @@
+---
+abstract: Patients with cystic fibrosis (CF) are reported to have limited exercise
+  capacity. There is no consensus about a possible abnormality in skeletal muscle
+  oxidative metabolism in CF. Our aim was to test the hypothesis that abnormalities
+  in oxygenation and/or muscle oxidative metabolism contribute to exercise intolerance
+  in adolescents with mild CF. Ten adolescents with CF (12-18 years of age; forced
+  expiratory volume in 1 s >80% of predicted; and resting oxygen saturation >94%)
+  and 10 healthy age-matched control (HC) subjects were tested with supine cycle ergometry
+  using near-infrared spectroscopy and 31P magnetic resonance spectroscopy to study
+  skeletal muscle oxygenation and oxidative metabolism during rest, exercise and recovery.
+  No statistically significant (P > 0.1) differences in peak workload and peak oxygen
+  uptake per kilogram lean body mass were found between CF and HC subjects. No differences
+  were found between CF and HC subjects in bulk changes of quadriceps phosphocreatine
+  (P = 0.550) and inorganic phosphate (P = 0.896) content and pH (P = 0.512) during
+  symptom-limited exercise. Furthermore, we found statistically identical kinetics
+  for phosphocreatine resynthesis during recovery for CF and HC subjects (P = 0.53).
+  No statistically significant difference in peak exercise arbitrary units for total
+  haemoglobin content was found between CF and HC subjects (P = 0.66). The results
+  of this study provide evidence that in patients with mild CF and a stable clinical
+  status (without signs of systemic inflammation and/or chronic Pseudomonas aeruginosa
+  colonization), no intrinsic metabolic constraints and/or abnormalities in oxygenation
+  and/or muscle oxidative metabolism contribute to exercise intolerance.
+authors:
+- Maarten Werkman
+- Jeroen Jeneson
+- Paul Helders
+- Bert Arets
+- Kors van der Ent
+- Birgitta Velthuis
+- Rutger Nievelstein
+- Tim Takken
+- Erik Hulzebos
+categories:
+- OxyMon
+date: 2016-03-01
+doi: 10.1113/EP085425
+featured: false
+projects:
+- clinical-and-rehabilitation
+- sports-science
+publication: '*Experimental Physiology*'
+publication_types:
+- '2'
+publishDate: 2021-03-05 16:32:21.316766+00:00
+tags: []
+title: Exercise oxidative skeletal muscle metabolism in adolescents with cystic fibrosis
+url_pdf: http://doi.wiley.com/10.1113/EP085425
+
+---

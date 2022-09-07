@@ -1,0 +1,53 @@
+---
+abstract: "Objective: This study assessed whether a multi-ingredient herbal supplement\
+  \ containing Bacopa monniera (BM), Panax quinquefolius ginseng (PQ) and whole coffee\
+  \ fruit extract (WCFE) could enhance cognitive performance and cerebral-cortical\
+  \ activation during tasks of working memory and attention. Method: In a randomised,\
+  \ double-blind, placebo-controlled, between-group study, 40 healthy adults between\
+  \ 18\u201360 years (M = 34.46 SD = 12.95) completed tasks of working memory and\
+  \ attention at baseline and 45 min post active or placebo supplement consumption.\
+  \ During the cognitive testing, changes in hemodynamic response in the prefrontal\
+  \ cortex (PFC) were continuously measured using functional near-infrared spectroscopy\
+  \ (fNIRS). Results: Working memory task performance on the N-back task was significantly\
+  \ improved following active supplement consumption compared to placebo in terms\
+  \ of accuracy (p <.01) and response time (p <.05). Improved performance was associated\
+  \ with a reduction of PFC activation (p <.001) related to effortful mental demand,\
+  \ reflecting increased neural efficiency concomitant with improved cognitive performance.\
+  \ The effects were independent of background demographics variables and changes\
+  \ in blood glucose response and mood. Discussion: This is the first report of acute\
+  \ effects on cognitive performance in healthy adults following intake of a combined,\
+  \ multi-ingredient herbal supplement with concomitant changes in cerebral haemodynamic\
+  \ response. The potential synergistic effects of polyphenolic compounds on neurocognitive\
+  \ function and fNIRS use in nutritional intervention studies, poses a significant\
+  \ increase in the capacity to understand the effects of dietary compounds on the\
+  \ brain."
+authors:
+- Talitha Best
+- Chantelle Clarke
+- Nathan Nuzum
+- Wei Peng Teo
+categories: []
+date: 2019-01-01
+doi: 10.1080/1028415X.2019.1690288
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+publication: '*Nutritional Neuroscience*'
+publication_types:
+- '2'
+publishDate: 2021-03-05 16:32:20.844765+00:00
+tags:
+- Nutrition
+- cognition
+- fNIRS
+- herbal extracts
+- intervention
+- mood
+- polyphenols
+- working memory
+title: 'Acute effects of combined Bacopa, American ginseng and whole coffee fruit
+  on working memory and cerebral haemodynamic response of the prefrontal cortex: a
+  double-blind, placebo-controlled study'
+url_pdf: https://doi.org/10.1080/1028415X.2019.1690288
+
+---

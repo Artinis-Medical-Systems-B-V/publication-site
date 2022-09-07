@@ -1,0 +1,47 @@
+---
+abstract: "Background: The aim of this study was to compare the effects of carbohydrate\
+  \ (CHO) drinks (6% per volume) sweetened with maple (syrup or sap) to a commercial\
+  \ sports drink, glucose, and a control solution (water) on cognitive flexibility\
+  \ during high-intensity intermittent exercise. Methods: Eighty-five active men completed\
+  \ six 3-min bouts at 95% of their maximal aerobic power on a stationary bike, with\
+  \ 3 min of passive rest between efforts. Subjects were randomly allocated to an\
+  \ ingestion condition. Following each exercise bout, subjects ingested 166 mL of\
+  \ the experimental solution, drinking a total of 1 L of the same solution throughout\
+  \ the experimentation. Cognitive flexibility was measured using reaction time and\
+  \ accuracy on the Stroop task. The cognitive task was performed a total of 10 times,\
+  \ including 15 and 30 min post-exercise. Glycemia and cerebral oxygenation were\
+  \ also measured at each time point. Statistical analyses were performed using a\
+  \ two-way ANOVA (Condition \xD7 Time) with repeated measures. Results: The ingestion\
+  \ of maple products and the commercial sports drink led to a lesser increase in\
+  \ glycemia than glucose ingestion. CHO ingestion, when compared to water, induced\
+  \ a slight reduction in reaction times on the cognitive task, especially in the\
+  \ switching trials. CHO ingestion had no impact on cerebral oxygenation. Conclusions:\
+  \ This study shows that CHO ingestion, regardless of its type, tends to improve\
+  \ cognitive performance throughout exercise, especially during difficult cognitive\
+  \ tasks."
+authors:
+- Olivier Dupuy
+- Jonathan Tremblay
+categories:
+- OctaMon
+date: 2019-08-01
+doi: 10.3390/nu11092019
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+- sports-science
+publication: '*Nutrients*'
+publication_types:
+- '2'
+publishDate: 2021-03-05 16:32:20.962766+00:00
+tags:
+- Cerebral oxygenation
+- Cognitive performance
+- Maple products
+- Switching task
+title: 'Impact of carbohydrate ingestion on cognitive flexibility and cerebral oxygenation
+  during high-intensity intermittent exercise: A comparison between maple products
+  and usual carbohydrate solutions'
+url_pdf: https://www.mdpi.com/2072-6643/11/9/2019
+
+---

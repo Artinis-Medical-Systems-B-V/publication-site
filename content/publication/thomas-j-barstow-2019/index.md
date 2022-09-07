@@ -1,0 +1,45 @@
+---
+abstract: "Barstow TJ. Understanding near infrared spectroscopy and its application\
+  \ to skeletal muscle research. J Appl Physiol 126: 1360 \u20131376, 2019. First\
+  \ published March 7, 2019; doi:10.1152/japplphysiol.00166.2018.\u2014Near infrared\
+  \ spectroscopy (NIRS) is a powerful noninvasive tool with which to study the matching\
+  \ of oxygen delivery to oxygen utilization and the number of new publications utilizing\
+  \ this technique has increased exponentially in the last 20 yr. By measuring the\
+  \ state of oxygenation of the primary heme compounds in skeletal muscle (hemoglobin\
+  \ and myoglobin), greater understanding of the underlying control mechanisms that\
+  \ couple perfusive and diffusive oxygen delivery to oxidative metabolism can be\
+  \ gained from the laboratory to the athletic field to the intensive care unit or\
+  \ emergency room. However, the field of NIRS has been complicated by the diversity\
+  \ of instrumentation, the inherent limitations of some of these technologies, the\
+  \ associated diversity of terminology, and a general lack of standardization of\
+  \ protocols. This Cores of Reproducibility in Physiology (CORP) will describe in\
+  \ basic but important detail the most common methodologies of NIRS, their strengths\
+  \ and limitations, and discuss some of the potential confounding factors that can\
+  \ affect the quality and reproducibility of NIRS data. Recommendations are provided\
+  \ to reduce the variability and errors in data collection, analysis, and interpretation.\
+  \ The goal of this CORP is to provide readers with a greater understanding of the\
+  \ methodology, limitations, and best practices so as to improve the reproducibility\
+  \ of NIRS research in skeletal muscle."
+authors:
+- Thomas J. Barstow
+categories: []
+date: 2019-05-01
+doi: 10.1152/japplphysiol.00166.2018
+featured: false
+projects: []
+publication: '*Journal of Applied Physiology*'
+publication_types:
+- '2'
+publishDate: 2021-03-05 16:32:21.135785+00:00
+tags:
+- Absorption
+- Adipose tissue thickness
+- Blood flow
+- Oxygen utilization
+- Scattering
+title: Understanding near infrared spectroscopy and its application to skeletal muscle
+  research
+url_pdf: https://www.bps.go.id/dynamictable/2018/05/18/1337/persentase-panjang-jalan-tol-yang-beroperasi-menurut-operatornya-2014.html
+  https://www.physiology.org/doi/10.1152/japplphysiol.00166.2018
+
+---

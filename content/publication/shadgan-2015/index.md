@@ -1,0 +1,48 @@
+---
+abstract: 'Context: Vapocoolant spray, commonly known as cold spray (CS), is a cryotherapy
+  modality used in sports medicine, athletic training, and rehabilitation settings.
+  Proposed physiologic effects of cryotherapy modalities include reductions in tissue
+  blood flow, oxygenation, and cell metabolism in addition to attenuation of pain
+  perception attributed to reduced superficial nerve conduction velocity. Objective:
+  To examine the effects of CS on subcutaneous and intramuscular blood flow and oxygenation
+  on the thigh muscle using near-infrared spectroscopy, an optical method to monitor
+  changes in tissue oxygenated (O<inf>2</inf>Hb), deoxygenated (HHb), and total (tHb)
+  hemoglobin. Design: Cross-sectional study. Setting: Muscle Biophysics Laboratory.
+  Patients or Other Participants: Participants were 13 healthy adults (8 men, 5 women;
+  age=37.4 6 6 years, body mass index = 27.4 6 2.6, adipose tissue thickness = 7.2
+  6 1.8 mm). Intervention(s): Conventional CS was applied to the vastus medialis muscles.
+  Main Outcome Measure(s): Changes in chromophore concentrations of O<inf>2</inf>Hb,
+  HHb, and tHb at superficial and deep layers were monitored for 5 minutes using a
+  2-channel nearinfrared spectroscopy. Results: Thirty seconds after CS application,
+  we observed a decrease from baseline in O<inf>2</inf>Hb and tHb only in the superficial
+  layer that was maintained for 3 minutes. Conclusions: Application of CS induced
+  a transient change in blood flow and oxygenation of the superficial tissues with
+  no change in deeper tissues over the healthy vastus medialis muscle. The limited
+  physiologic effect of CS on the superficial hemodynamics and oxygenation of limb
+  muscles may limit the therapeutic benefit of this cryotherapy modality to a temporary
+  analgesic effect, a hypothesis that warrants a clinical trial on traumatized muscles.'
+authors:
+- Babak Shadgan
+- Amir H. Pakravan
+- Alison Hoens
+- W. Darlene Reid
+categories:
+- OxyMon
+date: 2015-01-01
+doi: 10.4085/1062-6050-50.6.02
+featured: false
+projects:
+- sports-science
+publication: '*Journal of Athletic Training*'
+publication_types:
+- '2'
+publishDate: 2021-03-05 16:32:21.150767+00:00
+tags:
+- Analgesics
+- Blood flow
+- Cryotherapy
+- Muscle injury
+title: Subcutaneous and intramuscular hemodynamics and oxygenation after cold-spray
+  application as monitored by near-infrared spectroscopy
+
+---

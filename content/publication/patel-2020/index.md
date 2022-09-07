@@ -1,0 +1,41 @@
+---
+abstract: 'Significance: Combining transcranial direct-current stimulation (tDCS)
+  with functional near-infrared spectroscopy (fNIRS) is a recent approach to exploring
+  brain activation evoked by neurostimulation. Aim: To critically evaluate studies
+  combining tDCS and fNIRS and provide a consolidated overview of cortical hemodynamic
+  responses to neurostimulation. Approach: Key terms were searched in three databases
+  (MEDLINE, EMBASE, and PsycINFO) with cross-referencing and works from Google Scholar
+  also evaluated. All studies reporting on fNIRS-derived hemoglobin changes evoked
+  by tDCS were included. Results: Literature searches revealed 474 articles, of which
+  28 were included for final review (22 in healthy individuals: 9 involving rest and
+  13 with tasks; 6 in the clinical setting). At rest, an overall increase in cortical
+  activation was observed in fNIRS responses at the site of stimulation, with evidence
+  suggesting nonstimulated brain regions are also similarly affected. Conversely,
+  during tasks, reduced cortical activation was observed during online stimulation.
+  Offline and poststimulation effects were less consistent, as is the impact on clinical
+  populations and their symptom correlation. Conclusion: This review explores the
+  methodological frameworks for fNIRS-tDCS evaluations and summarizes hemodynamic
+  responses associated with tDCS in all populations. Our findings provide further
+  evidence of the impact of tDCS on neuronal activation within functionally connected
+  networks.'
+authors:
+- Ronak Patel
+- Aleksander Dawidziuk
+- Ara Darzi
+- Harsimrat Singh
+- Daniel Richard Leff
+categories: []
+date: 2020-01-01
+doi: 10.1117/1.nph.7.2.020901
+featured: false
+projects:
+- neurostimulation-fnirs
+publication: '*Neurophotonics*'
+publication_types:
+- '2'
+publishDate: 2021-03-05 16:32:21.000766+00:00
+tags: []
+title: Systematic review of combined functional near-infrared spectroscopy and transcranial
+  direct-current stimulation studies
+
+---

@@ -1,0 +1,52 @@
+---
+abstract: "Introduction: Oxygen consumption during prolonged cycling exercise has\
+  \ been extensively studied at different work rates and durations, but with the focus\
+  \ primarily on pulmonary oxygen consumption (pVO2). The purpose of this study was\
+  \ to use near-infrared spectroscopy (NIRS) to investigate the relationship between\
+  \ pVO2 and local oxygenation responses in six active leg muscles during prolonged\
+  \ constant-load cycling at different intensities. Methods: 26 recreational male\
+  \ cyclists performed a constant-load high-intensity cycling test at 75% maximal\
+  \ aerobic power (MAP) for 30 min duration or until exhaustion. Of the 26 subjects,\
+  \ 14 performed a constant-load low-intensity cycling test for the same duration\
+  \ as well, at 50% of the work rate found to elicit blood lactate levels of 4 mmol\u2219\
+  l-1during incremental exercise. Pulmonary gas exchange (pVO2, RER, VE), heart rate,\
+  \ and NIRS measurements of the muscles vastus lateralis (VL), vastus medialis (VM),\
+  \ biceps femoris (BF), gluteus maximus (GMax), gastrocnemius lateralis (GL), and\
+  \ tibialis anterior (TA) were obtained continuously through both tests, while blood\
+  \ lactate and RPE was measured at specific time intervals. Results: Local oxygenation\
+  \ measurement for all the muscles collectively behaved in a similar manner as pVO2\
+  \ at both intensities with an increase in O2 utilization only found in the initial\
+  \ phase, and additionally showed a surprisingly homogenous response. However, differences\
+  \ were found between the muscle groups with heterogeneity in regard to the amount\
+  \ of desaturation at low- and high-intensity. Discussion: Although the local responses\
+  \ were similar to each other and that of pVO2, differences were found between the\
+  \ muscles with heterogeneity in regard to the amount of saturation. The distal muscles\
+  \ TA and GL showed less difference in saturation between low-intensity and high-intensity\
+  \ than the more proximal muscles (VL, VM, BF, and GMax). Also the BF and GMax muscles\
+  \ were found to behave different with a lack of TSI steady-state during high-intensity.\
+  \ Conclusion: The use of NIRS might provide a noninvasive and direct way of measuring\
+  \ local oxygenation responses in muscles and provide an indication of the work contribution\
+  \ of various muscles during cycling exercise. Although local oxygenation responses\
+  \ across the muscles were in agreement with pVO2, difference in amount of saturation\
+  \ was found between muscle groups in the present study. Also peripheral differences\
+  \ were found between the subjects able to complete 30-min constant-load high-intensity\
+  \ cycling and those who did not."
+authors:
+- V Rasdal
+categories:
+- OxyMon
+date: 2013-01-01
+featured: false
+projects:
+- sports-science
+publication: ''
+publication_types:
+- '0'
+publishDate: 2021-03-05 16:32:21.013767+00:00
+tags: []
+title: 'Oxygen Consumption in Cycling: The Relationship between Whole Body Pulmonary
+  O2 Consumption and Muscle Oxygenation in Different Muscles During Constant-Load
+  Cycling'
+url_pdf: http://hdl.handle.net/11250/271574
+
+---

@@ -1,0 +1,59 @@
+---
+abstract: 'Introduction: Dual-task walking is common in daily life but becomes more
+  difficult with aging. Little is known about the neurobiological mechanisms affecting
+  competing cognitive demands. Translational studies with human and animal models
+  are needed to address this gap. This pilot study investigated the feasibility of
+  implementing a novel cross-species dual-task model in humans and rats and aimed
+  to establish preliminary evidence that the model induces a dual-task cost. Methods:
+  Young and older humans and rats performed an object discrimination task (OD), a
+  baseline task of typical walking (baseline), an alternation turning task on a Figure
+  8 walking course (Alt), and a dual-task combining object discrimination with the
+  alternation task (AltOD). Primary behavioral assessments including walking speed
+  and correct selections for object discrimination and turning direction. In humans,
+  left prefrontal cortex activity was measured with functional near-infrared spectroscopy
+  (fNIRS). Results: Human subjects generally performed well on all tasks, but the
+  older adults exhibited a trend for a slowing of walking speed immediately before
+  the turning decision for Alt and AltOD compared to baseline. Older adults also had
+  heightened prefrontal activity relative to young adults for the Alt and AltOD tasks.
+  Older rodents required more training than young rodents to learn the alternation
+  task. When tested on AltOD with and without a 15-s delay between trials, older rodents
+  exhibited a substantial performance deficit for the delayed version on the initial
+  day of testing. Old rats, however, did not show a significant slowing in walking
+  speed with increasing task demand, as was evident in the young rats. Discussion:
+  This study demonstrates the feasibility and challenges associated with implementing
+  a cross-species dual-task model. While there was preliminary evidence of dual-task
+  cost in both humans and rats, the magnitude of effects was small and not consistent
+  across species. This is likely due to the relative ease of each task in humans and
+  the walking component in rats not being sufficiently challenging. Future versions
+  of this test should make the cognitive tasks more challenging and the motor task
+  in rats more complex.'
+authors:
+- Abbi R. Hernandez
+- Steven P. Winesett
+- Quinten P. Federico
+- Sonora A. Williams
+- Sara N. Burke
+- David J Clark
+categories:
+- PortaLite
+date: 2020-01-01
+doi: 10.3389/fnagi.2020.00276
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+publication: '*Frontiers in Aging Neuroscience*'
+publication_types:
+- '2'
+publishDate: 2021-03-05 16:32:21.326765+00:00
+tags:
+- aging
+- brain
+- cognition
+- dual-task
+- executive function
+- prefrontal cortex
+- walking
+title: A Cross-species Model of Dual-Task Walking in Young and Older Humans and Rats
+url_pdf: https://www.frontiersin.org/article/10.3389/fnagi.2020.00276/full
+
+---

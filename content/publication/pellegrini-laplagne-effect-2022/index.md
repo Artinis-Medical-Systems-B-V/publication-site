@@ -1,0 +1,46 @@
+---
+abstract: 'Aging is characterized by cognitive decline affecting daily functioning.
+  To manage this socio-economic challenge, several non-pharmacological methods such
+  as physical, cognitive, and combined training are proposed. Although there is an
+  important interest in this subject, the literature is still heterogeneous. The superiority
+  of simultaneous training compared to passive control and physical training alone
+  seems clear but very few studies compared simultaneous training to cognitive training
+  alone. The aim of this pilot study was to investigate the effect of simultaneous
+  exercise and cognitive training on several cognitive domains in healthy older adults,
+  in comparison with either training alone. Thirty-five healthy older adults were
+  randomized into one of three experimental groups: exercise training, cognitive training,
+  and simultaneous exercise and cognitive training. The protocol involved two 30-min
+  sessions per week for 24 weeks. Cognitive performance in several domains, pre-frontal
+  cortex oxygenation, and baroreflex sensitivity were assessed before and after the
+  intervention. All groups improved executive performance, including flexibility or
+  working memory. We found a group by time interaction for inhibition cost (F(2,28) = 6.44;
+  p textless 0.01) and baroreflex sensitivity during controlled breathing (F(2,25) = 4.22;
+  p = 0.01), the magnitude of improvement of each variable being associated (r = -0.39;
+  p = 0.03). We also found a decrease in left and right pre-frontal cortex oxygenation
+  in all groups during the trail making test B. A simultaneous exercise and cognitive
+  training are more efficient than either training alone to improve executive function
+  and baroreflex sensitivity. The results of this study may have important clinical
+  repercussions by allowing to optimize the interventions designed to maintain the
+  physical and cognitive health of older adults.'
+authors:
+- Manon Pellegrini-Laplagne
+- Olivier Dupuy
+- Phillipe Sosner
+- Laurent Bosquet
+categories:
+- PortaLite
+date: '2022-08-19'
+doi: 10.1007/s11357-022-00595-3
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+publication: '*GeroScience*'
+publication_types:
+- '2'
+publishDate: 2022-08-19 11:36:19.573919+00:00
+tags: []
+title: 'Effect of simultaneous exercise and cognitive training on executive functions,
+  baroreflex sensitivity, and pre-frontal cortex oxygenation in healthy older adults:
+  a pilot study'
+
+---

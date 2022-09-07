@@ -1,0 +1,40 @@
+---
+abstract: Pulse transit time (PTT) is the time it takes for pressure waves to propagate
+  through the arterial system. Arterial stiffness assessed via PTT has been extensively
+  examined in the conduit arteries; however, limited information is available about
+  PTT to the skeletal muscle microcirculation. Therefore, the purpose of this study
+  was to assess PTT to the skeletal muscle microcirculation (PTTm) with near-infrared
+  spectroscopy (NIRS) and to determine if PTTm provides unique information about vascular
+  function that PTT assessed in the conduit arteries (PTTc) cannot provide. This pilot
+  study was conducted with 10 (Male = 5; Female = 5) individuals of similar age (21.5
+  ± 1.2 yrs). The feasibility of using the intersecting tangents method to derive
+  PTTm with NIRS was assessed during reactive hyperemia with the cross-correlation
+  of PTTm produced by the intersecting tangents method and a different algorithm that
+  utilized signal spectral properties. To determine if PTTm was distinct from PTTc,
+  the cross-correlation of PTTm and PTTc during reactive hyperemia was assessed. Cross-correlation
+  indicated agreement between PTTm derived from both algorithms (r2 = 0.77, p textless
+  0.01) and a lack of agreement between PTTm and PTTc during reactive hyperemia (r2
+  = 0.07, p textless 0.01). Therefore, we conclude it is feasible to assess PTTm utilizing
+  NIRS, and PTTm provides unique information about vascular function, including skeletal
+  muscle microvascular elasticity, which cannot be achieved with traditional PTTc.
+  PTTm with NIRS may provide a comprehensive and non-invasive assessment of vascular
+  function and health.
+authors:
+- Cody P. Anderson
+- Song-Young Park
+categories:
+- PortaLite
+date: '2022-07-19'
+doi: 10.1152/japplphysiol.00173.2022
+featured: false
+projects:
+- sports-science
+publication: '*Journal of Applied Physiology*'
+publication_types:
+- '2'
+publishDate: 2022-07-19 07:17:16.288595+00:00
+tags: []
+title: Assessing pulse transit time to the skeletal muscle microcirculation using
+  near-infrared spectroscopy
+
+---

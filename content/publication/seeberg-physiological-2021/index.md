@@ -1,0 +1,57 @@
+---
+abstract: The most common race format in cross-country (XC) skiing is the mass-start
+  event, which is under-explored in the scientific literature. To explore factors
+  important for XC skiing mass-starts, the main purpose of this study was to investigate
+  physiological and biomechanical determinants of sprint ability following variable
+  intensity exercise when roller ski skating. Thirteen elite male XC skiers performed
+  a simulated mass-start competition while roller ski skating on a treadmill. The
+  protocol consisted of an initial 21-min bout with a varying track profile, designed
+  as a competition track with preset inclines and speeds, directly followed by an
+  all-out sprint (AOS) with gradually increased speed to rank their performance. The
+  initial part was projected to simulate the “stay-in-the-group” condition during
+  a mass-start, while the AOS was designed to assess the residual physiological capacities
+  required to perform well during the final part of a mass-start race. Cardiorespiratory
+  variables, kinematics and pole forces were measured continuously, and the cycles
+  were automatically detected and classified into skating sub-techniques through a
+  machine learning model. Better performance ranking was associated with higher VO  2
+  Max  ( r = 0.68) and gross efficiency ( r = 0.70) measured on separate days, as
+  well as the ability to ski on a lower relative intensity [i.e., %HR  Max  ( r =
+  0.87), %VO  2 Max  ( r = 0.89), and rating of perceived exertion ( r = 0.73)] during
+  the initial 21-min of the simulated mass-start (all p -values &lt; 0.05). Accordingly,
+  the ability to increase HR ( r = 0.76) and VO 2 ( r = 0.72), beyond the corresponding
+  values achieved during the initial 21-min, in the AOS correlated positively with
+  performance (both p &lt; 0.05). In addition, greater utilization of the G3 sub-technique
+  in the steepest uphill ( r = 0.69, p &lt; 0.05), as well as a trend for longer cycle
+  lengths (CLs) during the AOS ( r = 0.52, p = 0.07), were associated with performance.
+  In conclusion, VO  2 Max  and gross efficiency were the most significant performance-determining
+  variables of simulated mass-start performance, enabling lower relative intensity
+  and less accumulation of fatigue before entering the final AOS. Subsequently, better
+  performance ranking was associated with more utilization of the demanding G3 sub-technique
+  in the steepest uphill, and physiological reserves allowing better-performing skiers
+  to utilize a larger portion of their aerobic potential and achieve longer CLs and
+  higher speed during the AOS.
+authors:
+- Trine M. Seeberg
+- Jan Kocbach
+- Jørgen Danielsen
+- Dionne A. Noordhof
+- Knut Skovereng
+- Pål Haugnes
+- Johannes Tjønnås
+- Øyvind Sandbakk
+categories:
+- PortaMon
+date: '2022-05-17'
+doi: 10.3389/fphys.2021.638499
+featured: false
+projects:
+- hypoxia-and-altitude-studies
+publication: '*Frontiers in Physiology*'
+publication_types:
+- '2'
+publishDate: 2022-05-17 08:35:25.187396+00:00
+tags: []
+title: Physiological and Biomechanical Determinants of Sprint Ability Following Variable
+  Intensity Exercise When Roller Ski Skating
+
+---

@@ -1,0 +1,51 @@
+---
+abstract: 'Abstract  Inspiratory muscle warm-up (IMW) has been used as a resource
+  to enhance exercises and sports performance. However, there is a lack of studies
+  in the literature addressing the effects of different IMW loads (especially in combination
+  with a shorter and applicable protocol) on high-intensity running and recovery phase.
+  Thus, this study aimed to investigate the effects of three different IMW loads using
+  a shorter protocol on mechanical, physiological and muscle oxygenation responses
+  during and after high-intensity running exercise. Sixteen physically active men,
+  randomly performed four trials 30 s all-out run, preceded by the shorter IMW protocol
+  (2 × 15 breaths with a 1-min rest interval between sets, accomplished 2 min before
+  the 30 s all-out run). Here, three IMW load conditions were used: 15%, 40%, and
+  60% of maximal inspiratory pressure (MIP), plus a control session (CON) without
+  the IMW. The force, velocity and running power were measured (1000 Hz). Two near-infrared
+  spectroscopy (NIRS) devices measured (10 Hz) the muscle’s oxygenation responses
+  in biceps brachii (BB) and vastus lateralis (VL). Additionally, heart rate (HR)
+  and blood lactate ([Lac]) were also monitored. IMW loads applied with a shorter
+  protocol promoted a significant increase in mean and minimum running power as well
+  as in peak and minimum force compared to CON. In addition, specific IMW loads led
+  to higher values of peak power, mean velocity (60% of MIP) and mean force (40 and
+  60% of MIP) in relation to CON. Physiological responses (HR and muscles oxygenation)
+  were not modified by any IMW during exercise, as well as HR and [Lac] in the recovery
+  phase. On the other hand, 40% of MIP presented a higher tissue saturation index
+  (TSI) for BB during recovery phase. In conclusion, the use of different loads of
+  IMW may improve the performance of a physically active individual in a 30 s all-out
+  run, as verified by the increased peak, mean and minimum mechanical values, but
+  not in performance assessed second by second. In addition, 40% of the MIP improves
+  TSI of the BB during the recovery phase, which can indicate greater availability
+  of O 2 for lactate clearance.'
+authors:
+- Anita B. Marostegan
+- Claudio A. Gobatto
+- Felipe M. Rasteiro
+- Charlini S. Hartz
+- Marlene A. Moreno
+- Fúlvia B. Manchado-Gobatto
+categories:
+- PortaMon
+date: '2022-07-19'
+doi: 10.1038/s41598-022-14616-w
+featured: false
+projects:
+- sports-science
+publication: '*Scientific Reports*'
+publication_types:
+- '2'
+publishDate: 2022-07-19 07:17:16.288595+00:00
+tags: []
+title: Effects of different inspiratory muscle warm-up loads on mechanical, physiological
+  and muscle oxygenation responses during high-intensity running and recovery
+
+---

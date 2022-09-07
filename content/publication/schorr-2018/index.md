@@ -1,0 +1,53 @@
+---
+abstract: Background Fewer than half of individuals with peripheral artery disease
+  (PAD) experience classic claudication, and the relationships between PAD typical
+  or atypical symptom intensity, location, and description (classic or atypical) with
+  ischemic changes have not previously been reported. Objective The primary purpose
+  of this study was to evaluate the relationship between self-reported PAD symptom
+  intensity and calf tissue ischemia measured using the tissue saturation index (TSI)
+  during treadmill exercise. The location and descriptors of atypical PAD symptoms
+  in the presence of calf tissue ischemia were also identified. Methods Adults with
+  PAD with exercise-limiting ischemic symptoms were asked to (a) rate symptom intensity
+  using a numerical rating scale (NRS) from 0 to 5 (0 = no pain, 1 = onset of pain,
+  5 = maximal pain), (b) provide symptom locations and descriptors, and (c) wear a
+  near-infrared spectroscopy device to obtain calf TSI values during treadmill exercise.
+  Multilevel models with TSI as the outcome variable were estimated during exercise
+  and recovery. Covariates included were exercise time, recovery time, baseline TSI,
+  exercise rating, recovery rating, ankle-brachial index (ABI), age, race, gender,
+  body mass index, diabetes, neuropathy, and smoking. Results During three successive
+  bouts of treadmill exercise for 40 participants (80% Caucasian men; average age
+  = 68 years, SD = 9.2), the most rapid decline in TSI occurred between the start
+  of exercise and symptom onset (when NRS = 1). The TSI nadir was often reached prior
+  to report of maximum discomfort (when NRS = 5), and changes in TSI were related
+  to exercise time (p <.001), baseline TSI (p <.001), exercise ratings (p <.001),
+  and ABI (p <.05). During recovery, TSI increased steadily for most participants
+  as pain eased. In the recovery model, changes in TSI were associated with recovery
+  ratings (p <.001) and ABI (p <.03). Of 120 treadmill exercise tests, 69.2% were
+  stopped due to discomfort in the calf with classic descriptors reported only half
+  the time (55.4%). Discussion Exploratory analyses revealed ischemic symptoms extended
+  beyond classic claudication locations and descriptors. Future research should evaluate
+  changes in TSI relative to atypical locations and descriptors to improve understanding
+  of the full range of ischemic symptoms experienced by individuals with PAD.
+authors:
+- Erica N. Schorr
+- Diane Treat-Jacobson
+- Ruth Lindquist
+categories:
+- PortaMon
+date: 2017-01-01
+doi: 10.1097/NNR.0000000000000230
+featured: false
+projects: []
+publication: '*Nursing Research*'
+publication_types:
+- '2'
+publishDate: 2021-03-05 16:32:21.270765+00:00
+tags:
+- claudication
+- exercise
+- infrared spectroscopy
+- peripheral vascular disease
+- treadmill test
+title: The Relationship between Peripheral Artery Disease Symptomatology and Ischemia
+
+---

@@ -1,0 +1,11 @@
+# Font style metadata
+name = "artinis"
+
+# Optional Google font URL
+google_fonts = ""
+
+# Font families
+heading_font = "Nexa Bold"
+body_font = "Proxima Nova"
+nav_font = "Proxima Nova"
+mono_font = "Roboto Mono"

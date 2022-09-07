@@ -1,0 +1,13 @@
+---
+title: "The Association Between Contrast-Enhanced Ultrasound and Near-Infrared Spectroscopy-Derived Measures of Calf Muscle Microvascular Responsiveness in Older Adults"
+date: 2021-08-01
+publishDate: 2021-08-26T09:55:10.446533Z
+authors: ["Grace M. Young", "Digby Krastins", "David Chang", "Jeng Lam", "Jing Quah", "Tony Stanton", "Fraser Russell", "Kim Greaves", "Yuri Kriel", "Christopher D. Askew"]
+publication_types: ["2"]
+abstract: "Contrast-enhanced ultrasound (CEUS) measures of post-occlusion skeletal muscle microvascular responsiveness demonstrate the microvascular dysfunction associated with ageing and age-related disease. However, the accessibility of CEUS is limited by the need for intravenous administration of ultrasound contrast agents and sophisticated imaging analysis. Alternative methods are required for the broader assessment of microvascular dysfunction in research and clinical settings. Therefore, we aimed to evaluate the level of association and agreement between CEUS and near-infrared spectroscopy (NIRS)-derived measures of post-occlusion skeletal muscle microvascular responsiveness in older adults. Methods: During supine rest, participants (n=15, 67611 years) underwent 5 minutes of thigh cuff-occlusion (200mmHg). Post-occlusion CEUS measures of calf muscle microvascular responsiveness were made, including time to 95% peak acoustic intensity (TTP95AI) and the rate of rise (slope AI). Simultaneous measures, including time to 95% peak oxygenated haemoglobin (TTP95O2Hb) and slope O2Hb, were made using continuous-wave NIRS in the same muscle region. Results: There were strong correlations between TTP95measures derived from CEUS and NIRS (r=0.834, p=,0.001)and the corresponding measures of slope (r=0.735, p=0.004). The limits of agreement demonstrated by Bland Altman plot analyses for CEUS and NIRS-derived measures of TTP95(-9.67–1.98 s) and slope(-1.29–5.23%. s-1) were smaller than the minimum differences expected in people with microvascular dysfunction. Conclusions: The strong correlations and level of agreement in the present study support the use of NIRS as a non-invasive, portable and cost-effective method for assessing post-occlusion skeletal muscle microvascular responsiveness in older adults."
+featured: false
+publication: "*Heart, Lung and Circulation*"
+url_pdf: "https://linkinghub.elsevier.com/retrieve/pii/S1443950621011458"
+doi: "10.1016/j.hlc.2021.07.004"
+---
+

@@ -1,0 +1,26 @@
+
+{{ with site.GetPage (path.Dir .RelPermalink) }}
+
+{{ .Title }}
+{{ .Content }}
+{{ end }}
+
+<ul>
+  {{ range .Data.Pages }}
+    <li>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      <dl>
+        <dt>Link</dt><dd><a href="{{ .Permalink }}">{{ .Permalink }}</a></dd>
+
+        <!-- Handling brands that don't have a corresponding page by using 'with' -->
+        {{ with .Params.website }}
+          <dt>Website</dt><dd>{{ . }}</dd>
+        {{ end }}
+        {{ with .Params.description }}
+          <dt>Description</dt><dd>{{ . }}</dd>
+        {{ end }}
+
+      </dl>
+    </li>
+  {{ end }}
+</ul>

@@ -1,0 +1,50 @@
+---
+abstract: "Previous attempts to detect global cerebral hemodynamic differences between\
+  \ those who develop headache, nausea, and fatigue following rapid exposure to hypoxia\
+  \ [acute mountain sickness (AMS)] and those who remain healthy have been inconclusive.\
+  \ In this study, we investigated the effects of two drugs known to reduce symptoms\
+  \ of AMS to determine if a common cerebral hemodynamic mechanism could explain the\
+  \ prophylactic effect within individuals. With the use of randomized, placebo-controlled,\
+  \ double-blind, crossover design, 20 healthy volunteers were given oral acetazolamide\
+  \ (250 mg), dexamethasone (4 mg), or placebo every 8 h for 24 h prior to and during\
+  \ a 10-h exposure to a simulated altitude of 4,875 m in a hypobaric chamber, which\
+  \ included 2 h of exercise at 50% of altitude-specific V\u0307O2max. Cerebral hemodynamic\
+  \ parameters derived from ultrasound assessments of dynamic cerebral autoregulation\
+  \ and vasomotor reactivity were recorded 15 h prior to and after 9 h of hypoxia.\
+  \ AMS symptoms were scored using the Lake Louise Questionnaire (LLQ). It was found\
+  \ that both drugs prevented AMS in those who became ill on placebo (\u223C70% decrease\
+  \ in LLQ), yet a common cerebral hemodynamic mechanism was not identified. Compared\
+  \ with placebo, acetazolamide reduced middle cerebral artery blood flow velocity\
+  \ (11%) and improved dynamic cerebral autoregulation after 9 h of hypoxia, but these\
+  \ effects appeared independent of AMS. Dexamethasone had no measureable cerebral\
+  \ hemodynamic effects in hypoxia. In conclusion, global cerebral hemodynamic changes\
+  \ resulting from hypoxia may not explain the development of AMS. \xA9 2011 the American\
+  \ Physiological Society."
+authors:
+- Andrew W. Subudhi
+- Andrew C. Dimmen
+- Colleen G. Julian
+- Megan J. Wilson
+- Ronney B. Panerai
+- Robert C. Roach
+categories:
+- OxyMon
+date: 2011-05-01
+doi: 10.1152/japplphysiol.01393.2010
+featured: false
+projects:
+- hypoxia-and-altitude-studies
+publication: '*Journal of Applied Physiology*'
+publication_types:
+- '2'
+publishDate: 2021-03-05 16:32:21.332765+00:00
+tags:
+- Acute mountain sickness
+- Altitude
+- Autoregulation
+- Cerebral blood flow
+- Vascular reactivity
+title: Effects of acetazolamide and dexamethasone on cerebral hemodynamics in hypoxia
+url_pdf: http://www.physiology.org/doi/10.1152/japplphysiol.01393.2010
+
+---

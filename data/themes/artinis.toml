@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Artinis"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#1FB3E5"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#2A3439"
+menu_text_active = "#1FB3E5"
+menu_title = "#2A3439"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(226, 226, 222)"

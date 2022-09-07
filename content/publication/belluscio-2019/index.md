@@ -1,0 +1,49 @@
+---
+abstract: "Turning elicits Freezing of Gait (FoG) episodes in people with Parkinson's\
+  \ disease (PD) and is thought to require higher cortical control compared to straight\
+  \ ahead gait. Functional near infrared spectroscopy (fNIRS) has been used to examine\
+  \ prefrontal cortex (PFC) activity while walking, but the relationship between PFC\
+  \ activity and turn performance remains unclear. The aim of this pilot study was\
+  \ to examine PFC activity during turning in PD and healthy controls, and to investigate\
+  \ the association between PFC activity and turning. Thirty-two subjects, 15 freezers\
+  \ (PD + FoG) and 17 non-freezers (PD \u2212 FoG), and 8 controls were asked to perform\
+  \ a 2-min turning-in-place test under single-task (ST) and dual-task (DT) conditions.\
+  \ Each participant wore an fNIRS system to measure changes in oxyhemoglobin, as\
+  \ measure of PFC activity, and inertial sensors to quantify turning. Our results\
+  \ show a significant group (p = .050), task (p = .039), and interaction (p = .047)\
+  \ for the PFC activity during turning. Specifically, PD + FoG show higher PFC during\
+  \ turning compared to the other groups; PFC activity during DT is overall different\
+  \ compared to ST with an opposite trend in PD + FoG compared to controls and PD\
+  \ \u2212 FoG. In addition, higher PFC is associated with worse FoG in PD + FoG (r\
+  \ = 0.57, p = .048) and with lower number of turns in PD \u2212 FoG (r = \u2212\
+  \ 0.70, p = .002). The increased PFC activity in PD and the association between\
+  \ higher PFC activity and poorer turning performance may be a sign of poor movement\
+  \ automaticity in PD. Although further investigations are required, these pilot\
+  \ findings may guide development of personalized treatments to improve motor automaticity\
+  \ in PD."
+authors:
+- Valeria Belluscio
+- Samuel Stuart
+- E. Bergamini
+- Giuseppe Vannozzi
+- Martina Mancini
+categories:
+- OctaMon
+date: 2019-09-01
+doi: 10.1016/j.neuroscience.2019.07.024
+featured: false
+projects:
+- clinical-and-rehabilitation
+publication: '*Neuroscience*'
+publication_types:
+- '2'
+publishDate: 2021-03-05 16:32:21.241767+00:00
+tags:
+- Freezing of Gait
+- Turning
+- Wearable Sensors
+- fNIRS
+title: The Association between Prefrontal Cortex Activity and Turning Behavior in
+  People with and without Freezing of Gait
+
+---
