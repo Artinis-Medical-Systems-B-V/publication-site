@@ -2,8 +2,4 @@
 
 Artinis publication site
 
-This site is built using the wowchemy [starter academic template](https://github.com/wowchemy/starter-academic), site is autodeployed on updates to the master branch and can be found at [http://publications.artinis.com/](http://publications.artinis.com/). 
-
-Instructions on how to add publications/update site can be found [here](https://github.com/Artinis-Medical-Systems-B-V/publication-site/blob/master/supp/Adding_publications.docx).
-
 [Sophie](mailto:sophie@artinis.com) is the person responsible for adding new content, [Kristoffer](mailto:kristoffer@artinis.com) is responsible for the site and site layout.
