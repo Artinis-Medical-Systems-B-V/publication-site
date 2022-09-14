@@ -2,4 +2,4 @@
 
 Artinis publication site
 
-[Sophie](mailto:sophie@artinis.com) is the person responsible for adding new content, [Kristoffer](mailto:kristoffer@artinis.com) is responsible for the site and site layout.
+[Sophie](mailto:sophie@artinis.com) is responsible for adding new content, [Kristoffer](mailto:kristoffer@artinis.com) is responsible for the site and site layout.
