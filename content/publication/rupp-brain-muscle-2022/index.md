@@ -1,0 +1,41 @@
+---
+abstract: 'Purpose: Hypoxia is one major environmental factor, supposed to mediate
+  central motor command as well as afferent feedbacks at rest and during exercise.
+  By using a comparison of normobaric (NH) and hypobaric (HH) hypoxia with the same
+  ambient pressure in oxygen, we examined the potential differences on the cerebrovascular
+  and muscular regulation interplay during a self-paced aerobic exercise.   Methods:
+  Sixteen healthy subjects performed three cycling time-trials (250 kJ) in three conditions:
+  HH, NH and normobaric normoxia (NN) after 24 h of exposure. Cerebral and muscular
+  oxygenation were assessed by near-infrared spectroscopy, cerebral blood flow by
+  Doppler ultrasound system. Gas exchanges, peripheral oxygen saturation, power output
+  and associated pacing strategies were also continuously assessed.   Results: The
+  cerebral oxygen delivery was lower in hypoxia than in NN but decreased similarly
+  in both hypoxic conditions. Overall performance and pacing were significantly more
+  down-regulated in HH versus NH, in conjunction with more impaired systemic (e.g
+  . saturation and cerebral blood flow) and prefrontal cortex oxygenation during exercise.   Conclusions:
+  The difference in pacing was likely the consequence of a complex interplay between
+  systemic alterations and cerebral oxygenation observed in HH compared to NH, aiming
+  to maintain an equivalent cerebral oxygen delivery despite higher adaptive cost
+  (lower absolute power output for the same relative exercise intensity) in HH compared
+  to NH.'
+authors:
+- Thomas Rupp
+- Jonas J. Saugy
+- Nicolas Bourdillon
+- Grégoire P. Millet
+categories:
+- OxyMon
+date: '2022-09-29'
+doi: 10.3389/fphys.2022.893872
+featured: false
+projects:
+- hypoxia-and-altitude-studies
+publication: '*Frontiers in Physiology*'
+publication_types:
+- '2'
+publishDate: 2022-09-29 08:22:32.167888+00:00
+tags: []
+title: Brain-muscle interplay during endurance self-paced exercise in normobaric and
+  hypobaric hypoxia
+
+---
