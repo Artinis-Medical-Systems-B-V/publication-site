@@ -31,13 +31,11 @@ authors:
 - Jamie Hugo Macdonald
 - Pierre Bouzat
 - Samuel Verges
-categories:
-- PortaLite
-date: '2022-05-17'
+categories: []
+date: '2022-09-29'
 doi: 10.3389/fphys.2021.710622
 featured: false
-projects:
-- hypoxia-and-altitude-studies
+projects: []
 publication: '*Frontiers in Physiology*'
 publication_types:
 - '2'

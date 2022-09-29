@@ -17,7 +17,7 @@ apptag_dict = {"BCI" : "brain-computer-interfaces", "BF-M" : "brain-fnirs-motor-
                "SS" : "sports-science", "U" : "urology", "VR" : "virtual-reality"}
 
 # Hardcoded path to output from academic tool, please change me!
-infolder = "C:\Users\sapprich\Documents\Publication_Phyton"   
+infolder = "C:/temp/2/content/"   
 
 # Get rid of "---" at start and end to not confuse yaml.load
 for root, dirs, files in os.walk(infolder, topdown=False):
