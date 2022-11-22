@@ -30,11 +30,10 @@ authors:
 - Owen F. Salmon
 - Jasmin R. Jenkins
 categories: []
-date: '2022-05-17'
+date: '2022-11-22'
 doi: 10.1016/j.crphys.2021.11.001
 featured: false
-projects:
-- hypoxia-and-altitude-studies
+projects: []
 publication: '*Current Research in Physiology*'
 publication_types:
 - '2'
