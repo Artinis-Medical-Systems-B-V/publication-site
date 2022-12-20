@@ -1,0 +1,50 @@
+---
+abstract: Introduction Music interventions have been proposed in recent years as a
+  treatment for chronic pain. However, the mechanisms by which music relieves pain
+  are unclear, and the effects of music intervention on physiological indicators in
+  patients with chronic pain remain to be explored. This study aimed to explore whether
+  a music intervention would have effects on subjective pain ratings, heart rate variability,
+  and functional connectivity of the cerebral cortex in patients with chronic pain.   Methods
+  A randomized controlled study was conducted on 37 pain patients aged 18–65 years,
+  with the control group receiving usual care, and the intervention group receiving
+  music intervention (8–150 Hz, 50–70 dB) for 30 min before bedtime for 7 days on
+  top of usual care. Pain visual analog scale and heart rate variability were used
+  as subjective and objective physiological indices before and after the music intervention,
+  respectively. Changes in oxyhemoglobin and deoxyhemoglobin concentrations in the
+  cerebral cortex were measured by functional near-infrared spectroscopy, and whole-brain
+  correlation analysis was used to quantify the connectivity of prefrontal brain regions
+  associated with the pain response.   Results Results showed that patients with chronic
+  pain in the intervention group had significantly lower visual assessment scale scores,
+  as well as significantly lower overall voluntary mobility during pain episodes,
+  resulting in relatively higher vagal innervation compared to the control group.
+  In addition, connections between the bilateral dorsolateral prefrontal cortex (BA9,
+  BA46) and frontal areas (BA10) were significantly higher in the intervention group.   Discussion
+  This study demonstrates the effectiveness of the combined application of music interventions
+  with usual care in reducing pain levels in patients with chronic pain and provides
+  insight into the pathological mechanisms of music interventions for analgesia, providing
+  direction for new baseline indicators for quantitative clinical assessment of pain.
+  The study was registered in the Chinese Clinical Trial Registry (No. ChiCTR2100052993).   Clinical
+  trial registration  [ https://www.chictr.org.cn/showproj.aspx?proj=136268 ], identifier
+  [ChiCTR2100052993].
+authors:
+- Jiahao Du
+- Ping Shi
+- Fanfu Fang
+- Hongliu Yu
+categories:
+- Brite
+date: '2022-12-20'
+doi: 10.3389/fnhum.2022.1057290
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+- clinical-and-rehabilitation
+publication: '*Frontiers in Human Neuroscience*'
+publication_types:
+- '2'
+publishDate: 2022-12-20 09:06:51.920363+00:00
+tags: []
+title: Effect of music intervention on subjective scores, heart rate variability,
+  and prefrontal hemodynamics in patients with chronic pain
+
+---
