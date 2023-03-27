@@ -1,0 +1,46 @@
+---
+abstract: 'Abstract  Cerebral blood flow increases more during water-based exercise
+  than land-based exercise owing to the effects of end-tidal CO 2 (PETCO 2 ) and mean
+  arterial pressure (MAP) changes due to water immersion. However, it is unclear whether
+  oxygenated hemoglobin (oxy-Hb) concentrations in the prefrontal cortex (PFC) are
+  increased more by water-based or land-based exercise. We hypothesized that oxy-Hb
+  concentrations in the PFC are higher during water-based exercise than land-based
+  exercise when the exercise intensity is matched. To test this hypothesis, 10 healthy
+  participants (age: 24.2 ± 1.7 years; height: 1.75 ± 0.04 m; weight: 69.5 ± 5.2 kg)
+  performed light- to moderate-intensity cycling exercise in water (water-based cycling
+  (WC); chest-high water at 30 °C) and on land (LC). Stroke volume, cardio output,
+  heart rate, MAP, respiratory rate, PETCO 2 , and oxy-Hb in the PFC were assessed
+  during 15 min of exercise, with exercise intensity increased every 5 min. Both WC
+  and LC significantly increased oxy-Hb concentrations in the PFC as exercise intensity
+  was increased (intensity effect: p textless 0.001). There was no significant difference
+  in oxy-Hb concentrations during WC and LC in most prefrontal areas, although significant
+  differences were found in areas corresponding to the left dorsolateral PFC (exercise
+  effect: p textless 0.001). Thus, WC and LC increase oxy-Hb concentrations in the
+  PFC in a similar manner with increasing exercise intensity, but part of the PFC
+  exhibits enhanced oxy-Hb levels during WC. The neural response of the PFC may differ
+  during water-based and land-based exercise owing to differences in external information
+  associated with water immersion.'
+authors:
+- Tatsuya Hashitomi
+- Daisuke Hoshi
+- Marina Fukuie
+- Takashi Tarumi
+- Jun Sugawara
+- Koichi Watanabe
+categories:
+- OctaMon
+date: '2023-03-27'
+doi: 10.1007/s00221-023-06583-z
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+- sports-science
+publication: '*Experimental Brain Research*'
+publication_types:
+- '2'
+publishDate: 2023-03-27 07:21:47.549579+00:00
+tags: []
+title: Differences in the prefrontal cortex responses of healthy young men performing
+  either water-based or land-based exercise at light to moderate intensity
+
+---
