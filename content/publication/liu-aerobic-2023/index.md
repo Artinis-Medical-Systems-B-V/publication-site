@@ -1,0 +1,52 @@
+---
+abstract: 'Purpose: This study investigated the physical fitness and oxygen uptake
+  kinetics (τ[Formula: see text]) along with the O2 delivery and utilization (heart
+  rate kinetics, τHR; deoxyhemoglobin/[Formula: see text] ratio, ∆[HHb]/[Formula:
+  see text]) adaptations of untrained female participants responding to 4 weeks of
+  high-intensity interval training (HIIT) and 2 weeks of detraining.  Methods: Participants
+  were randomly assigned to HIIT (n = 11, 4 × 4 protocol) or nonexercising control
+  (n = 9) groups. Exercising group engaged 4 weeks of treadmill HIIT followed by 2
+  weeks of detraining while maintaining daily activity level. Ramp-incremental (RI)
+  tests and step-transitions to moderate-intensity exercise were performed. Aerobic
+  capacity and performance (maximal oxygen uptake, [Formula: see text]; gas-exchange
+  threshold, GET; power output, PO), body composition (skeletal muscle mass, SMM;
+  body fat percentage, BF%), muscle oxygenation status (∆[HHb]), [Formula: see text],
+  and HR kinetics were assessed.  Results: HIIT elicited improvements in aerobic capacity
+  ([Formula: see text], + 0.17 ± 0.04 L/min; GET, + 0.18 ± 0.05 L/min, P textless
+  0.01; PO-[Formula: see text], ± 23.36 ± 8.37 W; PO-GET, + 17.18 ± 3.07 W, P textless
+  0.05), body composition (SMM, + 0.92 ± 0.17 kg; BF%, - 3.08% ± 0.58%, P textless
+  0.001), and speed up the τ[Formula: see text] (- 8.04 ± 1.57 s, P textless 0.001)
+  significantly, extending to better ∆[HHb]/[Formula: see text] ratio (1.18 ± 0.08
+  to 1.05 ± 0.14). After a period of detraining, the adaptation in body composition
+  and aerobic capacity, as well as the accelerated τ[Formula: see text] were maintained
+  in the HIIT group, but the PO-[Formula: see text] and PO-GET declined below the
+  post-training level (P textless 0.05), whereas no changes were reported in controls
+  (P textgreater 0.05). Four weeks of HIIT induced widespread physiological adaptations
+  in females, and the majority of improvements were preserved after 2 weeks of detraining
+  except for power output corresponding to [Formula: see text] and GET.'
+authors:
+- Yujie Liu
+- Aiyi Zhou
+- Fengya Li
+- Tian Yue
+- Yuncan Xia
+- Yibing Yao
+- Xiaoxiao Zhou
+- Yihong Zhang
+- Yan Wang
+categories:
+- PortaLite
+date: '2023-04-20'
+doi: 10.1007/s00421-023-05182-8
+featured: false
+projects:
+- sports-science
+publication: '*European Journal of Applied Physiology*'
+publication_types:
+- '2'
+publishDate: 2023-04-20 06:45:09.894080+00:00
+tags: []
+title: Aerobic capacity and $$dottextVtextO_2$$ kinetics adaptive responses to short-term
+  high-intensity interval training and detraining in untrained females
+
+---
