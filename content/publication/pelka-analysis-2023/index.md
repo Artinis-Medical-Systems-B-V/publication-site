@@ -1,0 +1,45 @@
+---
+abstract: 'Purpose: This investigation was to compare differences in skeletal muscle
+  oxygen consumption ([Formula: see text]) and mitochondrial recovery between voluntary
+  (VOL) and electrically stimulated (ES) plantarflexion contractions.  Methods: Twelve
+  men and women (26 ± 4.0 years; 171.8 ± 5.1 cm; 74.0 ± 13.7 kg) were seated in a
+  chair with their right knee fully extended and right foot secured to a force transducer.
+  ES electrodes and a near-infrared spectroscopy device were placed on the gastrocnemius.
+  Participants performed ES plantarflexion contractions across a range of stimulation
+  intensities at frequencies of 1 and 2 Hz and similar VOL contractions. Cuff occlusion
+  occurred immediately following each series of contractions to measure [Formula:
+  see text]. A standardized mitochondrial function assessment protocol was also performed
+  to calculate K-constants between work-matched ES and VOL contractions.  Results:
+  For mitochondrial assessments, there were no significant differences between ES
+  and VOL rate constants (2.03 ± 0.98 vs. 1.25 ± 1.35 min-1, p = 0.266). ES resulted
+  in a significantly greater workrate-[Formula: see text] slope at 1 Hz (0.007 ± 0.007
+  vs. 0.001 ± 0.002% [Formula: see text]/s/N, p = 0.014) and 2 Hz (0.010 ± 0.010 vs.
+  0.001 ± 0.001% [Formula: see text]/s/N, p = 0.012), as well as a significantly greater
+  workrate-[Formula: see text] Y-intercept at 2 Hz (1.603 ± 1.513 vs. 0.556 ± 0.564%
+  [Formula: see text]/s, p = 0.035) but not 1 Hz (0.579 ± 0.448 vs. 0.442 ± 0.357%
+  mV̇O2/s, p = 0.535) when compared to VOL.  Conclusion: ES results in a significantly
+  greater [Formula: see text] at similar work rates compared to VOL, however, the
+  mitochondrial recovery rate constants were similar. The greater mVO2 with ES may
+  partially contribute to the increased rate of fatigue during ES exercise in individuals
+  with muscle paralysis.'
+authors:
+- Edward Z. Pelka
+- B. Ryan Davis
+- Patrick M. Tomko
+- John McDaniel
+categories:
+- OxyMon
+date: '2023-05-25'
+doi: 10.1007/s00421-023-05221-4
+featured: false
+projects:
+- sports-science
+publication: '*European Journal of Applied Physiology*'
+publication_types:
+- '2'
+publishDate: 2023-05-25 10:18:56.136295+00:00
+tags: []
+title: Analysis of electrical stimulation and voluntary muscle contraction on skeletal
+  muscle oxygen uptake and mitochondrial recovery using near-infrared spectroscopy
+
+---

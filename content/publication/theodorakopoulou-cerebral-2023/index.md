@@ -1,0 +1,14 @@
+---
+title: "Cerebral oxygenation during exercise deteriorates with advancing chronic kidney disease"
+date: 2023-04-01
+publishDate: 2023-05-25T10:18:56.127319Z
+authors: ["Marieta P Theodorakopoulou", "Konstantina Dipla", "Andreas Zafeiridis", "Danai Faitatzidou", "Aggelos Koutlas", "Michael Doumas", "Aikaterini Papagianni", "Pantelis Sarafidis"]
+publication_types: ["2"]
+abstract: "ABSTRACT  Background Cognitive impairment and exercise intolerance are common in chronic kidney disease (CKD). Cerebral perfusion and oxygenation play a major role in both cognitive function and exercise execution. This study aimed to examine cerebral oxygenation during a mild physical stress in patients at different CKD stages and controls without CKD.   Methods Ninety participants (18 per CKD stage 2, 3a, 3b and 4 and 18 controls) underwent a 3-min intermittent handgrip exercise at 35% of their maximal voluntary contraction. During exercise, cerebral oxygenation [oxyhaemoglobin (O2Hb), deoxyhaemoglobin (HHb) and total haemoglobin (tHb)] was assessed by near-infrared spectroscopy. Indices of microvascular (muscle hyperaemic response) and macrovascular function (carotid intima-media thickness and pulse wave velocity (PWV)) and cognitive and physical activity status were also evaluated.   Results No differences in age, sex and body mass index were detected among groups. The mini-mental state examination score was significantly reduced with advancing CKD stages (controls: 29.2 ± 1.2, stage 2: 28.7 ± 1.0, stage 3a: 27.8 ± 1.9, stage 3b: 28.0 ± 1.8, stage 4: 27.6 ± 1.5; P = .019). Similar trends were observed for physical activity levels and handgrip strength. The average response in cerebral oxygenation (O2Hb) during exercise was lower with advancing CKD stages (controls: 2.50 ± 1.54, stage 2: 1.30 ± 1.05, stage 3a: 1.24 ± 0.93, stage 3b: 1.11 ± 0.89, stage 4: 0.97 ± 0.80 μmol/l; P &lt; .001). The average tHb response (index of regional blood volume) showed a similar decreasing trend (P = .003); no differences in HHb among groups were detected. In univariate linear analysis, older age, lower estimated glomerular filtration rate (eGFR), Hb, microvascular hyperaemic response and increased PWV were associated with poor O2Hb response during exercise. In the multiple model, eGFR was the only parameter independently associated with the O2Hb response.   Conclusions Brain activation during a mild physical task appears to decrease with advancing CKD as suggested by the smaller increase in cerebral oxygenation. This may contribute to impaired cognitive function and reduced exercise tolerance with advancing CKD."
+featured: false
+publication: "*Nephrology Dialysis Transplantation*"
+url_pdf: "https://academic.oup.com/ndt/advance-article/doi/10.1093/ndt/gfad076/7140537"
+doi: "10.1093/ndt/gfad076"
+
+
+---
