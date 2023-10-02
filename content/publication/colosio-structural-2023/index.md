@@ -1,0 +1,69 @@
+---
+abstract: 'Several months after mild acute SARS-CoV-2 infection, a substantial proportion
+  of patients present persisting, and often debilitating, symptoms and sequelae. These
+  patients show reduced quality of life due to exercise intolerance, muscle weakness,
+  and fatigue. The present study supports the hypothesis that “peripheral” impairments
+  at skeletal muscle level, namely, reduced mitochondrial function and markers of
+  mitochondrial biogenesis, are major determinants of exercise intolerance and fatigue,
+  “central” phenomena at respiratory, and cardiac level being less relevant. ,   Following
+  acute coronavirus disease 2019 (COVID-19), a substantial proportion of patients
+  showed symptoms and sequelae for several months, namely the postacute sequelae of
+  COVID-19 (PASC) syndrome. Major phenomena are exercise intolerance, muscle weakness,
+  and fatigue. We aimed to investigate the physiopathology of exercise intolerance
+  in patients with PASC syndrome by structural and functional analyses of skeletal
+  muscle. At least 3 mo after infection, nonhospitalized patients with PASC ( n =
+  11, age: 54 ± 11 yr; PASC) and patients without long-term symptoms ( n = 12, age:
+  49 ± 9 yr; CTRL) visited the laboratory on four nonconsecutive days. Spirometry,
+  lung diffusion capacity, and quality of life were assessed at rest. A cardiopulmonary
+  incremental exercise test was performed. Oxygen consumption (V̇o 2 ) kinetics were
+  determined by moderate-intensity exercises. Muscle oxidative capacity ( k) was assessed
+  by near-infrared spectroscopy. Histochemical analysis, O 2 flux ( JO 2 ) by high-resolution
+  respirometry, and quantification of key molecular markers of mitochondrial biogenesis
+  and dynamics were performed in vastus lateralis biopsies. Pulmonary and cardiac
+  functions were within normal range in all patients. V̇o 2peak was lower in PASC
+  than CTRL (24.7 ± 5.0 vs. 32.9 ± 7.4 mL·min −1 ·kg −1 , respectively, P textless
+  0.05). V̇o 2 kinetics was slower in PASC than CTRL (41 ± 12 vs. 30 ± 9 s −1 , P
+  textless 0.05). k was lower in PASC than CTRL (1.54 ± 0.49 vs. 2.07 ± 0.51 min −1
+  , P textless 0.05). Citrate synthase, peroxisome proliferator-activated receptor-γ
+  coactivator (PGC)1α, and JO 2 for mitochondrial complex II were significantly lower
+  in PASC vs. CTRL (all P values textless0.05). In our cohort of patients with PASC,
+  we showed limited exercise tolerance mainly due to “peripheral” determinants. Substantial
+  reductions were observed for biomarkers of mitochondrial function, content, and
+  biogenesis. PASC syndrome, therefore, appears to negatively impact skeletal muscle
+  function, although the disease is a heterogeneous condition.  NEW & NOTEWORTHY Several
+  months after mild acute SARS-CoV-2 infection, a substantial proportion of patients
+  present persisting, and often debilitating, symptoms and sequelae. These patients
+  show reduced quality of life due to exercise intolerance, muscle weakness, and fatigue.
+  The present study supports the hypothesis that “peripheral” impairments at skeletal
+  muscle level, namely, reduced mitochondrial function and markers of mitochondrial
+  biogenesis, are major determinants of exercise intolerance and fatigue, “central”
+  phenomena at respiratory, and cardiac level being less relevant.'
+authors:
+- Marta Colosio
+- Lorenza Brocca
+- Marco F. Gatti
+- Marianna Neri
+- Emanuela Crea
+- Francesca Cadile
+- Monica Canepari
+- Maria Antonietta Pellegrino
+- Biagio Polla
+- Simone Porcelli
+- Roberto Bottinelli
+categories:
+- PortaLite
+date: '2023-10-02'
+doi: 10.1152/japplphysiol.00158.2023
+featured: false
+projects:
+- clinical-and-rehabilitation
+publication: '*Journal of Applied Physiology*'
+publication_types:
+- '2'
+publishDate: 2023-10-02 07:27:00.843537+00:00
+tags: []
+title: Structural and functional impairments of skeletal muscle in patients with postacute
+  sequelae of SARS-CoV-2 infection
+url_pdf: https://journals.physiology.org/doi/10.1152/japplphysiol.00158.2023
+
+---
