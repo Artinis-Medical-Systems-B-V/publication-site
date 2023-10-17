@@ -1,0 +1,59 @@
+---
+abstract: 'Background Emerging evidence suggests that asymptomatic carotid artery
+  stenosis (ACAS) is associated with cognitive and mobility dysfunction, and that
+  this may be secondary to cerebral hemodynamic changes. Functional near-infrared
+  spectroscopy (fNIRS) is a noninvasive imaging technology that measures cerebral
+  hemodynamic responses using the absorption of near-infrared light to identify changes
+  in hemoglobin concentrations evoked by neural activity. In this study, we evaluated
+  the changes in oxygenated hemoglobin concentration (HbO2) in healthy control subjects
+  and subjects with bilateral ACAS during two tasks: regular walking and during a
+  dual task assessment involving mobility and executive function (walking while talking
+  [WWT]). Methods fNIRS measures were obtained in twenty-three healthy subjects (mean
+  41 ± 14 years, 14 males) and eight subjects with bilateral moderate-grade (50%-69%)
+  ACAS (mean 66.75 ± 8.5 years, 3 males) using the Brite 23 Artinis fNIRS system.
+  Measures were obtained with subjects walking at their normal pace and then while
+  performing the WWT complex task (reciting alternate letters while walking). Each
+  task was preceded by 30 seconds of rest to establish a baseline oxyhemoglobin level.
+  The HbO2 tracings from each task were generated using OxySoft software and analyzed
+  using a self-script in MATLAB. The MATLAB script filtered out any physiologically
+  irrelevant signals and bad quality data. Bifrontal brain activation was assessed
+  by averaging the signals from the left and right frontal lobes. Results Subjects
+  with bilateral moderate-grade ACAS demonstrated significantly higher mean HbO2 concentrations
+  while walking (controls 0.24 μmol/L and bilateral ACAS 0.69 μmol/L, P = .006) and
+  during the WWT complex task (controls 0.62 μmol/L and bilateral 1.3 μmol/L, P =
+  .007). The bilateral ACAS subjects required higher HbO2 recruitment compared with
+  controls (Figure) during both tasks. Both groups demonstrated a higher mean HbO2
+  recruitment during the WWT task as compared with regular walking. Conclusions Using
+  fNIRS, we found that subjects with bilateral moderate-grade ACAS required higher
+  oxyhemoglobin recruitment, indicating a greater degree of frontal neural activity,
+  to accomplish the same mobility task as healthy controls. This pilot study indicates
+  that patients with ACAS may exhibit compensatory brain activation patterns with
+  increased HbO2 recruitment required to complete tasks compared with healthy controls.'
+authors:
+- Sarasijhaa Desikan
+- Binal Brahmbhatt
+- Vicki Gray
+- Aman Kankaria
+- John Anagnostakos
+- Krik Beach
+- Jigar Patel
+- John Sorkin
+- Siddhartha Sikdar
+- Brajesh Lal
+categories:
+- Brite
+date: '2023-10-17'
+doi: 10.1016/j.jvs.2023.08.017
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+- clinical-and-rehabilitation
+publication: '*Journal of Vascular Surgery*'
+publication_types:
+- '2'
+publishDate: 2023-10-17 06:36:07.168066+00:00
+tags: []
+title: Abnormal Frontal Brain Activation in Patients With Asymptomatic Carotid Artery
+  Stenosis
+
+---
