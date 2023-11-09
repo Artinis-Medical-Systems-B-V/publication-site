@@ -1,0 +1,41 @@
+---
+abstract: 'Introduction: Albeit physical activity (PA) has an important role concerning
+  the health of patients with chronic respiratory diseases, it remains unclear how
+  PA patterns compare among different diseases.  Aims: To compare PA levels of 3 major
+  chronic respiratory conditions (Asthma, COPD and idiopathic pulmonary fibrosis [IPF]);
+  and to analyze PA behaviour in the diseases’ subgroups (mild/moderate and severe/very
+  severe).  Methods: Stable subjects who did not perform pulmonary rehabilitation
+  in the previous year were included. Patients were divided into subgroups according
+  to diseases’ severity. The study’s primary outcome was PA in daily life (Actigraph
+  GT3x; variable: steps/day) measured during one week over 12 h/day; other assessments
+  included pulmonary function, exercise capacity, peripheral muscle strength and quality
+  of life. Comparisons among (sub)groups were corrected for age, BMI and sex.  Results:
+  107 subjects (52 asthma, 46[38-60]years; 31 COPD, 64[58-70]years; 24 IPF, 66[56-71]years)
+  were studied. Subjects with asthma had higher PA levels than those with COPD and
+  IPF (Table 1). No statistical differences in PA were seen among mild subgroups of
+  patients (Table 2). Severe IPF patients had the lowest PA levels among the studied
+  subjects (Table 3).  Conclusions: Subjects with asthma have higher PA levels than
+  COPD and IPF. Subjects with severe IPF are the most physically inactive patients.'
+authors:
+- Afroditi Boutou
+- Marieta Theodorakopoulou
+- Aggelos Koutlas
+- Andreas Zafeiridis
+- Panteleimon Sarafidis
+- Konstantina Dipla
+categories:
+- OxyMon
+date: '2023-11-09'
+doi: 10.1183/13993003.congress-2023.PA1812
+featured: false
+projects:
+- clinical-and-rehabilitation
+- sports-science
+publication: '*Clinical respiratory physiology, exercise and functional imaging*'
+publication_types:
+- '1'
+publishDate: 2023-11-09 14:44:01.704735+00:00
+tags: []
+title: Impact of blunted cerebral oxygenation on COPD patients’ functional performance
+
+---
