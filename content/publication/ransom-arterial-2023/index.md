@@ -1,0 +1,47 @@
+---
+abstract: The function of micro- and macro-vessels within the peripheral vasculature
+  has been identified as a target for the investigation of potential cardiovascular-based
+  promoters of cognitive decline. However, little remains known regarding the interaction
+  of the micro- and macrovasculature as it relates to cognitive function, especially
+  in cognitively-healthy individuals. Therefore, our purpose was to unravel peripheral
+  factors that contribute to the association between age and processing speed. Ninety-nine
+  individuals (51 men, 48 women) across the adult lifespan (19-81 years) were used
+  for analysis. Arterial stiffness was quantified as carotid-femoral pulse-wave velocity
+  (cfPWV) and near-infrared spectroscopy assessed maximal tissue oxygenation (StO
+  2max ) following a period of ischemia. Processing speed was evaluated with Trail
+  Making Test (TMT) Parts A and B. Measures of central (cPP) and peripheral pulse
+  pressure (pPP) were also collected. Moderated mediation analyses were conducted
+  to determine contributions to the age and processing speed relation, and first-order
+  partial correlations were used to assess associations while controlling for the
+  linear effects of age. A p≤0.05 was considered statistically significant. At low
+  levels of StO 2max ,  there was a significant positive (b=1.92;p=0.005) effect of
+  cfPWV on time to completion on TMT Part A. Additionally, cPP (p=0.028) and pPP (p=0.027)
+  remained significantly related to Part A when controlling for age. These results
+  suggested that the peripheral microvasculature may be a valuable target for delaying
+  cognitive decline, especially in currently cognitively-healthy individuals. Further,
+  we reinforced current evidence that pulse pressure is a key endpoint for trials
+  aimed at preventing or delaying the onset of cognitive decline.
+authors:
+- Kyndall V. Ransom
+- Miranda K. Traylor
+- Genevieve B. Batman
+- Madhuri S. Mulekar
+- Benjamin D. Hill
+- Amy R. Nelson
+- Joshua L. Keller
+categories:
+- PortaMon
+date: '2023-12-18'
+doi: 10.1152/ajpheart.00662.2023
+featured: false
+projects:
+- clinical-and-rehabilitation
+publication: '*American Journal of Physiology-Heart and Circulatory Physiology*'
+publication_types:
+- '2'
+publishDate: 2023-12-18 09:24:56.730707+00:00
+tags: []
+title: Arterial stiffness mediates the association between age and processing speed
+  at low levels of microvascular function in humans across the adult lifespan
+
+---

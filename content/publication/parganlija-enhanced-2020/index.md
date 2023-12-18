@@ -1,0 +1,48 @@
+---
+abstract: Lower body negative pressure (LBNP) is an established method of simulating
+  the gravitational effects of orthostasis on the cardiovascular system during space
+  flight or at supine body position on Earth. We hypothesized that LBNP added onto
+  leg press exercise would promote leg muscle perfusion, stimulate oxygen consumption,
+  and modify acute molecular responses. Eighteen subjects performed fifteen slow-paced
+  concentric (4 s) and eccentric contractions (4 s) without or with 40 mmHg LBNP.
+  Force corresponding to 6% of the one-repetition maximum (1-RM) at knee flexion gradually
+  increased to 60% 1-RM within the first half of the range of motion, thereafter remaining
+  constant. AMPK and P-AMPK protein expression was determined in biopsies of vastus
+  lateralis. Venous blood samples were used to measure angiogenic factors. Physiological
+  responses to LBNP included an elevated EMG amplitude, higher heart rate and doubling
+  of the cardiac output compared to control (p textless 0.001). Muscle total hemoglobin
+  was increased by around 20 μmol/l vs. control (p textless 0.001), accompanied by
+  decreasing tissue oxygen saturation and elevated oxygen uptake (p textless 0.05).
+  MMP-2 levels were reduced, and the ratio of P-AMPK to AMPK elevated after exercise
+  with LBNP (p textless 0.05). MMP-9 similarly increased in both groups, whereas endostatin
+  was only elevated in the control group (p textless 0.05). Our results indicate facilitated
+  peripheral blood supply and higher oxygen exploitation leading to activation of
+  the energy sensor AMPK and differential regulation of angiogenic factors involved
+  in muscle tissue remodeling and capillary growth. Simulating orthostasis with LBNP
+  might promote beneficial structural adaptations of skeletal muscles during resistance
+  exercise and contribute to future exercise countermeasures achieving increased muscle
+  strength and endurance during space flight.
+authors:
+- Dajana Parganlija
+- Sebastian Gehlert
+- Frankyn Herrera
+- Jörn Rittweger
+- Wilhelm Bloch
+- Jochen Zange
+categories:
+- PortaMon
+date: '2023-12-18'
+doi: 10.3389/fphys.2020.00781
+featured: false
+projects:
+- sports-science
+publication: '*Frontiers in Physiology*'
+publication_types:
+- '2'
+publishDate: 2023-12-18 09:24:56.724723+00:00
+tags: []
+title: Enhanced Blood Supply Through Lower Body Negative Pressure During Slow-Paced,
+  High Load Leg Press Exercise Alters the Response of Muscle AMPK and Circulating
+  Angiogenic Factors
+
+---
