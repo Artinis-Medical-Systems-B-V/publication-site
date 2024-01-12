@@ -1,0 +1,46 @@
+---
+abstract: 'Introduction: Lower-body aerobic exercise with blood flow restriction (BFR)
+  offers a unique approach for stimulating improvements in muscular function and aerobic
+  capacity. While there are more than 40 reports documenting acute and chronic responses
+  to lower-body aerobic exercise with BFR, responses to upper-body aerobic exercise
+  with BFR are not clearly established.  Purpose: We evaluated acute physiological
+  and perceptual responses to arm cranking with and without BFR.  Methods: Participants
+  (N = 10) completed 4 arm cranking (6 × 2 min exercise, 1 min recovery) conditions:
+  low-intensity at 40%VO2peak (LI), low-intensity at 40%VO2peak with BFR at 50% of
+  arterial occlusion pressure (BFR50), low-intensity at 40%VO2peak with BFR at 70%
+  of arterial occlusion pressure (BFR70), and high-intensity at 80%VO2peak (HI) while
+  tissue oxygenation, cardiorespiratory, and perceptual responses were assessed.  Results:
+  During exercise, tissue saturation for BFR50 (54 ± 6%), BFR70 (55 ± 6%), and HI
+  (54 ± 8%) decreased compared to LI (61 ± 5%, all P textless 0.01) and changes in
+  deoxyhemoglobin for BFR50 (11 ± 4), BFR70 (15 ± 6), and HI (16 ± 10) increased compared
+  to LI (4 ± 2, all P textless 0.01). During recovery intervals, tissue saturation
+  for BFR50 and BFR70 decreased further and deoxyhemoglobin for BFR50 and BFR70 increased
+  further (all P textless 0.04). Heart rate for BFR70 and HI increased by 9 ± 9 and
+  50 ± 15b/min, respectively, compared to LI (both P textless 0.02). BFR50 (8 ± 2,
+  1.0 ± 1.0) and BFR70 (10 ± 2, 2.1 ± 1.4) elicited greater arm-specific perceived
+  exertion (6-20 scale) and pain (0-10 scale) compared to LI (7 ± 1, 0.2 ± 0.5, all
+  P textless 0.05) and pain for BFR70 did not differ from HI (1.7 ± 1.9).  Conclusion:
+  Arm cranking with BFR decreased tissue saturation and increased deoxyhemoglobin
+  without causing excessive cardiorespiratory strain and pain.'
+authors:
+- Benjamin A. Cockfield
+- Isaac J. Wedig
+- Alyssa L. Vinckier
+- John McDaniel
+- Steven J. Elmer
+categories:
+- OxyMon
+date: '2024-01-12'
+doi: 10.1007/s00421-023-05384-0
+featured: false
+projects:
+- sports-science
+publication: '*European Journal of Applied Physiology*'
+publication_types:
+- '2'
+publishDate: 2024-01-12 08:07:31.535176+00:00
+tags: []
+title: Physiological and perceptual responses to acute arm cranking with blood flow
+  restriction
+
+---
