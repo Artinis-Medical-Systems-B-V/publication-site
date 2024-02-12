@@ -1,0 +1,42 @@
+---
+abstract: 'Purpose: We examined the effects of increasing hypoxia severity on oxygenation
+  kinetics in the vastus lateralis muscle during repeated treadmill sprints, using
+  statistical parametric mapping (SPM). Methods: Ten physically active males completed
+  8 sprints of 5 seconds each (recovery = 25 s) on a motorized sprint treadmill in
+  normoxia (sea level; inspired oxygen fraction = 0.21), moderate hypoxia (inspired
+  oxygen fraction = 0.17), and severe hypoxia (SH; inspired oxygen fraction = 0.13).
+  Continuous assessment of tissue saturation index (TSI) in the vastus lateralis muscle
+  was conducted using near-infrared spectroscopy. Subsequently, TSI data were averaged
+  for the sprint–recovery cycle of all sprints and compared between conditions. Results:
+  The SPM analysis revealed no discernible difference in TSI signal amplitude between
+  conditions during the actual 5-second sprint phase. However, during the latter portion
+  of the 25-second recovery phase, TSI values were lower in SH compared with both
+  sea level (from 22 to 30 s; P = .003) and moderate hypoxia (from 16 to 30 s; P = .001).
+  The mean distance covered at sea level (22.9 [1.0] m) was greater than for both
+  moderate hypoxia (22.5 [1.2] m; P = .045) and SH (22.3 [1.4] m; P = .043). Conclusions:
+  The application of SPM demonstrated that only SH reduced muscle oxygenation levels
+  during the late portion of the passive (recovery) phase and not the active (sprint)
+  phase during repeated treadmill sprints. These findings underscore the usefulness
+  of SPM for assessing muscle oxygenation differences due to hypoxic exposure and
+  the importance of the duration of the between-sprints recovery period.'
+authors:
+- Clint Hansen
+- Franck Brocherie
+- Grégoire P. Millet
+- Olivier Girard
+categories:
+- PortaMon
+date: '2024-02-12'
+doi: 10.1123/ijspp.2023-0324
+featured: false
+projects:
+- hypoxia-and-altitude-studies
+publication: '*International Journal of Sports Physiology and Performance*'
+publication_types:
+- '2'
+publishDate: 2024-02-12 08:19:37.075951+00:00
+tags: []
+title: Effects of Hypoxia Severity on Muscle Oxygenation Kinetics Using Statistical
+  Parametric Mapping During Repeated Treadmill Sprints
+
+---
