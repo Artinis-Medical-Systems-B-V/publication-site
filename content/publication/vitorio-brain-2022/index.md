@@ -1,0 +1,53 @@
+---
+abstract: 'Various cueing strategies (internal and external) have been used to alleviate
+  gait deficits in Parkinson’s disease (PD). However, it remains unclear which type
+  of cueing strategy is most effective at different disease stages or with more severe
+  walking impairment, such as freezing of gait (FOG). The underlying neural mechanisms
+  of response to cueing are also unknown. This trial aims to: (i) determine brain
+  activity response to cue stimulus (internal, visual, auditory or tactile) when walking
+  in PD and; (ii) examine changes in brain activity to cues at different stages of
+  PD. This ongoing single-site study uses an exploratory observational design, with
+  laboratory application of cues for gait deficit. A total of 80 people with PD who
+  meet the inclusion criteria will be enrolled. Participants are split into groups
+  dependent on their disease stage (classified with the Hoehn and Yahr (H&Y) scale);
+  n = 20 H&YI; n = 30 H&YII; n = 30 H&YIII. Within the H&Y stage II and III groups,
+  we will also ensure recruitment of a sub-group of 15 individuals with FOG within
+  each group. Participants perform walking tasks under several conditions: baseline
+  walking without cues; randomized cued walking conditions [internal and external
+  (visual, auditory and tactile) cues]. A combined functional near-infrared spectroscopy
+  and electroencephalography system quantifies cortical brain activity while walking.
+  Inertial sensors are used to assess gait. Primary outcome measures are cue-related
+  changes in cortical brain activity while walking, including the relative change
+  in cortical HbO 2 and the power spectral densities at alpha (8-13Hz), beta (13-30Hz),
+  delta (0.5-4Hz), theta (4-8Hz) and gamma (30-40Hz) frequency bandwidths. Secondary
+  outcome measures are cue-related changes in spatiotemporal gait characteristics.
+  Findings will enhance our understanding about the cortical responses to different
+  cueing strategies and how they are influenced by PD progression and FOG status.
+  This trial is registered at clinicaltrials.gov (NCT04863560; April 28, 2021, https://clinicaltrials.gov/ct2/show/NCT04863560).'
+authors:
+- Rodrigo Vitório
+- Rosie Morris
+- Julia Das
+- Richard Walker
+- Martina Mancini
+- Samuel Stuart
+categories:
+- Brite
+- OctaMon
+date: '2024-02-13'
+doi: 10.1371/journal.pone.0275894
+featured: false
+projects:
+- brain-fnirs-motor-cortex
+- brain-fnirs-prefrontal-cortex
+- clinical-and-rehabilitation
+- nirs-eeg
+publication: '*PLOS ONE*'
+publication_types:
+- '2'
+publishDate: 2024-02-13 08:54:41.420308+00:00
+tags: []
+title: 'Brain activity response to cues during gait in Parkinson’s disease: A study
+  protocol'
+
+---

@@ -1,0 +1,55 @@
+---
+abstract: 'Objective: The study investigated the differential characteristics associated
+  with motor skill development and working memory processing during early childhood,
+  thereby providing insights for understanding motor learning and cognitive development
+  in young children. Methods: In total, 101 preschool children (age: 4–6 years) were
+  recruited for this study. The motor skill development level and the working memory
+  capacity of the children were assessed using the MOBAK Motor Development Assessment
+  Scale and a block task paradigm, respectively. Functional near-infrared spectroscopy
+  brain imaging technology was used to monitor hemodynamic signals in the prefrontal
+  cortex (PFC) of the children while they completed different memory tasks. MATLAB
+  software and the Homer2 plugin were used to calculate the oxygenated hemoglobin
+  (Oxy-Hb) concentration in relevant brain regions during the tasks. Results: (1)
+  The low motor skill group exhibited significantly lower accuracy during the three-memory
+  load condition than during the two-memory load condition. Under both two-memory
+  and three-memory load conditions, the high motor skill group exhibited significantly
+  higher accuracy than the low motor skill group. (2) Significant differences in the
+  Oxy-Hb concentration were observed in the left dorsolateral PFC (L-DLPFC), and right
+  and left triangular part of the Broca’s area (R-PTBA and L-PTBA, respectively) between
+  the two memory difficulty levels for the high motor skill group. The Oxy-Hb concentration
+  was significantly higher during the three-memory load condition than during the
+  two-memory load condition. Under the two-memory load condition, the high motor skill
+  group exhibited significantly higher Oxy-Hb concentration in the L-DLPFC and L-PTBA
+  regions than in the low motor skill group. Under the three-memory load condition,
+  the high motor skill group exhibited significantly higher Oxy-Hb concentration in
+  the L-DLPFC, R-PTBA, and L-PTBA regions than the low motor skill group. Conclusion:
+  A close association was observed between the motor skill levels and working memory
+  in young children, with higher motor skill levels being associated with more pronounced
+  brain activation patterns during working memory tasks.'
+authors:
+- Quanliang Zheng
+- Aiping Chi
+- Bing Shi
+- Yimin Wang
+- Qing Ma
+- Fang Zhou
+- Xianmei Guo
+- Menghan Zhou
+- Bowei Lin
+- Ke Ning
+categories:
+- Brite
+date: '2024-02-13'
+doi: 10.3389/fnbeh.2023.1279648
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+publication: '*Frontiers in Behavioral Neuroscience*'
+publication_types:
+- '2'
+publishDate: 2024-02-13 08:54:41.417315+00:00
+tags: []
+title: 'Differential features of early childhood motor skill development and working
+  memory processing: evidence from fNIRS'
+
+---
