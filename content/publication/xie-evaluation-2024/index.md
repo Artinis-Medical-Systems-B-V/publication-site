@@ -1,0 +1,49 @@
+---
+abstract: Studying brain activity during online learning will help to improve research
+  on brain function based on real online learning situations, and will also promote
+  the scientific evaluation of online education. Existing research focuses on enhancing
+  learning effects and evaluating the learning process associated with online learning
+  from an attentional perspective. We aimed to comparatively analyze the differences
+  in prefrontal cortex (PFC) activity during resting, studying, and question-answering
+  states in online learning and to establish a classification model of the learning
+  state that would be useful for the evaluation of online learning. Nineteen university
+  students performed experiments using functional near-infrared spectroscopy (fNIRS)
+  to monitor the prefrontal lobes. The resting time at the start of the experiment
+  was the resting state, watching 13 videos was the learning state, and answering
+  questions after the video was the answering state. Differences in student activity
+  between these three states were analyzed using a general linear model, 1s fNIRS
+  data clips, and features, including averages from the three states, were classified
+  using machine learning classification models such as support vector machines and
+  k-nearest neighbor. The results show that the resting state is more active than
+  learning in the dorsolateral prefrontal cortex, while answering questions is the
+  most active of the three states in the entire PFC, and k-nearest neighbor achieves
+  98.5% classification accuracy for 1s fNIRS data. The results clarify the differences
+  in PFC activity between resting, learning, and question-answering states in online
+  learning scenarios and support the feasibility of developing an online learning
+  assessment system using fNIRS and machine learning techniques.
+authors:
+- Hui Xie
+- Huiting Yang
+- Pengyuan Zhang
+- Zexiao Dong
+- Jiangshan He
+- Mingzhe Jiang
+- Lin Wang
+- Zhen Yuan
+- Xueli Chen
+categories:
+- OctaMon
+date: '2024-03-11'
+doi: 10.1364/BOE.516174
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+publication: '*Biomedical Optics Express*'
+publication_types:
+- '2'
+publishDate: 2024-03-11 12:57:40.637015+00:00
+tags: []
+title: Evaluation of the learning state of online video courses based on functional
+  near infrared spectroscopy
+
+---
