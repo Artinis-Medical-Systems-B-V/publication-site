@@ -1,0 +1,52 @@
+---
+abstract: Long-term hyperglycemia in individuals with type 2 diabetes can detrimentally
+  impact pulmonary function and muscle oxygenation. As a result, these factors can
+  impede the body's adaptation to physical exertion. We aimed to evaluate the oxygen
+  pathway during maximal exercise among overweight/obese individuals with uncomplicated
+  type 2 diabetes, in comparison with a group of matched overweight/obese individuals
+  without diabetes, specifically concentrating on the effects on pulmonary function
+  and muscle oxygenation. Fifteen overweight/obese adults with type 2 diabetes (HbA1c=8.3±1.2%)
+  and 15 matched overweight/obese adults without diabetes underwent pre- and post-exercise
+  lung function assessment. A maximal incremental exercise test was conducted, monitoring
+  muscle oxygenation using near-infrared spectroscopy and collecting arterial blood
+  gas samples. Both groups exhibited normal lung volumes at rest and after exercise.
+  Spirometric lung function did not significantly differ pre- and post-exercise in
+  either group. During maximal exercise, the type 2 diabetes group showed significantly
+  lower augmentation in total hemoglobin and deoxygenated hemoglobin compared to the
+  control group. Despite comparable usual physical activity levels and comparable
+  heart rates at exhaustion, the type 2 diabetes group had a lower peak oxygen consumption
+  than controls. No significant differences were found in arterial blood gas analyses
+  (PaO2, SaO2, CaO2, and PaCO2) between the groups. Individuals with uncomplicated
+  type 2 diabetes displayed normal pulmonary function at rest and post-exercise. However,
+  impaired skeletal muscle oxygenation during exercise, resulting from reduced limb
+  blood volume and altered muscle deoxygenation, may contribute to the lower VO2peak
+  observed in this population.
+authors:
+- Islem Jlali
+- Imen Touil
+- Hassen Ibn Hadj Amor
+- Mohamed Amine Bouzid
+- Omar Hammouda
+- Elsa Heyman
+- Pierre Fontaine
+- Hamdi Chtourou
+- Remi Rabasa-Lhoret
+- Georges Baquet
+- Semah Tagougui
+categories:
+- OxyMon
+date: '2024-04-05'
+doi: 10.1152/ajpendo.00392.2023
+featured: false
+projects:
+- clinical-and-rehabilitation
+- sports-science
+publication: '*American Journal of Physiology-Endocrinology and Metabolism*'
+publication_types:
+- '2'
+publishDate: 2024-04-05 07:55:29.799992+00:00
+tags: []
+title: Impaired muscle oxygenation despite normal pulmonary function in uncomplicated
+  type 2 diabetes
+
+---

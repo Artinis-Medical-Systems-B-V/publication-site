@@ -1,0 +1,46 @@
+---
+abstract: 'Significance: Prefrontal cortex (PFC) hemodynamics are regulated by numerous
+  underlying neurophysiological components over multiple temporal scales. The pattern
+  of output signals, such as functional near-infrared spectroscopy fluctuations (i.e.,
+  fNIRS), is thus complex. We demonstrate first-of-its-kind evidence that this fNIRS
+  complexity is a marker that captures the influence of endurance capacity and the
+  effects of hydrogen gas (H2) on PFC regulation. Aim: We aim to explore the effects
+  of different physical loads of exercise as well as the intaking of hydrogen gas
+  on the fNIRS complexity of the PFC. Approach: Twenty-four healthy young men completed
+  endurance cycling exercise from 0 (i.e., baseline) to 100% of their physical loads
+  after intaking 20 min of either H2 or placebo gas (i.e., control) on each of two
+  separate visits. The fNIRS measuring the PFC hemodynamics and heart rate (HR) was
+  continuously recorded throughout the exercise. The fNIRS complexity was quantified
+  using multiscale entropy. Results: The fNIRS complexity was significantly greater
+  in the conditions from 25% to 100% of the physical load (p textless0.0005) compared
+  with the baseline and after intaking H2 before exercise; this increase of fNIRS
+  complexity was significantly greater compared with the control (p = 0.001 ∼ 0.01).
+  At the baseline, participants with a greater fNIRS complexity had a lower HR (β=
+  −0.35 ∼ −0.33, p = 0.008 ∼ 0.02). Those with a greater increase of complexity had
+  a lower increase of the HR (β = −0.30 ∼ −0.28, p = 0.001 ∼ 0.002) during exercise.
+  Conclusions: These observations suggest that fNIRS complexity would be a marker
+  that captures the adaptive capacity of PFC to endurance exercise and to the effects
+  of interventions on PFC hemodynamics.'
+authors:
+- Yinglu Hong
+- Dapeng Bao
+- Brad Manor
+- Yuncong Zhou
+- Junhong Zhou
+categories:
+- Brite
+date: '2024-04-05'
+doi: 10.1117/1.NPh.11.1.015009
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+- sports-science
+publication: '*Neurophotonics*'
+publication_types:
+- '2'
+publishDate: 2024-04-05 07:55:29.789983+00:00
+tags: []
+title: Effects of endurance exercise on physiologic complexity of the hemodynamics
+  in prefrontal cortex
+
+---

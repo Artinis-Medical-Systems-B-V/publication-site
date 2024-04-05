@@ -1,0 +1,40 @@
+---
+abstract: 'Objective: This study assessed whether polyphenolic rich supplement containing
+  Bacopa monnieri (BM: 300 mg), Panax quinquefolius ginseng (PQ: 100 mg) and whole
+  coffee fruit extract (WCFE: 100 mg) could enhance cognitive performance, affect
+  and cerebral-cortical activation over 28-days of intervention.  Method: A randomised,
+  double-blind, placebo-controlled, between-group study of 52 healthy adults between
+  35 and 65 years (M = 50.20, SD = 9.37) was conducted. Measures of cognition, affect
+  and brain activity were measured at three time points: baseline, 28 days post intervention
+  and 14 days post washout. At each time point, haemodynamic response in the prefrontal
+  cortex (PFC) was measured using functional near-infrared spectroscopy (fNIRS), and
+  serum brain-derived neurotrophic factor (BDNF).  Results: The polyphenolic-rich
+  supplement reliably improved positive affect and delayed recall compared to placebo
+  following 28 days of supplementation. For the brain, those in the active condition
+  showed greater PFC activation on performance of the 2-back tasks post supplementation
+  compared to placebo (p textless .05, d = 0.6).  Discussion: This is the first report
+  of a 28-day supplement intervention and 2-week follow-up study to assess changes
+  in affect, cognition, cerebral haemodynamic response and BDNF in healthy middle-aged
+  adults. The potential synergistic effects of polyphenolic compounds on neurocognitive
+  function in middle-aged adults through emotional-cognitive processing and cognitive
+  reserve are important for promoting brain and cognitive health.'
+authors:
+- Talitha Best
+- Jessica Miller
+- Wei-Peng Teo
+categories:
+- OctaMon
+date: '2024-04-05'
+doi: 10.1080/1028415X.2024.2325227
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+publication: '*Nutritional Neuroscience*'
+publication_types:
+- '2'
+publishDate: 2024-04-05 07:55:29.799992+00:00
+tags: []
+title: Neurocognitive effects a combined polyphenolic-rich herbal extract in healthy
+  middle-aged adults – a randomised, double-blind, placebo-controlled study
+
+---
