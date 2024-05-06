@@ -1,0 +1,41 @@
+---
+abstract: 'Significance: Near‐infrared spectroscopy (NIRS) measurement is a widely
+  used technique to measure muscle oxygenation. A knowledge of the reproducibility
+  of NIRS measurements is essential for the correct interpretation of data. Aim: Our
+  aim was to test the reproducibility and sex differences of NIRS measurements during
+  brachial artery occlusion in healthy participants. Approach: An NIRS device was
+  used to measure muscle oxygenation and microvascular function during a 5 min brachial
+  occlusion. Muscle oxygen consumption (mVO2) and tissue saturation index (TSI%) were
+  used. The occlusion test was performed three times on separate days for males (n
+  = 13, 28 ± 8 years) and females (n = 13, 29 ± 7 years). Results: During the occlusion
+  phase, the reproducibility of mVO2 was excellent (intraclass correlation; ICC = 0.90).
+  During the reperfusion phase, the maximal change in TSI% revealed the best reproducibility
+  (ICC = 0.77). There were no sex differences in reproducibility. Male participants
+  had higher muscle oxygenation during occlusion (mVO2, 0.054 ± 0.010 vs. 0.038 ± 0.012
+  mLO2/min/100 g, p = 0.001, male and female, respectively). There were no sex differences
+  during the reperfusion phase. Conclusion: The reproducibility of NIRS to measure
+  muscle oxygenation and microvascular function during circulation occlusion and reperfusion
+  is good to excellent. Muscle oxygen capacity measured during occlusion is higher
+  in males compared to females, and there are no sex differences in microvascular
+  function during the reperfusion phase.'
+authors:
+- Tommi Jeskanen
+- Venla Ylinen
+- Rasmus I. P. Valtonen
+- Mikko P. Tulppo
+categories:
+- OxyMon
+date: '2024-05-06'
+doi: 10.1111/cpf.12886
+featured: false
+projects:
+- sports-science
+publication: '*Clinical Physiology and Functional Imaging*'
+publication_types:
+- '2'
+publishDate: 2024-05-06 06:53:33.539625+00:00
+tags: []
+title: Reproducibility and sex differences in muscle oxygenation during brachial artery
+  occlusion in healthy participants
+
+---

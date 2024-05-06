@@ -1,0 +1,46 @@
+---
+abstract: Previously, we showed that a normo-baric 100 % oxygen treatment (NbOxTr)
+  enhances motor learning processes, e.g., visuomotor adaptation (VMA) and sequence
+  learning (SL). However, this work was limited to behavioral outcomes and did not
+  identify the physiological mechanistic underpinnings of these improvements. Here,
+  we expand on this research to investigate the effects of a NbOxTr on the oxygen
+  tissue saturation index (TSI) level of the prefrontal cortex (PFC) when performing
+  a SL task and whether potential SL improvements relate to increased TSI levels in
+  the PFC. Twenty four right-handed young, healthy adults were randomly assigned to
+  a NbOxTr group (normo-baric 100 % oxygen, n = 12) or a control group (normal air,
+  n = 12). They received their respective treatments via a nasal cannula during the
+  experiment. Oxygen TSI levels of the right and left PFC were measured via near-infrared
+  spectroscopy (NIRS) throughout different SL task phases (Baseline, Training, Testing).
+  The NbOxTr increased the TSI of the PFC in the Training phase (p textless 0.01)
+  and positively affected SL retention in the Testing phase (p textless 0.05). We
+  also found a positive correlation between TSI changes in the right PFC during the
+  gas treatment phase (3.4 % increase) and response time (RT) improvements in the
+  SL task training and retention phase (all p textless 0.05). Our results suggest
+  that a simple NbOxTr increases the oxygenated hemoglobin availability in the PFC,
+  which appears to mediate the retention of acquired SL improvements in healthy young
+  adults. Future studies should examine treatment-related oxygenation changes in other
+  brain areas involved and their relation to enhanced learning processes. Whether
+  this NbOxTr improves SL in neurologically impaired populations should also be examined.
+authors:
+- Zheng Wang
+- Brian A. Irving
+- Guillaume Spielmann
+- Neil Johannsen
+- Frank Greenway
+- Marc Dalecki
+categories:
+- PortaLite
+date: '2024-05-06'
+doi: 10.1016/j.brainres.2024.148962
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+publication: '*Brain Research*'
+publication_types:
+- '2'
+publishDate: 2024-05-06 06:53:33.534620+00:00
+tags: []
+title: A single exposure to 100% normo-baric oxygen therapy appears to improve sequence
+  learning processes by increasing prefrontal cortex oxygen saturation
+
+---
