@@ -1,0 +1,44 @@
+---
+abstract: 'Significance: The advances and the miniaturization in functional Near Infrared
+  Spectroscopy (fNIRS) instrumentation offers the potential to move the classical
+  laboratory-based cognitive neuroscience investigations into more naturalistic settings.
+  Wearable and mobile fNIRS devices also provide a novel child-friendly means to image
+  functional brain activity in freely moving toddlers and preschoolers. Measuring
+  brain activity in more ecologically valid settings with fNIRS presents additional
+  challenges, such as the increased impact of physiological interferences. One of
+  the most popular methods to minimize such interferences is to regress out short
+  separation channels from the long separation channels (i.e., superficial signal
+  regression or SSR). Whilst this has been extensively investigated in adults, little
+  is known about the impact of systemic changes on the fNIRS signals recorded in children
+  in either classical or novel naturalistic experiments. Aim: We aim to investigate
+  if extracerebral physiological changes occur in toddlers and preschoolers, and whether
+  SSR can help minimize these interferences. Approach: We collected fNIRS data from
+  3-to-7 years olds during a conventional computerized static task and in a dynamic
+  naturalistic task in an immersive virtual reality (VR) continuous automatic virtual
+  environment (CAVE). Results: Our results show that superficial signal contamination
+  data is present in both young children as in adults. Importantly, we find that SSR
+  helps in improving the localization of functional brain activity, both in the computerized
+  task and, to a larger extent, in the dynamic VR task. Conclusions: Following from
+  these results, we formulate suggestions to advance the field of developmental neuroimaging
+  with fNIRS, particularly in ecological settings.'
+authors:
+- P. Pinti
+- L.M Dina
+- T Smith
+categories:
+- Brite
+date: '2024-06-07'
+doi: 10.1101/2024.06.02.596560
+featured: false
+projects:
+- brain-fnirs-motor-cortex
+- brain-fnirs-prefrontal-cortex
+publication: ''
+publication_types:
+- '0'
+publishDate: 2024-06-07 06:34:25.801880+00:00
+tags: []
+title: 'Ecological fNIRS in mobile children: Using short separation channels to correct
+  for systemic contamination during naturalistic neuroimaging'
+
+---

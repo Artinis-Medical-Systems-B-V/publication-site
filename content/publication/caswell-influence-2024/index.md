@@ -1,0 +1,46 @@
+---
+abstract: 'Critical power (CP) represents an important threshold for exercise performance
+  and fatiguability. We sought to determine the extent to which sex, hemoglobin mass
+  (Hbmass), and skeletal muscle characteristics influence CP. Prior to CP determination
+  (i.e., 3-5 constant work rate trials to task failure), Hbmass and skeletal muscle
+  oxidative capacity (τ) were measured and vastus lateralis muscle biopsy samples
+  were collected from 12 females and 12 males matched for aerobic fitness relative
+  to fat-free mass (mean (SD); V̇O2max: 59.2 (7.7) vs. 59.5 (7.1) mL·kg FFM-1·min-1,
+  respectively). Males had a significantly greater CP than females in absolute units
+  (225 (28) vs. 170 (43) W; p=0.001) but not relative to body mass (3.0 (0.6) vs.
+  2.7 (0.6) W·kg BM-1; p=0.267) or FFM (3.6 (0.7) vs. 3.7 (0.8) W·kg FFM-1; p=0.622).
+  Males had significantly greater W′ (p ≤ 0.030) and greater Hbmass (p ≤ 0.016) than
+  females, regardless of the normalization approach; however, there were no differences
+  in mitochondrial protein content (p=0.375), τ (p=0.603), or MHC I proportionality
+  (p=0.574) between males and females. Whether it was expressed in absolute or relative
+  units, CP was positively correlated with Hbmass (0.444≤r≤0.695; ptextless0.05),
+  mitochondrial protein content (0.413≤r≤0.708; ptextless0.05), and MHC I proportionality
+  (0.506≤r≤0.585; ptextless0.05), and negatively correlated with τ when expressed
+  in relative units only (-0.588≤r≤-0.527; ptextless0.05). Overall, CP was independent
+  of sex but variability in CP was related to Hbmass and skeletal muscle characteristics.
+  The extent to which manipulations in these physiological parameters influence CP
+  warrants further investigation to better understand factors underpinning CP.'
+authors:
+- Allison M. Caswell
+- Thomas R. Tripp
+- Hilkka Kontro
+- Brittany A. Edgett
+- J. Preston Wiley
+- Victor Lun
+- Martin J. MacInnis
+categories:
+- PortaMon
+date: '2024-06-07'
+doi: 10.1152/japplphysiol.00120.2024
+featured: false
+projects:
+- sports-science
+publication: '*Journal of Applied Physiology*'
+publication_types:
+- '2'
+publishDate: 2024-06-07 06:34:25.789676+00:00
+tags: []
+title: The influence of sex, hemoglobin mass, and skeletal muscle characteristics
+  on cycling critical power
+
+---

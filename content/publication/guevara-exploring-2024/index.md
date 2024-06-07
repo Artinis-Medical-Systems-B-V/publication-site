@@ -1,0 +1,40 @@
+---
+abstract: This work proposes using functional Near-Infrared Spectroscopy (fNIRS) as
+  a non-invasive alternative to study the motor cortex's functional connectivity in
+  Parkinson’s Disease (PD). The bilateral motor regions were covered with the fNIRS
+  probe, and graph theoretical network analysis and network-based statistics were
+  applied to investigate differences in network topology and specific sub-networks
+  between groups. Small-world properties like clustering coefficient, characteristic
+  path length, and small-world index were computed and compared between PD patients
+  and controls across various sparsity thresholds. PD patients exhibited a lower clustering
+  coefficient and small-world index than controls. Network-based statistics identified
+  a disconnected, mostly bilateral subnetwork in the PD group comprising nine edges
+  and ten nodes. Mean functional connectivity was positively correlated with both
+  groups' clustering coefficient and small world index, albeit this correlation was
+  greater in the control group. A strong coupling between these two properties suggests
+  that greater functional connectivity within the subnetwork may cause a more effective
+  functional motor network in controls. The results provide insights into alterations
+  in functional connectivity and network organization in the motor cortex of individuals
+  with PD, demonstrating the potential of fNIRS for studying the neural basis of symptoms
+  in this disease.
+authors:
+- Edgar Guevara
+- Eleazar Samuel Kolosovas-Machuca
+- Ildefonso Rodríguez-Leyva
+categories:
+- Brite
+date: '2024-06-07'
+doi: 10.1016/j.bosn.2024.04.001
+featured: false
+projects:
+- brain-fnirs-motor-cortex
+- clinical-and-rehabilitation
+publication: '*Brain Organoid and Systems Neuroscience Journal*'
+publication_types:
+- '2'
+publishDate: 2024-06-07 06:34:25.796813+00:00
+tags: []
+title: Exploring motor cortex functional connectivity in Parkinson's disease using
+  fNIRS
+
+---
