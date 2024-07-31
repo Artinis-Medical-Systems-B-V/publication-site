@@ -1,0 +1,47 @@
+---
+abstract: 'Purpose Both cognitive motor dual-tasks (CMDT) protocols and hypoxic environments
+  have been associated with significant impairments in cognitive and physical performance.
+  We aimed to determine the effects of hypoxia on cognitive performance and neuromuscular
+  fatigue during a highly physically demanding CMDT. Methods Fifteen young adults
+  completed a first session involving a cognitive task (CTLCOG) followed by cycling
+  exercise (CTLEX) in normoxia. After that, they randomly participated in CMDT sessions
+  in normoxia (DTNOR) and hypoxia (DTHYP). The physical exercise consisted of 20 min
+  cycling at a “hard” perceived effort, and the cognitive task consisted of 15 min
+  sustained attention to response time task (SART). Concurrent psycho-physiological
+  measurements included: quadriceps neuromuscular fatigue (peripheral/central components
+  from femoral nerve electrostimulation), prefrontal cortex (PFC) oxygenation by near-infrared
+  spectroscopy, and perception of effort. Results SART performance significantly decreased
+  in DTNOR (-15.7 ± 15.6%, P textless 0.01) and DTHYP (-26.2 ± 16.0%, P textless 0.01)
+  compared to CTLCOG (-1.0 ± 17.7%, P = 0.61). Peripheral fatigue similarly increased
+  across conditions, whereas the ability of the central nervous system to activate
+  the working muscles was impaired similarly in DTNOR (-6.1 ± 5.9%, P textless 0.001)
+  and DTHYP (-5.4 ± 7.3%, P textless 0.001) compared to CTLEX (-1.1 ± 0.2%, P = 0.52).
+  Exercise-induced perception of effort was higher in DTHYP vs. DTNOR and in DTNOR
+  vs. CTLEX. This was correlated with cognitive impairments in both normoxia and hypoxia.
+  PFC deoxygenation was more pronounced in DTHYP compared to DTNOR and CTLEX. Conclusion
+  In conclusion, performing a sustained attention task together with physically challenging
+  cycling exercise promotes central neuromuscular fatigue and impairs cognitive accuracy;
+  the latter is particularly noticeable when the CMDT is performed in hypoxia.'
+authors:
+- T. Goepp
+- M. Hayes
+- H. Di Domenico
+- P. Hot
+- T. Rupp
+categories: []
+date: '2024-07-31'
+doi: 10.1007/s00421-024-05555-7
+featured: false
+projects:
+- hypoxia-and-altitude-studies
+publication: '*European Journal of Applied Physiology*'
+publication_types:
+- '2'
+publishDate: 2024-07-31 06:38:41.605509+00:00
+tags:
+- PL
+title: Adding a sustained attention task to a physically demanding cycling exercise
+  exacerbates neuromuscular fatigue and impairs cognitive performance in both normoxia
+  and hypoxia
+
+---

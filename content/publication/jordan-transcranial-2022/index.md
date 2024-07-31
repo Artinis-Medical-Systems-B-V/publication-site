@@ -1,0 +1,47 @@
+---
+abstract: Transcranial direct current stimulation (tDCS) targeting the left dorsolateral
+  prefrontal cortex (dlPFC) improves dual task walking in older adults, when tested
+  just after stimulation. The acute effects of tDCS on the cortical physiology of
+  walking, however, remains unknown. Methods In a previous study, older adults with
+  slow gait and executive dysfunction completed a dual task walking assessment before
+  and after 20 min of tDCS targeting the left dlPFC or sham stimulation. In a subset
+  of seven participants per group, functional near-infrared spectroscopy (fNIRS) was
+  used to quantify left and right prefrontal recruitment defined as the oxygenated
+  hemoglobin response to usual and dual task walking (ΔHbO2), as well as the absolute
+  change in this metric from usual to dual task conditions (i.e., ΔHbO2  cost  ).
+  Paired t -tests examined pre- to post-stimulation differences in each fNIRS metric
+  within each group. Results The tDCS group exhibited pre- to post-stimulation reduction
+  in left prefrontal ΔHbO2 cost (p = 0.03). This mitigation of dual task “cost” to
+  prefrontal recruitment was induced primarily by a reduction in left prefrontal ΔHbO2
+  specifically within the dual task condition (p = 0.001), an effect that was observed
+  in all seven participants within this group. Sham stimulation did not influence
+  ΔHbO2 cost or ΔHbO2 in either walking condition (p&gt; 0.35), and neither tDCS nor
+  sham substantially influenced right prefrontal recruitment (p&gt; 0.16). Discussion
+  This preliminary fNIRS data suggests that tDCS over the left dlPFC may modulate
+  prefrontal recruitment, as reflected by a relative reduction in the oxygen consumption
+  of this brain region in response to dual task walking.
+authors:
+- Azizah J. Jor’dan
+- Hagar Bernad-Elazari
+- Anat Mirelman
+- Natalia A. Gouskova
+- On-Yee Lo
+- Jeffrey M. Hausdorff
+- Brad Manor
+categories:
+- PortaLite
+date: '2024-07-31'
+doi: 10.3389/fnagi.2022.843122
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+- neurostimulation-fnirs
+publication: '*Frontiers in Aging Neuroscience*'
+publication_types:
+- '2'
+publishDate: 2024-07-31 06:38:41.621101+00:00
+tags: []
+title: Transcranial Direct Current Stimulation May Reduce Prefrontal Recruitment During
+  Dual Task Walking in Functionally Limited Older Adults – A Pilot Study
+
+---
