@@ -1,0 +1,46 @@
+---
+abstract: 'Background: Near-infrared spectroscopy (NIRS) provides a non-invasive,
+  cost-effective method for assessing skeletal muscle oxidative capacity when combined
+  with a short exercise protocol and arterial occlusions. However, the impact of different
+  exercise protocols and reproducibility of the method in non-athletic adults have
+  not previously been assessed. Methods: Young, non-athletic adults (YA) were invited
+  to perform a short duration, fast frequency contraction (SF) exercise protocol and
+  a long duration slow frequency (LS) contraction protocol, combined with NIRS measurements
+  and arterial occlusions to assess skeletal muscle oxidative capacity. YA and older
+  non-athletic adults (OA; &gt;65 years old) were invited to perform the SF exercise
+  protocol twice to assess the reproducibility of this oxidative capacity measurement.
+  Results: We included 25 participants (14 male (56%), age range: 18–86 years) in
+  the analyses. There was a strong positive correlation and good agreement between
+  time constants derived following the SF and LS exercise protocols (Lin’s concordance
+  correlation coefficient: 0.69, p-value &lt; 0.001 mean bias [LoA]: −3.2 [−31.0,
+  24.4] seconds. There was a strong positive correlation and good agreement between
+  time constants derived from the SF exercise protocol in the YA &amp; OA group (Lin’s
+  concordance correlation coefficient: 0.63, p-value &lt; 0.001; mean bias [LoA] −6.4
+  [−34.0, 21.3] seconds). Conclusion: These data provide evidence to suggest that
+  NIRS is a in-vivo method for the assessment of skeletal muscle oxidative capacity
+  irrespective of exercise protocol duration or muscle contraction frequency. NIRS-measured
+  oxidative capacity via the SF exercise protocol was reproducible in non-athletic
+  adults with a wide range in age.'
+authors:
+- Fistra J. Tandirerung
+- Alexandra Jamieson
+- Elizabeth Hendrick
+- Alun D. Hughes
+- Siana Jones
+categories: []
+date: '2024-09-02'
+doi: 10.3389/fphys.2024.1429673
+featured: false
+projects:
+- sports-science
+publication: '*Frontiers in Physiology*'
+publication_types:
+- '2'
+publishDate: 2024-09-02 10:23:51.714450+00:00
+tags:
+- PM
+title: 'Near-infrared spectroscopy (NIRS) in vivo assessment of skeletal muscle oxidative
+  capacity: a comparison of results from short versus long exercise protocols and
+  reproducibility in non-athletic adults'
+
+---
