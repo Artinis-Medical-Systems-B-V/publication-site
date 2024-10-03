@@ -1,0 +1,43 @@
+---
+abstract: Purpose The effects of coffee ingestion on skeletal muscle microvascular
+  function are not well understood. This study aimed to investigate the acute effects
+  of coffee intake with varying levels of caffeine on skeletal muscle microvascular
+  reactivity at rest and oxygen extraction during maximal incremental exercise in
+  physically active individuals.  Methods Twenty healthy young male participants were
+  administered coffee with low caffeine (3 mg/kg body weight; LC), high caffeine (6 mg/kg
+  body weight; HC), and placebo (decaf) in different sessions. Skeletal muscle reactivity
+  indexes, including tissue saturation index 10s slope (TSI10) and TSI half time recovery
+  (TSI ½) following 5-minute ischemia were measured at rest and were measured at baseline
+  and post-coffee consumption using near-infrared spectroscopy (NIRS). Post-coffee
+  intake, NIRS was also used to measure microvascular oxygen extraction during exercise
+  via maximal incremental exercise. Peak oxygen consumption and peak power output
+  (Wpeak) were simultaneously evaluated.  Results Post-coffee consumption, TSI10 was
+  significantly higher in the LC condition compared to placebo (p = 0.001) and significantly
+  higher in the HC condition compared to placebo (p textless 0.001). However, no difference
+  was detected between LC and HC conditions (p = 0.527). HC condition also showed
+  significant less TSI ½ compared to placebo (p = 0.005). However, no difference was
+  detected for microvascular oxygen extraction during exercise, despite the greater
+  Wpeak found for HC condition (p textless 0.001) compared to placebo.  Conclusion
+  Coffee ingestion with high caffeine level (6 mg/kg body weight) significantly enhanced
+  skeletal muscle reactivity at rest. However, the improvement of exercise performance
+  with coffee intake is not accompanied by alterations in muscle oxygen extraction.
+authors:
+- Bin Leng
+- Haizhen Huang
+- Chuan Zhang
+categories:
+- PortaLite
+date: '2024-10-03'
+doi: 10.1080/15502783.2024.2409673
+featured: false
+projects:
+- sports-science
+publication: '*Journal of the International Society of Sports Nutrition*'
+publication_types:
+- '2'
+publishDate: 2024-10-03 07:37:55.458284+00:00
+tags: []
+title: 'Effects of coffee intake on skeletal muscle microvascular reactivity at rest
+  and oxygen extraction during exercise: a randomized cross-over trial'
+
+---
