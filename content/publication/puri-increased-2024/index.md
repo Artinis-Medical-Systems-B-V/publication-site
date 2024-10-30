@@ -1,0 +1,47 @@
+---
+abstract: Background Sympathetic nervous system hyperactivity and chronic intermittent
+  nocturnal hypoxia in individuals with obstructive sleep apnea (OSA) predispose them
+  to microvascular impairment, which may contribute to increased daytime muscle fatigue.
+  This study aimed to assess microvascular reactivity of the skeletal muscle, examine
+  fatigability, and determine the relationship between fatigability and microvascular
+  reactivity in adults with OSA. Methods Twenty-six participants were allocated into
+  two groups—those with OSA and those without i.e. non-OSA. Each group comprised of
+  13 individuals who underwent an arterial occlusion test on their non-dominant leg.
+  The percentage change of maximal hyperemic response (MHR) and the time to achieve
+  MHR (tM) of both the total myoglobin/hemoglobin (∆[Hbtot]) and the oxygenated myoglobin/hemoglobin
+  (∆[HbO2]) signals from near-infrared spectroscopy were calculated to examine microvascular
+  reactivity. In addition, a 10-min walk test was performed to assess performance
+  and perceived fatigability. Results The OSA group demonstrated a reduced in ∆[Hbtot]MHR
+  (150.9 ± 16.2% vs. 235.8 ± 72.7%, p = 0.006), ∆[HbO2]MHR (131.4 ± 8% vs. 161.7 ± 10.6%,
+  p = 0.001) and increased ∆[Hbtot]tM (80.5 ± 13.1 s vs. 47.7 ± 9.9 s, p textless 0.001),
+  ∆[HbO2]tM (85.2 ± 22.4 s vs. 52.1 ± 5.9 s, p = 0.001) compared to the non-OSA group.
+  In addition, participants in the OSA group experienced greater perceived (6 ± 1
+  vs. 2.8 ± 0.1, p = 0.001) and performance fatigability (1.1 ± 0.1 vs. 0.9 ± 0.1,
+  p = 0.001) compared to adults in the non-OSA group. Moreover, both performance and
+  perceived fatigability were significantly associated with microvascular reactivity
+  parameters (all p textless 0.05). Conclusion Microvascular dysfunction, as determined
+  by an attenuated post-occlusive reactive hyperemia, is observed in individuals with
+  OSA that may contribute to increased fatigability in these individuals.
+authors:
+- Shipra Puri
+- Monira Aldhahi
+- Lisa M. K. Chin
+- Andrew A. Guccione
+- Vivek Jain
+- Jeffrey E. Herrick
+categories:
+- OxyMon
+date: '2024-10-30'
+doi: 10.1186/s40001-024-02102-0
+featured: false
+projects:
+- clinical-and-rehabilitation
+publication: '*European Journal of Medical Research*'
+publication_types:
+- '2'
+publishDate: 2024-10-30 08:43:39.372179+00:00
+tags: []
+title: 'Increased fatigability and impaired skeletal muscle microvascular reactivity
+  in adults with obstructive sleep apnea: a cross-sectional study'
+
+---
