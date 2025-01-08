@@ -30,17 +30,18 @@ authors:
 - Emily J. H. Jones
 categories:
 - Brite
-date: '2024-02-12'
+date: '2025-01-08'
 doi: 10.1117/1.NPh.10.3.035010
 featured: false
 projects:
 - brain-fnirs-prefrontal-cortex
 - brain-fnirs-temporal-cortex
+- nirs-eeg
 - neonatal
 publication: '*Neurophotonics*'
 publication_types:
 - '2'
-publishDate: 2024-02-12 08:19:37.083929+00:00
+publishDate: 2025-01-08 10:48:01.733180+00:00
 tags: []
 title: 'Developing customized NIRS-EEG for infant sleep research: methodological considerations'
 

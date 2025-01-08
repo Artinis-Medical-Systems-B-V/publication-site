@@ -28,16 +28,17 @@ authors:
 - Emily J H Jones
 categories:
 - Brite
-date: '2024-02-12'
+date: '2025-01-08'
 doi: 10.1093/oons/kvad012
 featured: false
 projects:
 - brain-fnirs-prefrontal-cortex
 - brain-fnirs-temporal-cortex
+- virtual-reality
 publication: '*Oxford Open Neuroscience*'
 publication_types:
 - '2'
-publishDate: 2024-02-12 08:19:37.089913+00:00
+publishDate: 2025-01-08 10:48:01.733180+00:00
 tags: []
 title: 'Combining wearable fNIRS and immersive virtual reality to study preschoolers’
   social development: a proof-of-principle study on preschoolers’ social preference'

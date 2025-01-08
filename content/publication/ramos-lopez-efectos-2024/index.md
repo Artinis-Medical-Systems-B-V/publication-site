@@ -1,0 +1,53 @@
+---
+abstract: Introducción. El entrenamiento de músculatura respiratoria (EMR) aminora
+  los efectos negativos del reflejo metabólico sobre  el  rendimiento  físico,  mejorando  la  oxigenación  en  áreas  cerebrales  implicadas  en  actos  motores,  músculos
+  respiratorios y locomotores. Objetivo. Evaluar el efecto del entrenamiento de fuerza
+  (Inspiratory Threshold Loading, ITL) versus  resistencia  (Hiperpnea  Isocápnica  Voluntaria,  HIV)  de  músculos
+  respiratorios  sobre la  desoxigenación tisular (ΔTissue  Saturation  Index,  TSI)  inducida  por
+  el  ejercicio de  alta intensidad  en  corteza  prefrontal  (PFC),  músculos respiratorios
+  (m.Intercostales) y locomotores (m.Vastus Lateralis) en atletas de resistencia aeróbica.
+  Métodos. Veinte atletas (6 mujeres) entrenaron  durante cinco semanas HIV (3 sesiones  x  semana,  12
+  minutos a 70% CVF) o  ITL  (5 sesiones x  semana,  7  minutos  y 20  segundos a  30  rpm
+  a  60% PImax).  Los  participantes completaron  pre y post-intervención un test
+  cardiopulmonar (CPET) y un test de carga constante de alta intensidad (TLim) con
+  registro continuo de TSI mediante dispositivos portátiles (Portalite® y Portamon®)
+  provistos con tecnología de espectroscopía cercana al rango infrarrojo (Near Infrared
+  Spectroscopy, NIRS). El contraste  del  efecto de ITL con HIV se analizó  en  ΔTSI
+  post-entrenamiento mediante la prueba t-Student para muestras no pareadas. El efecto
+  de cada método o de entrenamiento se analizó con t-Student para muestras pareadas.
+  Se determinó el tamaño del efecto (effect size, ES) de ITL e HIV con d–Cohen.  Resultados.
+  No hubo diferencias significativas entre ITL vs HIV en ΔTSI–PFC (p=0,389), ΔTSI–m.Intercostales
+  (p=0,489),  y ΔTSI–m.Vastus  Lateralis (p=0,452).   El  ES  para  ITL  y  HIV  fue  pequeño  en  PFC  (0,34  y  0,47),  en
+  m.Intercostales fue pequeño (0,31 y 0,28), y trivial en m.Vastus Lateralis (0,10
+  y 0,08), respectivamente. Conclusión. El  entrenamiento de  resistencia  de  músculos  respiratorios  (HIV)  mejoró  la
+  función  pulmonar,  rendimiento  físico,  y eficiencia ventilatoria, independiente
+  de los cambios en la desoxigenación tisular inducida por el ejercicio físico constante
+  de alta intensidad en atletas
+authors:
+- Daniel Ramos-López
+- Antonio Escobar
+- Aracelly Pérez
+- Kevin Parra-Huenchuleo
+- Matías Carreño-Román
+- Raúl Caulier
+- Maximiliano Espinosa-Ramírez
+- Felipe Contreras-Briceño
+categories:
+- PortaLite
+- PortaMon
+date: '2025-01-08'
+doi: 10.13140/RG.2.2.13194.99523
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+- sports-science
+publication: '*Unpublished*'
+publication_types:
+- '0'
+publishDate: 2025-01-08 10:48:01.748800+00:00
+tags: []
+title: Efectos del Entrenamiento Respiratorio de Fuerza versus Resistencia sobre la
+  Desoxigenación Tisular inducida por Ejercicio de Alta Intensidad en Atletas de Resistencia
+  Aeróbica
+
+---

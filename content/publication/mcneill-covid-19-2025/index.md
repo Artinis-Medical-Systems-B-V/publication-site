@@ -1,0 +1,46 @@
+---
+abstract: 'To date, 770 million people worldwide have contracted COVID-19, with many
+  reporting long-term “brain fog”. Concerningly, young adults are both overrepresented
+  in COVID-19 infection rates and may be especially vulnerable to prolonged cognitive
+  impairments following infection. This calls for focused research on this population
+  to better understand the mechanisms underlying cognitive impairment post-COVID-19.
+  Addressing gaps in the literature, the current study investigated differences in
+  neuropsychological performance and cerebral haemodynamic activity following COVID-19
+  infection in undergraduate students. 94 undergraduates (age in years: M = 20.58,
+  SD = 3.33, range = 18 to 46; 89 % female) at the University of Otago reported their
+  COVID-19 infection history before completing a neuropsychological battery while
+  wearing a multichannel near-infrared spectroscopy (NIRS) device to record prefrontal
+  haemodynamics. We observed that 40 % retrospectively self-reported cognitive impairment
+  (brain fog) due to COVID-19 and 37 % exhibited objective evidence of cognitive impairment
+  (assessed via computerised testing), with some suggestion that executive functioning
+  may have been particularly affected; however, group-level analyses indicated preserved
+  cognitive performance post COVID-19, which may in part reflect varying compensatory
+  abilities. The NIRS data revealed novel evidence that previously infected students
+  exhibited distinct prefrontal haemodynamic patterns during cognitive engagement,
+  reminiscent of those observed in adults four decades older, and this appeared to
+  be especially true if they reported experiencing brain fog due to COVID-19. These
+  results provide new insights into the potential neuropathogenic mechanisms influencing
+  cognitive impairment following COVID-19.'
+authors:
+- Ronan McNeill
+- Rebekah Marshall
+- Shenelle Anne Fernando
+- Olivia Harrison
+- Liana Machado
+categories:
+- Brite
+date: '2025-01-08'
+doi: 10.1016/j.bbi.2024.12.002
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+- clinical-and-rehabilitation
+publication: '*Brain, Behavior, and Immunity*'
+publication_types:
+- '2'
+publishDate: 2025-01-08 10:48:01.748800+00:00
+tags: []
+title: COVID-19 may Enduringly Impact Cognitive Performance and Brain Haemodynamics
+  in Undergraduate Students
+
+---
