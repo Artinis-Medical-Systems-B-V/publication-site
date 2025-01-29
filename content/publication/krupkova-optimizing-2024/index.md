@@ -1,0 +1,38 @@
+---
+abstract: 'Introduction: Active recovery (AR) is used during exercise training; however,
+  it is unclear whether the AR should involve the whole body, only the upper extremities,
+  or only the lower extremities when aiming to maintain localized upper body performance.
+  Therefore, this study aimed to evaluate the impact of different AR strategies on
+  repeated intermittent finger flexor performance leading to exhaustion. Methods:
+  A crossover trial involving a familiarization session and three laboratory visits,
+  each including three exhaustive intermittent isometric tests at 60% of finger flexor
+  maximal voluntary contraction separated by 22 min of randomly assigned AR: walking,
+  intermittent hanging, and climbing. Results: The impulse (Nꞏs) significantly decreased
+  from the first to third trials after walking (−18.4%, P = 0.002, d = 0.78), climbing
+  (−29.5%, P textless 0.001, d = 1.48), and hanging (−27.2%, P textless 0.001, d = 1.22).
+  In the third trial, the impulse from the intermittent test was significantly higher
+  after walking (21,253 ± 5,650 Nꞏs) than after hanging (18,618 ± 5,174 Nꞏs, P = 0.013,
+  d = 0.49) and after climbing (18,508 ± 4,435 Nꞏs, P = 0.009, d = 0.54). Conclusions:
+  The results show that easy climbing or intermittent isolated forearm contractions
+  should not be used as AR strategies to maintain subsequent performance in comparison
+  to walking, indicating that using the same muscle group for AR should be avoided
+  between exhaustive isometric contractions.'
+authors:
+- Dominika Krupková
+- James J. Tufano
+- Jiří Baláš
+categories:
+- PortaMon
+date: '2025-01-29'
+doi: 10.3389/fspor.2024.1480205
+featured: false
+projects:
+- sports-science
+publication: '*Frontiers in Sports and Active Living*'
+publication_types:
+- '2'
+publishDate: 2025-01-29 07:53:02.067580+00:00
+tags: []
+title: Optimizing active recovery strategies for finger flexor fatigue
+
+---

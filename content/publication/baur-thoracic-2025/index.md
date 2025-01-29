@@ -1,0 +1,41 @@
+---
+abstract: 'To assess the impact of thoracic load carriage on the physiological response
+  to exercise in hypoxia. Healthy males (n = 12) completed 3 trials consisting of
+  45 min walking in the following conditions: (1) unloaded normoxia (UN; FIO2:20.93%);
+  (2) unloaded hypoxia (UH; FIO2:~13.0%); and (3) loaded hypoxia (LH; 29.5 kg; FIO2:~13.0%).
+  Intensity was matched for absolute VO2 (2.0 ± 0.2 L·min-1) across conditions and
+  relative VO2 (64.0 ± 2.6 %VO2max) across hypoxic conditions. With LH versus UH,
+  there were increases in breathing frequency (5-11 breaths·min-1; p textless 0.05)
+  and decreases in tidal volume (10%-18%; p textless 0.05) throughout exercise due
+  to reductions in end inspiratory lung volumes (p textless 0.05). Consequently, deadspace
+  (11%-23%; p textless 0.05) and minute ventilation (7%-11%; p textless 0.05) were
+  increased starting at 20 and 30 min, respectively. In addition, LH increased perceived
+  exertion/dyspnea and induced inspiratory (~12%; p textless 0.05 vs. UN) and expiratory
+  (~10%; p textless 0.05 vs. pre-exercise) respiratory muscle fatigue. Expiratory
+  flow limitation was present in 50% of subjects during LH. Cardiac output and muscle
+  oxygenation were maintained during LH despite reduced stroke volume (6%-8%; p textless
+  0.05). Finally, cerebral oxygenated/total hemoglobin were elevated in the LH condition
+  versus UH starting at 15 min (p textless 0.05). Thoracic load carriage increases
+  physiological strain and interferes with the compensatory response to hypoxic exposure.'
+authors:
+- Daniel A. Baur
+- Caroline M. Lassalle
+- Stephanie P. Kurti
+categories:
+- OctaMon
+- PortaMon
+date: '2025-01-29'
+doi: 10.14814/phy2.70197
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+- hypoxia-and-altitude-studies
+publication: '*Physiological Reports*'
+publication_types:
+- '2'
+publishDate: 2025-01-29 07:53:02.083199+00:00
+tags: []
+title: Thoracic load carriage impairs the acute physiological response to hypoxia
+  in healthy males
+
+---
