@@ -1,0 +1,42 @@
+---
+abstract: 'Blood flow restriction (BFR) may enhance the acute training stimulus of
+  exercise. This study examined acute physiological and perceptual responses to three
+  lower-limb BFR + interval exercise protocols. Twenty-four club/university male athletes
+  (age 25 ± 3.5, VO2max 47.0 ± 5.5ml∙kg∙min-1) completed four experimental conditions
+  in a randomised crossover manner: (i) high-intensity control (HI) – 100% maximal
+  aerobic power (Wmax); (ii) high-intensity recovery occlusion (HIRO) – 100%Wmax,
+  80% limb occlusion pressure (LOP) during rest; (iii) moderate-intensity low occlusion
+  (MILO) – 70%Wmax, 50%LOP during exercise; and (iv) moderate-intensity high occlusion
+  (MIHO) – 70%Wmax, 80%LOP during exercise. All interval exercise protocols were three
+  sets of five × 30-s cycling, 30-s unloaded active recovery with 3-min seated rest
+  between sets. During recovery, HIRO condition indicated lower tissue saturation
+  index, higher deoxyhaemoglobin, oxyhaemoglobin and total haemoglobin levels than
+  other conditions (all p textless 0.05). HIRO exhibited significantly higher heart
+  rate (HR) from set 2 and blood lactate (bLa) at 5-min post-exercise than other conditions
+  (all p textless 0.05). Higher vastus lateralis muscle activity was exhibited on
+  the last exercise repetition of HIRO than HI (p textless 0.05). MIHO elicited significantly
+  higher deoxygenation, lower muscle activation but similar HR and bLa than HI during
+  exercise; and higher perceived pain and exertion than other conditions (all p textless
+  0.05). Applying BFR during rest between high-intensity interval exercise sets increases
+  physiological stresses without affecting exercise intensity or perceptual responses;
+  applying BFR during moderate-intensity exercise may increase both physiological
+  and perceptual responses beyond those of high-intensity exercise.'
+authors:
+- Man Tong Chua
+- Alexiaa Sim
+- Stephen Francis Burns
+categories: []
+date: '2025-02-26'
+doi: 10.1139/apnm-2024-0423
+featured: false
+projects:
+- sports-science
+publication: '*Applied Physiology, Nutrition, and Metabolism*'
+publication_types:
+- '2'
+publishDate: 2025-02-26 08:21:26.242638+00:00
+tags: []
+title: 'ACUTE PHYSIOLOGICAL AND PERCEPTUAL RESPONSES TO THREE BLOOD FLOW RESTRICTED
+  INTERVAL EXERCISE PROTOCOLS: A RANDOMISED CONTROLLED TRIAL'
+
+---
