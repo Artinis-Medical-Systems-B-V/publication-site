@@ -1,0 +1,50 @@
+---
+abstract: 'Greater walking automaticity facilitates maintenance of gait speed without
+  prefrontal cortex (PFC) resources. Brain aging may cause shifts to more attentional
+  gait with greater engagement of the PFC. Nigrostriatal dopaminergic integrity likely
+  facilitates walking automaticity and maintenance of gait speed during attentional
+  dual-tasks. Older adults (n=201; age=74.9; 63.2% women, gait speed=1.10 m/s) completed
+  a dual-task protocol of saying every other letter of the alphabet while walking.
+  PFC activation was measured by functional near-infrared spectroscopy. Four groups
+  were defined based on PFC activation (increased during dual-task, PFC+, or not,
+  PFC-) and gait speed performance (maintained during dual-task, gait+, or slowed,
+  gait-). To compare nigrostriatal dopaminergic integrity across groups, we assessed
+  binding of the type-2 vesicular monoamine transporter (VMAT2) density in the sensorimotor
+  and associative striatum using [11C]-(+)-α-dihydrotetrabenazine (DTBZ) positron
+  emission tomography. Multinomial regression estimated adjusted associations of DTBZ
+  binding with group membership. We hypothesized that DTBZ binding was highest for
+  those who maintained gait speed without additional PFC activation when switching
+  from single-to dual-task (PFC-/gait+; i.e., highest gait automaticity). In bivariate
+  analyses, the PFC-/gait+ group had the highest DTBZ binding in the sensorimotor
+  striatum (p=0.05); binding in the associative striatum was similar across groups
+  (p=0.1). Results were similar in adjusted regression analyses; DTBZ binding in sensorimotor
+  striatum was associated with lower likelihood to be in the PFC-/gait-(OR=0.28; 95%
+  CI: 0.08, 0.94) or the PFC+/gait+ (OR=0.29; 95% CI: 0.10, 0.84) groups compared
+  to PFC-/gait+ reference group. These results provide support for dopaminergic involvement
+  in sustaining gait automaticity at older ages.'
+authors:
+- Andrea L Rosso
+- Emma M Baillargeon
+- Nico I Bohnen
+- Brian J Lopresti
+- Theodore J Huppert
+- Lana M Chahine
+- Erin Jacobsen
+- Caterina Rosano
+categories:
+- OctaMon
+date: '2025-03-26'
+doi: 10.1101/2025.02.28.25323092
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+- sports-science
+publication: ''
+publication_types:
+- '0'
+publishDate: 2025-03-26 08:02:24.880094+00:00
+tags: []
+title: Nigrostriatal dopaminergic integrity in relation to prefrontal cortex activity
+  and gait performance during dual-task walking in older adults
+
+---
