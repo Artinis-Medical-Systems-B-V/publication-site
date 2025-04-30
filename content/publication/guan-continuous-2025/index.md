@@ -1,0 +1,42 @@
+---
+abstract: Continuous wave-diffuse optical tomography (CW-DOT) has emerged as a promising
+  non-invasive neuroimaging technique for assessing brain function. Its ability to
+  provide brain mapping with high spatial resolution over traditional functional near-infrared
+  spectroscopy (fNIRS) has garnered significant interest in clinical and cognitive
+  neuroscience. In this review, we critically summarized the hardware, reconstruction
+  algorithms, and applications of CW-DOT for human brain mapping, providing an up-to-date
+  overview and guidelines for future studies to conduct CW-DOT studies. ScienceDirect,
+  PubMed, Web of Science, and IEEE Xplore databases were searched from their inception
+  up to 1 July 2024. A total of 83 articles were included in the final systematic
+  review. The review focused on existing hardware systems, reconstruction algorithms
+  for CW-DOT, and the applications of CW-DOT in both clinical settings and cognitive
+  neuroscience. Finally, we highlighted current challenges and potential directions
+  of CW-DOT in future research, including the absence of standardized protocols and
+  a pressing need for enhanced quantitative precision. This review underscores the
+  sophisticated capabilities of CW-DOT systems, particularly in the realm of human
+  brain imaging. Extensive clinical and neuroscience research has attested to the
+  technique’s anatomical precision and reliability, establishing it as a potent instrument
+  in research and clinical practice.
+authors:
+- Shuo Guan
+- Yuhang Li
+- Yuanyuan Gao
+- Yuxi Luo
+- Hubin Zhao
+- Dalin Yang
+- Rihui Li
+categories:
+- Brite
+date: '2025-04-30'
+doi: 10.3390/s25072040
+featured: false
+projects: []
+publication: '*Sensors*'
+publication_types:
+- '2'
+publishDate: 2025-04-30 07:42:00.815707+00:00
+tags: []
+title: 'Continuous Wave-Diffuse Optical Tomography (CW-DOT) in Human Brain Mapping:
+  A Review'
+
+---
