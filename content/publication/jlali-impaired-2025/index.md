@@ -1,0 +1,41 @@
+---
+abstract: Aims Emerging evidence suggests Type 2 diabetes (T2D) may adversely affect
+  cerebral hemodynamics and oxygenation. This study aimed to explore the impact of
+  uncomplicated T2D on cerebral hemodynamics and oxygenation during maximal exercise.
+  Methods In a comparative clinical trial, 30 matched pairs of subjects with obesity,
+  stratified by T2D status, were enrolled. Hemodynamic and oxygenation parameters
+  were assessed during incremental maximal exercise. Additionally, physical activity
+  levels, lipid profiles, and insulin resistance markers were evaluated. Results Participants
+  with T2D exhibited significantly impaired cerebral blood volume (total hemoglobin)
+  and oxygenation (oxygenated hemoglobin) compared to controls, especially at exercise
+  intensities above 80 % of VO2peak. This impairment was independent of differences
+  in arterial carbon dioxide partial pressure (PaCO2) levels between the groups at
+  peak exercise (P textgreater 0.05, PaCO2 34.4 ± 3.2 vs 34.5 ± 1.3 mmHg). Moreover,
+  individuals with T2D had a lower estimated glucose disposal rate (eGDR) compared
+  to the control group (P = 0.02; 7.4 ± 2.4 vs 9.27 ± 0.97 mg/kg/min). Conclusions
+  Our findings indicate that insulin resistance and hyperglycemia in T2D contribute
+  to impaired cerebral hemodynamics and oxygenation, even before clinical signs of
+  microangiopathy appear. These alterations could have significant implications for
+  cognitive function and overall brain health in individuals with T2D.
+authors:
+- Islem Jlali
+- Imen Touil
+- Hassen Haj Amor
+- Sémah Tagougui
+categories:
+- PortaMon
+date: '2025-07-01'
+doi: 10.1016/j.jdiacomp.2025.109102
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+- clinical-and-rehabilitation
+publication: '*Journal of Diabetes and its Complications*'
+publication_types:
+- '2'
+publishDate: 2025-07-01 07:18:08.938036+00:00
+tags: []
+title: 'Impaired cerebral hemodynamics and oxygenation in type 2 diabetes: insights
+  into insulin resistance and hyperglycemia effects'
+
+---
