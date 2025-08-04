@@ -1,0 +1,41 @@
+---
+abstract: The present study aimed to investigate which of two commonly performed running
+  interval sessions elicited the greatest magnitude of and time spent with elevated
+  muscle deoxygenation in trained middle-distance runners. Thirteen trained middle-distance
+  runners (22.4 ± 3.2 y; 63.1 ± 10.9 kg; n = 9 males) participated in the study. Subjects
+  completed a field-based incremental running test and two interval sessions. The
+  interval sessions comprised a 6 × 1 km and a 15 × 400 m interval session, both with
+  1 min passive recovery periods. Both sessions were implemented with the aim of achieving
+  the maximal sustainable pace for each repetition, while mean speed, heart rate,
+  RPE, blood lactate concentration and muscle deoxygenation responses were monitored.
+  Mean speed during the interval repetitions was significantly higher during the 400
+  m intervals (~ 5.63 ± 0.35 m·s−1 vs ~ 5.30 ± 0.28 m·s−1; p textless 0.001). Both
+  the peak magnitude of muscle deoxygenation (absolute difference ± CI 3.42 ± 2.23%;
+  p = 0.006) and the time spent with values textgreater 60% peak muscle deoxygenation
+  (83.5 ± 66.4 s; p = 0.02) were significantly greater during the 400 m intervals,
+  while the time spent with a heart rate textgreater 90% peak heart rate was significantly
+  longer during the 1 km interval session (570 ± 143, p textless 0.001). Despite this,
+  there was no difference in RPE, blood lactate concentration or peak heart rate between
+  sessions. These findings suggest that 1 km intervals may preferentially target central
+  physiologic responses while 400 m intervals may elicit greater peripheral physiological
+  responses in trained middle-distance runners
+authors:
+- Phillip Bellinger
+- Will Morris
+- Llion Roberts
+categories:
+- PortaMon
+date: '2025-08-04'
+doi: 10.1007/s00421-025-05903-1
+featured: false
+projects:
+- sports-science
+publication: '*European Journal of Applied Physiology*'
+publication_types:
+- '2'
+publishDate: 2025-08-04 08:00:20.996232+00:00
+tags: []
+title: Maximizing muscle deoxygenation during interval training in middle-distance
+  runners
+
+---

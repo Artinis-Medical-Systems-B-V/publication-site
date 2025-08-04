@@ -1,0 +1,41 @@
+---
+abstract: 'Purpose: Increasing prevalence of oral contraceptive (OC) use in physically
+  active females highlights the need for sex-specific exercise metabolism research.
+  This pilot study investigated the influence of chronic OC use on the exercising
+  metabolic and respiratory response during a rowing high-intensity interval exercise
+  (HIIE) protocol in young, healthy, moderately active females. Methods: Fifteen females
+  [21.9 (3.7) years] were categorized by OC (n = 6) vs. non-oral contraceptive use
+  (NOC) (n = 9). HIIE was four sets of 3 min maximal effort intervals on the rowing
+  ergometer with 3 min rest between intervals and performed during the follicular
+  phase (days 2–10 or inactive pills) of participants’ menstrual cycles. To confirm
+  comparable physical profiles of participants, we collected body fat percentage,
+  fat-free mass, bone mineral density, blood pressure, aerobic fitness, muscular strength
+  and endurance, flexibility, and microvascular function. Results: Groups were similar
+  in all measures of physical profiles (P textgreater 0.05). Our pilot study showed
+  that OC use or NOC use did not influence the exercising metabolic and cardiorespiratory
+  response to HIIE in young, healthy, moderately active females. Fat oxidation, carbohydrate
+  oxidation, metabolic flexibility, blood lactate concentration, blood glucose, and
+  cardiorespiratory response were similar between groups (P textgreater 0.05). Conclusion:
+  These findings suggest that there was no significant difference in exercising metabolic
+  and cardiorespiratory response between OC and NOC users.'
+authors:
+- Sara Garcia
+- Alyssa Olenick
+- Nathan Jenkins
+- Regis Pearson
+categories:
+- PortaMon
+date: '2025-08-04'
+doi: 10.55225/hppa.638
+featured: false
+projects:
+- sports-science
+publication: '*Health Promotion & Physical Activity*'
+publication_types:
+- '2'
+publishDate: 2025-08-04 08:00:20.978638+00:00
+tags: []
+title: Oral contraceptives do not impact metabolic and cardiorespiratory response
+  during acute high-intensity rowing interval exercise — a pilot study
+
+---
