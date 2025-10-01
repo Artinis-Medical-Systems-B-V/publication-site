@@ -1,0 +1,13 @@
+---
+title: "Mild Traumatic Brain Injury: Reviewing Current Trends in Neuroimaging & Biomarkers"
+date: 2025-09-01
+publishDate: 2025-10-01T07:44:36.424627Z
+authors: ["Tatiana Shvedoff"]
+publication_types: ["0"]
+abstract: "Traumatic brain injury (TBI) is a major public health concern affecting millions of individuals each year, with severity ranging from mild concussions to life-threatening neurological damage. While moderate and severe TBIs often receive prompt clinical attention, mild TBI (mTBI) presents challenges due to its subtle symptoms and frequent underdiagnosis. This review examines current advances in neuroimaging and biofluid biomarkers for the detection and monitoring of mTBI. Neuroimaging techniques such as functional MRI (fMRI), electroencephalography (EEG), and functional near-infrared spectroscopy (fNIRS) are assessed for their ability to detect functional changes that are not visible on conventional imaging. Biofluid biomarkers, including glial fibrillary acidic protein (GFAP), ubiquitin carboxy-terminal hydrolase L1 (UCH-L1), tau proteins, cytokines, and exosomes, are evaluated as minimally invasive indicators of neuronal injury, neuroinflammation, and blood-brain barrier disruption. Practical factors such as accessibility, cost, diagnostic windows, and technological feasibility are also discussed. Lastly, emerging tools such as digital phenotyping, wearable biosensors, and implantable devices are explored as part of a shift toward individualized and continuous monitoring. By synthesizing these developments, this review concludes that the future of mTBI care lies in a multi-modal diagnostic approach that integrates functional imaging with targeted biomarker panels, paving the way for more personalized and effective patient management."
+featured: false
+publication: ""
+doi: "10.58445/rars.3022"
+
+
+---

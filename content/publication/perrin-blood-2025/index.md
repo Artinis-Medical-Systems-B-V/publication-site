@@ -1,0 +1,52 @@
+---
+abstract: 'Purpose Low-load blood-flow resistance training (LLBFRT) is increasingly
+  used as an alternative to high-load resistance training (HLRT) to improve muscle
+  strength and endurance while reducing mechanical stress on tissues. However, the
+  acute responses associated with LLBFRT during sport climbing-specific exercises
+  remain unknown. The aims of the study were to describe muscle oxygenation, fatigue
+  and perceptual responses to climbing-specific finger flexors exercise in LLBFRT
+  and compare such responses to HLRT.  Methods Fifteen advanced to elite climbers
+  took part in three visits: a familiarization session and two randomized finger-flexors
+  training sessions in either HLRT (3 sets of 10–12 repetitions, ~70% maximal voluntary
+  contraction, MVC) or LLBFRT (3 sets of 14–20 repetitions, ~40%MVC with cuff set
+  at 60% of limb occlusion pressure). Finger flexors muscle oxygenation was assessed
+  using near-infrared spectroscopy. Force–time integral (FTI) quantified mechanical
+  load under both modalities. Muscle fatigue was quantified as force loss from pre-
+  to 1-min, 5-min and 15-min post-exercise. Perceived discomfort, effort, and finger
+  pain were assessed after each set.  Results LLBFRT led to greater muscle deoxyhemoglobin
+  values (+20 ± 25%, p = 0.005, d = 0.9) during exercise. Despite lower FTI (−7 ± 10%,
+  p = 0.028), muscle fatigue was greater in LLBFRT than HLRT 1-min post-exercise (−24.8 ± 7.9
+  vs −18.6 ± 7.4%MVC, p = 0.016) but not 5-min and 15-min post-exercise. LLBFRT caused
+  greater discomfort during inter-set recovery but lower finger pain during exercise.  Conclusion
+  Climbing-specific LLBFRT induced a transient increase in finger flexors muscle deoxygenation
+  and fatigue likely due to elevated metabolic stress and venous blood pooling, while
+  reducing mechanical load and thus potentially lowering injury risk.'
+authors:
+- Titouan P. Perrin
+- Hugo Randy
+- Xavier Hugues
+- Nicolas Tourette
+- Marie Coudurier
+- Michel Guinot
+- Violaine Cahouet
+- Franck Quaine
+- Stéphane Doutreleau
+- Hugo A. Kerherve
+- Mathieu Marillier
+- Julien V. Brugniaux
+categories:
+- PortaLite
+date: '2025-10-01'
+doi: 10.1007/s00421-025-05980-2
+featured: false
+projects:
+- sports-science
+publication: '*European Journal of Applied Physiology*'
+publication_types:
+- '2'
+publishDate: 2025-10-01 07:44:36.422620+00:00
+tags: []
+title: Blood flow restriction exacerbates muscle deoxygenation and fatigue during
+  sport climbing specific finger flexors resistance training
+
+---

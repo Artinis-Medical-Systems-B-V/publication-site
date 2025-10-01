@@ -1,0 +1,42 @@
+---
+abstract: Synchronizing movements to music enhances exercise performance and enjoyment,
+  yet its short‐term effects on attention and cognition remain underexplored. This
+  study examined the influence of synchronous music, asynchronous music, and a no‐music
+  control condition on emotional responses, perceived exertion, attentional focus,
+  and executive function during moderate‐intensity cycling. Twenty‐seven healthy young
+  adults completed three cycling sessions under different conditions in a within‐subjects
+  design. Measures included perceived valence, perceived activation, ratings of perceived
+  exertion (RPE), state attention, remembered pleasure, intrinsic motivation, Flanker
+  Squared Task (FST) performance, and changes in cerebral oxygenation in the left
+  prefrontal cortex (PFC) using functional near‐infrared spectroscopy (fNIRS). Compared
+  to the asynchronous and control conditions, synchronizing to music during exercise
+  significantly enhanced perceived valence, perceived activation, intrinsic motivation,
+  and external focus while reducing RPE. When the central arrow in the target stimulus
+  conflicted with the surrounding flanker arrows in the FST (i.e., stimulus incongruent
+  trials), synchronization tended to improve performance, an effect fully mediated
+  by reductions in RPE. External focus during exercise was positively associated with
+  FST performance, partially mediated by reduced cerebral oxygenation in the PFC.
+  The findings suggest that synchronizing movements to music enhances the psychological
+  experience of exercise and may support executive function by increasing external
+  focus and reducing RPE.
+authors:
+- Yixue Quan
+- Kirk N. Olsen
+- William Forde Thompson
+categories:
+- PortaLite
+date: '2025-10-01'
+doi: 10.1111/nyas.70052
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+- sports-science
+publication: '*Annals of the New York Academy of Sciences*'
+publication_types:
+- '2'
+publishDate: 2025-10-01 07:44:36.418609+00:00
+tags: []
+title: 'The Emotional and Cognitive Effects of Synchronizing to Music During Acute
+  Exercise: An fNIRS Study'
+
+---
