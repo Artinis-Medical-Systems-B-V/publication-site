@@ -1,0 +1,51 @@
+---
+abstract: 'Introduction There is an established interplay between gait and attention
+  allocation. Attention during walking is important to reduce instability, process
+  environmental stimuli, and perform simultaneous tasks. It is of critical importance
+  to consider how attention modulation during dual-tasking influences prefrontal cortex
+  (PFC) activity and gait characteristics. However, paradigms probing this relationship
+  are often limited in realism and must balance mobility challenges with practicality.
+  This protocol introduces a novel methodology combining functional near-infrared
+  spectroscopy (fNIRS) and augmented reality (AR) in a complex gait dual-task to validate
+  the use of virtual obstacles to probe for a cortical indicator of altered attention
+  during distracted walking. Materials and methods This methodological development
+  study investigated 11 healthy adults (mean age 50.9 ± 5.8 years, 5 female) in an
+  obstacle navigation cognitive-motor dual-task combining fNIRS and AR during navigation
+  of realistic AR-projected 3D virtual obstacles and physical obstacles. The distraction
+  task involved a 5-word recall from a mimicked phone call. Participants performed
+  six experimental tasks: walking; walking + distraction; walking + obstacles (both
+  physical and virtual); and walking + obstacles (both physical and virtual) + distraction.
+  Results Intraclass correlations ranged from 0.563 to 0.886 for oxyhemoglobin (O2Hb)
+  ratios and gait velocity between virtual and physical obstacles, demonstrating moderate-to-good
+  consistency between methods. Proportional bias in the Bland-Altman plots was observed
+  for O2Hb. Participants also demonstrated task-dependent modulation of gait and PFC
+  activity in response to dual task conditions in both tasks. Conclusions This combination
+  of technologies elicited task-dependent modulation in PFC activity and gait behaviours
+  in healthy adults, confirming the efficacy of AR-projected obstacles in a cognitive-motor
+  dual-task paradigm. Based on these outcomes, it is likely that this experimental
+  approach will be useful in probing cortical activity changes associated with dual-tasking
+  to inform the relationship between mobility and cognition and characterize behavioural
+  and neural markers of functional mobility.'
+authors:
+- L. Maureen Krelove
+- Anthony Machula
+- Lauren E. Sergio
+- George Mochizuki
+categories:
+- OctaMon
+date: '2025-10-29'
+doi: 10.1371/journal.pone.0333622
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+- virtual-reality
+publication: '*PLOS One*'
+publication_types:
+- '2'
+publishDate: 2025-10-29 08:09:34.552671+00:00
+tags: []
+title: 'Prefrontal cortex activity during virtual obstacle avoidance and distracted
+  walking: A methodological proof of concept using augmented reality and functional
+  near-infrared spectroscopy'
+
+---

@@ -1,0 +1,47 @@
+---
+abstract: 'PostCOVID-19 is a condition affecting approximately 10% of individuals
+  infected with SARS-CoV-2, presenting significant challenges in diagnosis and clinical
+  management. Portable neuroimaging techniques, such as functional near-infrared spectroscopy
+  (fNIRS), offer real-time insights into cerebral hemodynamics and represent a promising
+  tool for studying postCOVID-19 in naturalistic settings. This study investigates
+  the integration of fNIRS with machine learning to identify neural correlates of
+  postCOVID-19. A total of six machine learning classifiers—Random Forest, Support
+  Vector Machine (SVM), K-Nearest Neighbors (KNNs), XGBoost, Logistic Regression,
+  and Multi-Layer Perceptron (MLP)—were evaluated using a stratified subject-aware
+  cross-validation scheme on a dataset comprising 29,737 time-series samples from
+  37 participants (9 postCOVID-19, 28 controls). Four different feature representation
+  strategies were compared: raw time-series, PCA-based dimensionality reduction, statistical
+  feature extraction, and a hybrid approach that combines time-series and statistical
+  descriptors. Among these, the hybrid representation demonstrated the highest discriminative
+  performance. The SVM classifier trained on hybrid features achieved strong discrimination
+  (ROC-AUC = 0.909) under subject-aware CV5; at the default threshold, Sensitivity
+  was moderate and Specificity was high, outperforming all other methods. In contrast,
+  models trained on statistical features alone exhibited limited Sensitivity despite
+  high Specificity. These findings highlight the importance of temporal information
+  in the fNIRS signal and support the potential of machine learning combined with
+  portable neuroimaging for postCOVID-19 identification. This approach may contribute
+  to the development of non-invasive diagnostic tools to support individualized treatment
+  and longitudinal monitoring of patients with persistent neurological symptoms.'
+authors:
+- Antony Morales-Cervantes
+- Victor Herrera
+- Blanca Nohemí Zamora-Mendoza
+- Rogelio Flores-Ramírez
+- Aaron A. López-Cano
+- Edgar Guevara
+categories:
+- Brite
+date: '2025-10-29'
+doi: 10.3390/make7040129
+featured: false
+projects:
+- brain-fnirs-temporal-cortex
+- clinical-and-rehabilitation
+publication: '*Machine Learning and Knowledge Extraction*'
+publication_types:
+- '2'
+publishDate: 2025-10-29 08:09:34.569865+00:00
+tags: []
+title: 'Exploring New Horizons: fNIRS and Machine Learning in Understanding PostCOVID-19'
+
+---

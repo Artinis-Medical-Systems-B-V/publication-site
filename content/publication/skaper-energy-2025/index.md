@@ -1,0 +1,41 @@
+---
+abstract: During locomotion, the plantarflexor muscle fascicles appear to operate
+  on the ascending limb of its maximal force-length relationship, producing less force
+  per unit activation and elevating the energy cost (EC) compared to contractions
+  performed at optimal length (Lo). The EC of the medial gastrocnemius muscle was
+  quantified at different initial muscle-tendon unit lengths by having participants
+  perform 30 submaximal fixed-end contractions at an ankle joint angle associated
+  with 0.85Lo, Lo, and 1.15Lo in a random order, cyclically targeting 50% of the maximal
+  force at 0.85Lo. EC was quantified from near-infrared spectroscopy during blood
+  flow occlusion and EMG quantified MG muscle activity. Mean EC was 36±24% higher
+  at 0.85Lo (p=0.005) compared to Lo. Mean EC at 1.15Lo (2±27% lower) was similar
+  to that at Lo (, p=0.81), despite lower forces at 0.85Lo (p=0.02), and similar absolute
+  fascicle shortening (p=0.10), and shortening velocity (p=0.52). Muscle activity
+  was ~2-fold higher at 0.85Lo (p=0.001). The EC per unit activation was similar across
+  lengths (p=0.45), whereas the EC per unit force was significantly higher at 0.85Lo
+  compared to Lo and 1.15Lo (p=0.008). Together, these results demonstrate a significant
+  increase in the cost of cyclically producing force at short initial muscle-tendon
+  unit lengths, due to a lower force potential at that initial muscle fascicle length
+  which we surmise is a result of a lower crossbridge force and not a higher energetic
+  cost of activation.
+authors:
+- Spencer J. Skaper
+- Jack J. Jin
+- Michael J. Asmussen
+- Jared R. Fletcher
+categories:
+- PortaMon
+date: '2025-10-29'
+doi: 10.1152/japplphysiol.00540.2025
+featured: false
+projects:
+- sports-science
+publication: '*Journal of Applied Physiology*'
+publication_types:
+- '2'
+publishDate: 2025-10-29 08:09:34.552671+00:00
+tags: []
+title: The energy cost of cyclic muscle contractions at different initial muscle-tendon
+  unit lengths derived from near-infrared spectroscopy
+
+---

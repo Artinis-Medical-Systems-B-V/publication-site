@@ -1,0 +1,54 @@
+---
+abstract: Training-induced increment in maximal oxygen consumption (V̇O₂max) derives
+  from central and peripheral cardiovascular adaptations in healthy individuals. Whether
+  such a response is altered in Parkinson’s disease (PD), a condition that may cause
+  cardiovascular autonomic dysfunction, remains unclear. This study investigated changes
+  in V̇O₂max and lower-limb muscle oxygen (O2) extraction capacity following moderate-intensity
+  continuous training (MICT) in PD patients. Seven male PD patients (age 70.4 ± 7.0
+  years, Hoehn and Yahr stage 2) participated in a 4-month, bi-weekly MICT. Before
+  and after the intervention, resting heart rate (RHR) was assessed, and a cardiopulmonary
+  exercise test (CPET) was performed to determine V̇O₂max, maximal power output (POmax),
+  and maximal heart rate (HRmax). During the CPET, peak concentration changes of deoxygenated
+  haemoglobin (Hb) and myoglobin (Mb) Δ[deoxy(Hb + Mb)]peak in the vastus lateralis,
+  and taken as an index of O2 extraction, were assessed with a functional near-infrared
+  spectroscopy (fNIRS). Comparisons with the Paired Samples T-Test or the corresponding
+  non-parametric Wilcoxon Test were performed to assess changes in outcomes from pre-
+  to post-MICT, while Pearson correlation was computed between Δ[deoxy(Hb + Mb)]peak
+  and V̇O2max. V̇O₂max (p = 0.006), HRmax (p = 0.03), and POmax (p = 0.005) were significantly
+  increased following MICT, while RHR (p = 0.66) and Δ[deoxy(Hb + Mb)]peak (p = 0.114)
+  were not. Pearson correlational analysis between Δ[deoxy(Hb + Mb)]peak and V̇O₂max
+  was significant pre- (r = 0.78, p textless 0.05), but not post-MICT (r = −0.11,
+  p textgreater 0.05). The significant improvement in V̇O₂max and HRmax, along with
+  POmax, would suggest that central, rather than peripheral adaptations, contributed
+  to V̇O₂max amelioration. Future studies involving a larger cohort, a physical exercise
+  intervention aligned with cardiovascular health guidelines, additional NIRS-derived
+  parameters to minimise variability related to exercise-induced blood flow, and CPET
+  familiarisation will be necessary to confirm or refute these preliminary findings.
+authors:
+- Matteo Fortunati
+- Renato Baptista
+- Venere Quintiero
+- Patrik Drid
+- Massimiliano Febbi
+- Stefano Ramat
+- Giulia Maria Stella
+- Giuseppe D’Antona
+- Oscar Crisafulli
+categories:
+- PortaMon
+date: '2025-10-29'
+doi: 10.1007/s11332-025-01574-9
+featured: false
+projects:
+- clinical-and-rehabilitation
+- sports-science
+publication: '*Sport Sciences for Health*'
+publication_types:
+- '2'
+publishDate: 2025-10-29 08:09:34.561712+00:00
+tags: []
+title: 'Adaptations in maximal oxygen consumption and lower-limb muscle oxygen extraction
+  capacity following 4 months of moderate-intensity training in Parkinson''s disease:
+  a pilot study'
+
+---
