@@ -1,0 +1,42 @@
+---
+abstract: 'Purpose: Nowadays, the number of people diagnosed with movement disorders
+  is increasing. Therefore, the evaluation of brain activity during motor task performance
+  has attracted the attention of researchers in recent years. Functional Near-Infrared
+  Spectroscopy (fNIRS) is a useful method that measures hemodynamic changes in the
+  brain cortex based on optical principles. The purpose of this study was to evaluate
+  the brain’s cortical activation in passive movement of the wrist. Materials and
+  Methods: In current study, the activation of the brain''s motor cortex during passive
+  movement of the right wrist was investigated. To perform this study, ten healthy
+  young right-handed volunteers were chosen. The required data were collected using
+  a commercial 48-channel continuous wave fNIRS machine, using two different wavelengths
+  of 765 and 855 nm at 10 Hz sampling rate. Results: Analysis of collected data showed
+  that the brain''s motor cortex during passive motion was significantly activated
+  (p≤0.05) compared to rest. Motor cortex activation patterns depending on passive
+  movement direction were separated. In different directions of wrist movement, the
+  maximum activation was recorded at the primary motor cortex (M1). Conclusion: The
+  present study has investigated the ability of fNIRS to evaluate cortical activation
+  during passive movement of the wrist. Analysis of recording signals showed that
+  different directions of movement have specific activation patterns in the motor
+  cortex.'
+authors:
+- Maziar Jalalvandi
+- Hamid Sharini
+- Yousof Naderi
+- Nader RiahiAlam
+categories:
+- OxyMon
+date: '2025-11-19'
+doi: 10.18502/fbt.v6i2.1691
+featured: false
+projects:
+- brain-computer-interfaces
+- brain-fnirs-motor-cortex
+publication: '*Frontiers in Biomedical Technologies*'
+publication_types:
+- '2'
+publishDate: 2025-11-19 08:15:13.929206+00:00
+tags: []
+title: Assessment of Brain Cortical Activation in Passive Movement During Wrist Task
+  Using Functional Near Infrared Spectroscopy (fNIRS)
+
+---

@@ -1,0 +1,38 @@
+---
+abstract: ypnotizability is associated with several physiological differences, including
+  functional equivalence between actual and imagined action. EEG studies also revealed
+  different information processing in these conditions in participants with high (highs)
+  and low (lows) hypnotizability scores; ideed, it is scarcely localized in highs
+  and specifically network-related in lows. The study aimed to confirm EEG findings
+  using near-infrared spectroscopy (NIRS). NIRS was applied to 10 highs and 9 lows,
+  classified according to Stanford Hypnotic Susceptibility Scale:A during actual (M)
+  and imagined (MI) sequential movements of left arm and hand. The ability to be deeply
+  absorbed in tasks and sensory imagination was preliminarily assessed by Tellegen
+  Absorption Scale (TAS) and Betts’ questionnaire, respectively.The results showed
+  task-related [OHb] increases in prefrontal areas only in lows, whereas the premotor
+  area exhibited greater [OHb] during tasks in both groups. Hypnotizability-related
+  differences were not observed in sensorimotor areas. TAS and Betts’ scores sustained
+  some of the observed changes. Correlational analysis between the areas [OHb] showed
+  that hypnotizability plays a greater role in MI than in M. NIRS findings support
+  the earlier EEG findings regarding the different information processing of highs
+  and lows by showing lower brain synaptic activity in highs during actual and imagined
+  movement.
+authors:
+- Eleonora Malloggi
+- Enrica Santarcangelo
+categories:
+- Brite
+date: '2025-11-19'
+doi: 10.22541/au.176174856.65907806/v1
+featured: false
+projects:
+- brain-fnirs-motor-cortex
+- brain-fnirs-prefrontal-cortex
+publication: ''
+publication_types:
+- '0'
+publishDate: 2025-11-19 08:15:13.935924+00:00
+tags: []
+title: Hypnotizability-related cerebral oxygenation during actual and imagined movements
+
+---
