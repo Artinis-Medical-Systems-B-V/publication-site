@@ -1,0 +1,47 @@
+---
+abstract: Introduction In healthcare education, Objective Structured Clinical Examinations
+  (OSCEs) are often utilised as a practical assessment tool and can cause marked elevations
+  in psychophysiological stress levels for students. Cognitive Appraisal Theory asserts
+  that individuals engage in evaluative processes to determine whether their available
+  coping resources are sufficient to meet the demands of a given situation. This study
+  examined the relationship between cognitive appraisals and psychophysiological responses,
+  as well as clinical performance, in final-year paramedicine students during simulated
+  high-stress OSCEs. Specifically, it investigated whether threat appraisals are associated
+  with distinct physiological stress markers and poorer clinical outcomes compared
+  to challenge appraisals.  Methods A total of twenty-six undergraduate paramedicine
+  students participated in the study, evaluated through cardiovascular indicators,
+  functional near-infrared spectroscopy (fNIRS) neuroimaging, clinical performance
+  evaluations, and stress and decision-making assessments.  Results The results revealed
+  that students who approached the simulated OSCE with a challenge-oriented mindset
+  demonstrated more regulated cardiovascular and cerebral stress responses and achieved
+  significantly higher scores on clinical performance measures. In contrast, those
+  exhibiting threat appraisals showed heightened physiological arousal, demonstrated
+  by significant increases in cortisol levels, whilst achieving lower clinical competence.  Conclusion
+  These findings suggest that the way students cognitively appraise high-pressure
+  clinical scenarios can meaningfully influence both their biological stress responses
+  and their ability to perform effectively. This study highlights the importance of
+  fostering challenge appraisals which may enhance students’ resilience under pressure
+  and ultimately improve patient care outcomes in real-world emergency settings.
+authors:
+- Jason Betson
+- Erich C. Fein
+- David Long
+- Peter Horrocks
+categories:
+- PortaLite
+date: '2025-12-05'
+doi: 10.1186/s12909-025-08365-3
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+- clinical-and-rehabilitation
+publication: '*BMC Medical Education*'
+publication_types:
+- '2'
+publishDate: 2025-12-05 07:43:46.625667+00:00
+tags: []
+title: Relationships between cognitive appraisals of threat and challenge, psychophysiological
+  responses, and clinical performance during high-stress simulated osces
+url_pdf: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-025-08365-3
+
+---
