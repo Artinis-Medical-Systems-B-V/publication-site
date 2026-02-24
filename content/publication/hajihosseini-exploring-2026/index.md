@@ -1,0 +1,46 @@
+---
+abstract: Using functional near-infrared spectroscopy (fNIRS) as a complementary and
+  cost-effective neuroimaging technique in sensorimotor tasks due to its applications
+  in brain-computer interface (BCI) research can provide useful information about
+  functional connectivity of brain networks. However, few studies on brain functional
+  connectivity during sensorimotor tasks have often focused on evaluating brain activity
+  electrically. In the present study, a signal processing algorithm using fNIRS-HbO2
+  data has been suggested to find active parts of the brain for motion and motor imagery
+  in motor imagery task. In this algorithm, first, the wavelet transform was used
+  to remove the noise and preprocess the signal. Then, using correlation analysis,
+  functional connectivity matrices in motion and motor imagery were extracted, and
+  finally, global efficiency ​​(GE) values were calculated. In addition to investigating
+  the conditions of the small-world network in the connectivity matrix, the classification
+  of motion and motor imagery was investigated using a t-test. For this purpose, a
+  20-channel fNIRS signal was recorded to measure changes in HbO2 concentration in
+  the motor cortex of 12 healthy individuals with a sampling frequency of 10 Hz. The
+  results, in addition to confirming the presence of a small-world network in the
+  graphs from the correlation matrix, showed that the classification of motion and
+  motor imagery of right and left hands will be significant when 40% of the strongest
+  connectivity between channels was selected. The results showed that in the left
+  hemisphere there was stronger connectivity between the channels. In general, the
+  results not only showed the activity of brain networks in performing sensorimotor
+  tasks as small-world networks, but they also reported the role of the dominant hemisphere
+  in performing these tasks.
+authors:
+- Mahsan Hajihosseini
+- Omid Asadi
+- Sima Shirzadi
+- Zahra Einalou
+- Mehrdad Dadgostar
+categories:
+- oxymon
+date: '2026-02-24'
+featured: false
+projects:
+- brain-fnirs-motor-cortex
+publication: '*Frontiers in Biomedical Technologies*'
+publication_types:
+- '2'
+publishDate: 2026-02-24 11:11:46.044315+00:00
+tags: []
+title: 'Exploring Brain Functional Connectivity in Hand Motion and Motor Imagery through
+  fNIRS Signals: A Graph Theory Approach'
+url_pdf: https://fbt.tums.ac.ir/index.php/fbt/article/view/606
+
+---
