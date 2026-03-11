@@ -1,0 +1,46 @@
+---
+abstract: While generative artificial intelligence (GenAI) has advanced personalized
+  interactive learning, the cognitive and neural mechanisms underlying learners’ informal
+  reasoning improvement remain underexplored. Thus, we conducted sliding-window correlation
+  and k-means clustering to capture learners’ dynamic functional connectivity (dFC)
+  states, time-varying correlations among brain regions, and examined their correlations
+  with the informal reasoning improvement. 78 participants completed a learning task
+  under either a traditional search engine-supported interactive learning mode (TSE
+  group) or a human-GenAI interactive learning mode (GenAI group). Functional near-infrared
+  spectroscopy (fNIRS) was employed to measure cortical hemodynamic responses from
+  the medial and dorsolateral prefrontal cortex and the right temporo-parietal regions.
+  The results showed that the two groups demonstrated no significant difference in
+  informal reasoning improvement. Moreover, both groups presented a series of dynamic
+  dFC states throughout the learning process, and the properties of these dFC states
+  were similar across groups. Nevertheless, the neural correlates underlying informal
+  reasoning improvement differed across groups. In the GenAI group, State 1, associated
+  with goal-directed sense-making processes, showed a significant positive correlation
+  with informal reasoning improvement. In contrast, in the TSE group, State 3, associated
+  with the retrieval and extraction of task-relevant information, was significantly
+  positively correlated with informal reasoning improvement. These findings deepen
+  our understanding of brain dynamics in learning and uncover shared and distinct
+  neural mechanisms that characterize the GenAI-supported and traditional search engine-supported
+  interactive learning modes.
+authors:
+- Liangliang Xia
+- Yan Dong
+- Wei-Peng Teo
+categories:
+- brite
+date: '2026-03-11'
+doi: 10.1016/j.neuroimage.2026.121796
+featured: false
+projects:
+- brain-fnirs-parietal-cortex
+- brain-fnirs-prefrontal-cortex
+- brain-fnirs-temporal-cortex
+publication: '*NeuroImage*'
+publication_types:
+- '2'
+publishDate: 2026-03-11 15:40:02.659433+00:00
+tags: []
+title: 'Cognitive and neural mechanisms of improving informal reasoning in human-GenAI
+  interactive learning contexts: An fNIRS study'
+url_pdf: https://www.sciencedirect.com/science/article/pii/S105381192600114X
+
+---
