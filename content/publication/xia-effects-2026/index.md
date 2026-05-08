@@ -1,0 +1,14 @@
+---
+title: "Effects of anthropomorphic features of generative artificial intelligence tools on learners’ role perceptions: evidence from interview and fNIRS"
+date: 2026-03-01
+publishDate: 2026-05-08T10:20:34.905962Z
+authors: ["Liangliang Xia", "Yan Dong", "Jessie Siew-Pin Leuk", "Wei-Peng Teo"]
+publication_types: ["2"]
+abstract: "While generative artificial intelligence (GenAI) is increasingly being designed for humanlike roles to facilitate learning, the extent to which learners perceive GenAI as a real human remains unclear. This study investigated the impact of anthropomorphic features of GenAI on learners’ role perceptions and their neural correlates. A 2 (task difficulty: low and high) ×3 (anthropomorphic features: control, low, and high) mixed design was conducted. 121 participants were assigned to the control group (CG), lowanthropomorphic GenAI group (LAG), and high-anthropomorphic GenAI group (HAG). The interview was employed to investigate subjective perceptions, while functional near-infrared spectroscopy (fNIRS) was used to measure neural activation of the prefrontal cortex (PFC) and right temporoparietal junction (r-TPJ). Interview results showed that 86% of HAG perceived GenAI as human-like roles, compared to 13.2% in LAG and 0% in CG. Moreover, the main effects of task difficulty and anthropomorphic features on neural activation were significant. The PFC activation was higher in the difficulty task than in the simple task. Neural activation in sub-regions of the r-TPJ was higher in HAG than in CG and LAG. These findings provide empirical insights into the potential for GenAI to fulfill human-like roles and illuminate the neural mechanisms underlying role perceptions."
+featured: false
+publication: "*Interactive Learning Environments*"
+tags: ["BF-P", "BF-PF", "BF-T", "brite"]
+url_pdf: "https://www.tandfonline.com/doi/full/10.1080/10494820.2026.2647984"
+doi: "10.1080/10494820.2026.2647984"
+---
+
