@@ -1,4 +1,4 @@
----
+---
 title: "Investigating bottlenose dolphin physiology using near-infrared spectroscopy"
 date: 2026-04-01
 publishDate: 2026-05-08T10:20:34.907969Z
@@ -9,5 +9,6 @@ featured: false
 publication: "*Journal of Experimental Biology*"
 url_pdf: "https://dx.doi.org/10.1242/jeb.251264"
 doi: "10.1242/jeb.251264"
----
 
+
+---
