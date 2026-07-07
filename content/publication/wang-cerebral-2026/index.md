@@ -1,0 +1,49 @@
+---
+abstract: Background Impaired cerebral perfusion during postural changes may contribute
+  to fall risk in older adults. This study used near-infrared spectroscopy (NIRS)
+  as a proxy for cerebral blood flow to investigate the association between cerebral
+  oxygenation responses during postural changes and falls in older adults.  Methods
+  We analyzed parameters of oxygenated hemoglobin (OxyHb), deoxygenated hemoglobin
+  (DeoxyHb), total hemoglobin (tHb), and tissue saturation index (TSI) during supine-to-stand
+  and sit-to-stand maneuvers in the PROHEALTH cohort of older adults ( n = 30; 23%
+  with positive falls history; mean age 74 ± 7 years). Associations with falls were
+  assessed using logistic regression.  Results Significant associations with falls
+  history were observed during the supine-to-stand maneuver, despite no significant
+  differences in orthostatic cardiovascular responses. After adjusting for age and
+  sex, lower OxyHb nadir-to-overshoot (OR = 5.20, 95% CI 1.06–25.57), lower TSI overshoot
+  (OR = 1.86, 95% CI 1.04–3.33), and lower TSI initial recovery amplitude (OR = 1.86,
+  95% CI 1.04–3.34), all within the first minute of standing, were significantly associated
+  with falls history. In addition, lower TSI steady-state values at 60–120 s after
+  standing (OR = 1.56, 95% CI 1.01–2.42) also showed a significant association. No
+  significant associations were observed for any of the parameters during the sit-to-stand
+  maneuver.  Conclusions Impaired OxyHb and TSI responses, particularly within the
+  first minute after standing and reduced TSI during sustained impaired recovery (60–120 s),
+  were associated with falls in older adults. Supine-to-stand testing outperformed
+  sit-to-stand testing in identifying cerebral oxygenation impairments. These findings
+  highlight the clinical potential of NIRS as a practical tool for identifying orthostatic
+  cerebral hypoperfusion-related fall risk. Further validation in larger, prospective
+  cohorts is needed.
+authors:
+- Liping Wang
+- Eveline P. Van Poelgeest
+- Marjolein Klop
+- Jurgen A. H. R. Claassen
+- Alfons G. Hoekstra
+- Nathalie Van Der Velde
+categories:
+- PortaLite
+date: '2026-07-07'
+doi: 10.1007/s41999-026-01538-3
+featured: false
+projects:
+- brain-fnirs-prefrontal-cortex
+- clinical-and-rehabilitation
+publication: '*European Geriatric Medicine*'
+publication_types:
+- '2'
+publishDate: 2026-07-07 13:12:24.005853+00:00
+tags: []
+title: Cerebral oxygenation response to postural change using continuous near-infrared
+  spectroscopy (NIRS) and its association with falls in older adults
+
+---

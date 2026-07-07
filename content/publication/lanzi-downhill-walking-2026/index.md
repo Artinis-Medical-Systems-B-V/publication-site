@@ -1,0 +1,46 @@
+---
+abstract: 'Introduction: Supervised exercise training (SET) is recommended as first-line
+  therapy for symptomatic peripheral artery disease (PAD), but pain and limited tolerance
+  often restrict the effective training dose. Eccentric exercise, such as downhill
+  walking, elicits lower metabolic and cardiovascular responses and may represent
+  a viable alternative to traditional walking. This case report describes the feasibility
+  and physiological and functional effects of a 12-week downhill-walking SET program
+  in a patient with symptomatic PAD.  Methods: A 61-year-old man with symptomatic
+  PAD completed a 12-week downhill-walking SET program performed at a preferred walking
+  speed with progressively increasing negative slopes (−4% to −14%). Pre- and post-SET
+  assessments included a graded treadmill test with near-infrared spectroscopy of
+  calf muscle oxygenation, a 6-minute walk test, and lower-limb functional performance
+  tests.  Results: Following SET, pain-free (+6%) and maximal (+29%) walking distances
+  improved. These changes were accompanied by reduced calf muscle oxygen desaturation
+  during exercise, an enhanced calf muscle oxygenation overshoot at exercise onset,
+  and faster postexercise reoxygenation. Lower-limb functional performance improved
+  (20−25%), and the time to pain relief after walking tests was reduced (–46%), yet
+  the 6-minute walking distance remained unchanged.  Conclusion: This case report
+  describes the implementation of a downhill-walking SET protocol in a patient with
+  symptomatic PAD. The intervention was feasible and was accompanied by changes in
+  walking performance, muscle oxygenation, and functional measures. These observations
+  highlight the potential of an eccentric-based walking approach and support further
+  investigation of this protocol in larger studies involving patients with PAD.'
+authors:
+- Stefano Lanzi
+- Anina Pousaz
+- Marco Fresa
+- Lucia Mazzolai
+- Davide Malatesta
+categories:
+- PortaMon
+date: '2026-07-07'
+doi: 10.1177/1358863X261445927
+featured: false
+projects:
+- clinical-and-rehabilitation
+- sports-science
+publication: '*Vascular Medicine*'
+publication_types:
+- '2'
+publishDate: 2026-07-07 13:12:23.998634+00:00
+tags: []
+title: 'Downhill-walking exercise training in a patient with symptomatic peripheral
+  artery disease: A case report'
+
+---

@@ -23,20 +23,20 @@ authors:
 - Darci Wiseman
 - Terence Moriarty
 categories:
-- octamon
-date: '2026-02-24'
+- OctaMon
+date: '2026-07-07'
 doi: 10.3390/sci8010007
 featured: false
 projects:
+- brain-fnirs-prefrontal-cortex
 - clinical-and-rehabilitation
-- sports-science
+- virtual-reality
 publication: '*Sci*'
 publication_types:
 - '2'
-publishDate: 2026-02-24 11:11:46.044315+00:00
+publishDate: 2026-07-07 13:12:24.016117+00:00
 tags: []
 title: 'Comparing the Cognitive and Physiological Effects of Traditional and Virtual
   Reality Exercise in Overweight/Obese Adults: A Pilot Study'
-url_pdf: https://www.mdpi.com/2413-4155/8/1/7
 
 ---
